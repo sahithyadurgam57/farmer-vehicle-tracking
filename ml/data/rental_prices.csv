@@ -1,0 +1,3001 @@
+vehicle_type,horsepower,location,crop,activity,duration_hours,season,demand,distance_km,price,month
+Cultivator,40,Eluru,Groundnut,Ploughing,2,Kharif,0.4,43.9,1290,6
+Harvester,60,Machilipatnam,Sugarcane,Harvesting,6,Rabi,0.71,41.8,10790,2
+Tractor,50,Machilipatnam,Paddy,Transplanting,4,Kharif,0.82,3.8,1940,6
+Tractor,45,Warangal,Cotton,Sowing,2,Kharif,0.72,35.2,1360,9
+Trailer,30,Eluru,Chilli,Transport,2,Rabi,0.63,33.8,1020,1
+Paddy Transplanter,20,Khammam,Paddy,Transplanting,6,Summer,0.75,6.7,3730,5
+Seed Drill,30,Kurnool,Groundnut,Sowing,2,Rabi,0.34,14.7,840,12
+Thresher,30,Warangal,Maize,Threshing,16,Rabi,0.71,7.1,10310,11
+Tractor,60,Warangal,Cotton,Sowing,8,Kharif,0.49,35.4,3600,10
+Tractor,35,Vijayawada,Cotton,Spraying,6,Rabi,0.72,25.9,2920,3
+Harvester,35,Machilipatnam,Sugarcane,Harvesting,8,Kharif,0.89,2.4,12570,7
+Trailer,40,Ongole,Chilli,Transport,2,Rabi,0.38,13.4,690,12
+Tiller,30,Vijayawada,Sugarcane,Tilling,10,Kharif,0.86,18.9,4490,7
+Seed Drill,20,Guntur,Maize,Sowing,10,Rabi,0.64,8.1,3770,2
+Harvester,50,Eluru,Paddy,Harvesting,6,Kharif,0.73,14.3,11120,9
+Sprayer,20,Vijayawada,Chilli,Spraying,6,Summer,0.62,31.8,2290,5
+Tractor,40,Narasaraopet,Turmeric,Transport,10,Kharif,0.58,13.0,3640,10
+Tractor,55,Vijayawada,Paddy,Transplanting,4,Kharif,0.83,26.5,2380,6
+Tractor,50,Guntur,Paddy,Transplanting,10,Kharif,0.79,28.6,5070,10
+Plough,30,Vijayawada,Groundnut,Ploughing,10,Kharif,0.99,15.5,3940,10
+Cultivator,40,Tenali,Paddy,Ploughing,4,Kharif,0.58,26.6,1640,8
+Tractor,75,Guntur,Cotton,Spraying,6,Rabi,0.61,4.6,3040,2
+Tractor,75,Eluru,Paddy,Transplanting,2,Kharif,0.37,12.7,1010,6
+Tractor,40,Khammam,Chilli,Spraying,2,Kharif,0.94,40.4,1450,6
+Tractor,55,Vijayawada,Maize,Sowing,2,Kharif,0.8,33.0,1500,8
+Seed Drill,40,Nellore,Cotton,Sowing,4,Rabi,0.38,25.4,1990,11
+Tractor,45,Warangal,Groundnut,Sowing,4,Rabi,0.62,23.7,1940,12
+Tractor,50,Tenali,Turmeric,Transport,2,Rabi,0.33,44.7,1350,2
+Cultivator,40,Khammam,Wheat,Ploughing,2,Rabi,0.79,35.0,1150,3
+Sprayer,40,Khammam,Cotton,Spraying,10,Rabi,0.58,42.2,3450,2
+Tractor,40,Warangal,Paddy,Ploughing,10,Rabi,0.81,39.5,4760,11
+Tiller,20,Hyderabad,Chilli,Tilling,16,Kharif,0.75,7.3,6690,10
+Rotavator,40,Vijayawada,Chilli,Tilling,16,Rabi,0.54,31.5,7790,1
+Plough,20,Khammam,Cotton,Ploughing,10,Kharif,0.51,6.8,2630,10
+Trailer,30,Eluru,Cotton,Transport,4,Kharif,0.72,41.7,1810,7
+Tractor,60,Vijayawada,Sugarcane,Transport,2,Kharif,0.77,19.4,1470,8
+Cultivator,40,Hyderabad,Paddy,Tilling,6,Kharif,0.64,1.8,2690,9
+Paddy Transplanter,40,Warangal,Paddy,Transplanting,6,Summer,0.52,27.7,4280,4
+Rotavator,20,Hyderabad,Chilli,Tilling,8,Kharif,0.43,21.0,4670,6
+Seed Drill,40,Kurnool,Turmeric,Sowing,16,Rabi,0.34,27.2,5580,11
+Tractor,75,Narasaraopet,Sugarcane,Ploughing,2,Summer,0.69,8.3,870,4
+Sprayer,20,Vijayawada,Cotton,Spraying,10,Kharif,0.79,3.3,3870,7
+Plough,40,Warangal,Sugarcane,Ploughing,4,Summer,0.56,39.5,1580,5
+Sprayer,20,Tenali,Cotton,Spraying,4,Rabi,0.83,19.3,1600,11
+Rotavator,40,Hyderabad,Chilli,Tilling,2,Kharif,0.96,3.3,1480,7
+Combine Harvester,75,Khammam,Wheat,Harvesting,4,Kharif,0.67,35.3,12230,10
+Tractor,60,Kurnool,Turmeric,Transport,8,Rabi,0.58,38.7,2900,2
+Thresher,20,Kurnool,Maize,Threshing,4,Kharif,0.68,22.0,2800,8
+Sprayer,30,Ongole,Cotton,Spraying,10,Kharif,0.74,31.2,3680,7
+Tractor,60,Kurnool,Turmeric,Sowing,6,Rabi,0.76,24.6,3020,11
+Tractor,50,Tenali,Paddy,Transplanting,8,Kharif,0.76,13.7,3660,10
+Tractor,75,Kurnool,Groundnut,Ploughing,16,Kharif,0.96,5.2,7910,7
+Cultivator,40,Machilipatnam,Paddy,Tilling,2,Rabi,0.34,36.2,1170,12
+Tractor,75,Hyderabad,Paddy,Transplanting,16,Kharif,0.76,27.0,8640,10
+Tractor,50,Tenali,Cotton,Spraying,2,Rabi,0.14,24.0,1000,2
+Tractor,40,Machilipatnam,Chilli,Spraying,8,Kharif,0.64,6.3,2850,6
+Combine Harvester,45,Nellore,Groundnut,Harvesting,16,Kharif,0.9,15.7,41020,9
+Thresher,20,Warangal,Wheat,Threshing,10,Kharif,0.72,7.9,6570,8
+Seed Drill,40,Machilipatnam,Turmeric,Sowing,6,Kharif,1.0,25.3,3220,6
+Tractor,45,Eluru,Wheat,Sowing,8,Rabi,0.7,42.9,3760,2
+Trailer,20,Khammam,Turmeric,Transport,2,Kharif,1.0,31.2,1060,8
+Plough,20,Warangal,Sugarcane,Ploughing,16,Kharif,0.61,14.3,4860,6
+Tractor,35,Warangal,Paddy,Transplanting,6,Kharif,0.76,13.5,2860,7
+Trailer,20,Nellore,Cotton,Transport,8,Rabi,0.57,5.0,1890,12
+Thresher,30,Tenali,Paddy,Threshing,2,Rabi,0.59,9.7,1350,3
+Tractor,35,Guntur,Turmeric,Sowing,2,Rabi,0.19,36.3,1080,1
+Tractor,55,Tenali,Wheat,Ploughing,10,Rabi,0.5,35.0,4290,1
+Thresher,30,Eluru,Wheat,Threshing,4,Rabi,0.79,28.7,3030,1
+Paddy Transplanter,20,Warangal,Paddy,Transplanting,4,Kharif,0.69,32.2,3940,9
+Harvester,55,Guntur,Groundnut,Harvesting,2,Rabi,0.53,32.2,3870,1
+Plough,30,Warangal,Paddy,Ploughing,16,Rabi,0.43,35.5,4610,3
+Thresher,20,Eluru,Maize,Threshing,16,Rabi,0.49,26.4,9580,2
+Tractor,40,Hyderabad,Groundnut,Sowing,6,Rabi,0.61,21.9,3340,2
+Tractor,35,Hyderabad,Cotton,Spraying,4,Summer,0.4,27.9,1820,4
+Trailer,20,Ongole,Cotton,Transport,16,Rabi,0.35,2.6,3320,11
+Sprayer,20,Vijayawada,Cotton,Spraying,8,Rabi,0.61,31.9,3030,3
+Tractor,60,Narasaraopet,Chilli,Spraying,6,Rabi,0.34,28.5,2930,3
+Tractor,50,Warangal,Chilli,Spraying,16,Kharif,0.85,23.2,7280,9
+Tractor,60,Narasaraopet,Maize,Sowing,6,Kharif,0.86,4.2,3040,7
+Tractor,40,Guntur,Paddy,Transplanting,8,Rabi,0.49,14.8,2710,1
+Tractor,55,Eluru,Cotton,Sowing,16,Kharif,1.0,7.8,7330,10
+Combine Harvester,75,Ongole,Groundnut,Harvesting,2,Kharif,0.83,14.7,6420,7
+Trailer,40,Warangal,Sugarcane,Transport,8,Summer,0.53,10.2,2010,5
+Paddy Transplanter,30,Kurnool,Paddy,Transplanting,16,Rabi,0.84,25.5,10730,2
+Thresher,30,Nellore,Wheat,Threshing,6,Rabi,0.47,4.5,3480,2
+Plough,20,Eluru,Maize,Ploughing,4,Rabi,0.47,3.0,1050,12
+Rotavator,40,Tenali,Chilli,Tilling,8,Kharif,0.32,4.7,3220,6
+Thresher,30,Khammam,Wheat,Threshing,8,Kharif,0.7,34.6,5540,8
+Combine Harvester,45,Machilipatnam,Sugarcane,Harvesting,16,Rabi,0.65,34.8,40460,11
+Thresher,40,Machilipatnam,Maize,Threshing,4,Kharif,0.56,16.0,2810,6
+Sprayer,30,Hyderabad,Cotton,Spraying,8,Rabi,0.41,15.9,3040,12
+Seed Drill,30,Hyderabad,Wheat,Sowing,6,Kharif,0.49,1.3,2940,9
+Seed Drill,40,Machilipatnam,Wheat,Sowing,16,Kharif,0.99,22.0,7560,8
+Harvester,75,Kurnool,Groundnut,Harvesting,8,Summer,0.36,6.0,10530,4
+Thresher,30,Eluru,Wheat,Threshing,16,Kharif,1.0,44.3,12400,8
+Harvester,55,Hyderabad,Sugarcane,Harvesting,6,Kharif,0.45,2.8,11390,9
+Trailer,30,Hyderabad,Turmeric,Transport,4,Rabi,0.64,35.9,1920,11
+Trailer,20,Machilipatnam,Sugarcane,Transport,16,Kharif,0.89,2.6,4120,10
+Trailer,40,Vijayawada,Chilli,Transport,10,Rabi,0.63,39.1,3250,12
+Combine Harvester,75,Ongole,Wheat,Harvesting,4,Rabi,0.81,38.8,11870,1
+Tractor,35,Kurnool,Chilli,Transport,10,Kharif,0.68,30.6,3720,7
+Paddy Transplanter,30,Khammam,Paddy,Transplanting,10,Kharif,0.68,27.0,7480,7
+Thresher,40,Narasaraopet,Paddy,Threshing,16,Kharif,0.85,16.0,10360,7
+Tiller,30,Machilipatnam,Turmeric,Tilling,4,Rabi,0.49,7.0,1450,12
+Tractor,55,Kurnool,Turmeric,Tilling,2,Kharif,0.68,22.9,1130,9
+Paddy Transplanter,20,Ongole,Paddy,Transplanting,6,Rabi,0.61,20.9,4370,1
+Tractor,75,Eluru,Chilli,Tilling,16,Kharif,0.75,24.8,7640,6
+Tractor,45,Tenali,Maize,Sowing,16,Kharif,0.66,33.7,6960,7
+Tractor,60,Guntur,Sugarcane,Transport,4,Summer,0.7,7.8,1850,4
+Plough,40,Warangal,Cotton,Ploughing,8,Kharif,0.86,44.8,3240,8
+Paddy Transplanter,40,Warangal,Paddy,Transplanting,4,Kharif,0.66,25.7,4070,9
+Thresher,40,Nellore,Maize,Threshing,10,Summer,0.51,2.6,4310,4
+Tractor,35,Narasaraopet,Cotton,Spraying,4,Rabi,0.38,21.0,1620,1
+Thresher,40,Guntur,Paddy,Threshing,2,Rabi,0.54,3.7,1300,1
+Paddy Transplanter,30,Hyderabad,Paddy,Transplanting,6,Summer,0.67,1.1,4840,4
+Tractor,35,Vijayawada,Paddy,Transplanting,8,Rabi,0.33,15.7,3080,1
+Tractor,40,Khammam,Cotton,Spraying,4,Kharif,0.34,22.1,1670,7
+Seed Drill,20,Kurnool,Maize,Sowing,16,Summer,0.34,21.3,4520,4
+Rotavator,20,Guntur,Sugarcane,Tilling,2,Summer,0.58,9.3,970,4
+Trailer,30,Kurnool,Cotton,Transport,4,Kharif,0.96,27.0,1450,8
+Paddy Transplanter,30,Narasaraopet,Paddy,Transplanting,8,Rabi,0.64,35.0,5580,11
+Seed Drill,30,Hyderabad,Maize,Sowing,16,Kharif,1.0,16.9,8300,7
+Sprayer,20,Machilipatnam,Cotton,Spraying,8,Kharif,0.97,19.2,3210,10
+Thresher,40,Khammam,Paddy,Threshing,6,Rabi,0.57,8.3,3650,1
+Thresher,40,Narasaraopet,Wheat,Threshing,4,Kharif,0.8,27.1,3310,9
+Thresher,20,Kurnool,Paddy,Threshing,4,Kharif,0.76,44.6,3130,9
+Trailer,30,Hyderabad,Sugarcane,Transport,6,Kharif,0.79,39.7,2730,7
+Rotavator,40,Tenali,Sugarcane,Tilling,2,Summer,0.32,14.0,990,4
+Tractor,55,Guntur,Cotton,Transport,2,Rabi,0.73,12.2,1000,1
+Rotavator,40,Machilipatnam,Sugarcane,Tilling,10,Summer,0.78,25.9,4500,5
+Harvester,50,Eluru,Paddy,Harvesting,16,Rabi,0.45,23.9,22450,12
+Cultivator,30,Warangal,Paddy,Ploughing,6,Rabi,0.59,7.6,1920,11
+Seed Drill,40,Tenali,Wheat,Sowing,16,Rabi,0.34,21.7,5270,12
+Tractor,45,Nellore,Turmeric,Transport,8,Summer,0.77,33.2,3050,5
+Tractor,75,Vijayawada,Chilli,Transport,10,Kharif,0.59,5.4,5150,10
+Thresher,20,Kurnool,Maize,Threshing,4,Kharif,0.76,32.6,2950,6
+Tractor,45,Nellore,Chilli,Transport,8,Summer,0.7,19.0,2860,4
+Tractor,40,Eluru,Chilli,Spraying,6,Rabi,0.6,6.8,2490,1
+Paddy Transplanter,30,Kurnool,Paddy,Transplanting,2,Rabi,0.37,5.4,1310,1
+Tractor,50,Ongole,Turmeric,Transport,4,Summer,0.31,24.0,1480,4
+Paddy Transplanter,20,Vijayawada,Paddy,Transplanting,6,Rabi,0.68,29.7,4730,1
+Trailer,20,Narasaraopet,Cotton,Transport,4,Rabi,0.54,40.7,1640,2
+Thresher,40,Hyderabad,Maize,Threshing,8,Summer,0.6,14.4,5080,5
+Plough,40,Warangal,Paddy,Ploughing,8,Rabi,0.45,8.3,2300,11
+Paddy Transplanter,30,Vijayawada,Paddy,Transplanting,8,Rabi,0.39,14.0,5290,11
+Thresher,20,Vijayawada,Maize,Threshing,10,Kharif,1.0,42.4,8940,10
+Tractor,40,Vijayawada,Sugarcane,Tilling,4,Summer,0.41,19.2,1700,5
+Thresher,40,Tenali,Paddy,Threshing,2,Rabi,0.81,24.4,1870,11
+Thresher,20,Tenali,Paddy,Threshing,2,Summer,0.57,35.2,1520,4
+Trailer,30,Eluru,Chilli,Transport,8,Kharif,0.71,6.8,2380,7
+Tractor,75,Eluru,Paddy,Tilling,2,Rabi,0.66,10.1,1050,11
+Tractor,40,Ongole,Paddy,Tilling,16,Rabi,0.71,27.8,6340,2
+Trailer,20,Machilipatnam,Sugarcane,Transport,16,Kharif,0.82,33.6,4420,8
+Tractor,55,Warangal,Cotton,Transport,6,Rabi,0.42,16.1,2500,12
+Harvester,60,Warangal,Paddy,Harvesting,10,Kharif,0.77,20.3,17910,8
+Tractor,40,Machilipatnam,Paddy,Tilling,4,Rabi,0.42,21.2,1710,12
+Paddy Transplanter,30,Warangal,Paddy,Transplanting,6,Kharif,0.86,15.0,5210,8
+Combine Harvester,55,Nellore,Maize,Harvesting,2,Kharif,0.83,16.1,5870,8
+Paddy Transplanter,40,Kurnool,Paddy,Transplanting,8,Rabi,0.3,40.3,5110,12
+Cultivator,30,Tenali,Groundnut,Ploughing,16,Summer,0.87,33.5,4880,4
+Tractor,50,Kurnool,Cotton,Transport,10,Kharif,0.9,29.5,4260,8
+Tractor,40,Eluru,Chilli,Transport,2,Kharif,0.81,30.4,1300,6
+Harvester,45,Guntur,Maize,Harvesting,10,Rabi,0.46,38.9,13770,11
+Tractor,75,Tenali,Sugarcane,Tilling,4,Rabi,0.49,13.5,1890,2
+Tractor,50,Tenali,Sugarcane,Transport,8,Rabi,0.48,27.8,3190,12
+Combine Harvester,60,Guntur,Sugarcane,Harvesting,16,Summer,0.59,31.2,35530,4
+Sprayer,30,Khammam,Chilli,Spraying,6,Rabi,0.7,38.6,2450,12
+Tractor,50,Machilipatnam,Paddy,Transplanting,6,Kharif,0.61,11.7,2610,9
+Harvester,75,Narasaraopet,Wheat,Harvesting,16,Rabi,0.33,34.6,23190,11
+Plough,20,Eluru,Groundnut,Ploughing,8,Kharif,0.82,12.3,2680,9
+Combine Harvester,55,Narasaraopet,Groundnut,Harvesting,10,Rabi,0.75,8.4,24220,3
+Plough,40,Warangal,Maize,Ploughing,4,Rabi,0.51,6.1,1290,2
+Tiller,40,Narasaraopet,Turmeric,Tilling,2,Rabi,0.79,28.3,1110,3
+Tractor,35,Guntur,Wheat,Sowing,8,Rabi,0.56,39.9,3280,12
+Thresher,40,Vijayawada,Maize,Threshing,8,Kharif,0.7,25.3,6270,9
+Tiller,20,Warangal,Sugarcane,Tilling,16,Kharif,0.97,5.2,6290,8
+Cultivator,30,Narasaraopet,Cotton,Ploughing,4,Summer,0.66,30.6,1440,4
+Paddy Transplanter,40,Warangal,Paddy,Transplanting,16,Kharif,0.98,15.1,15340,9
+Thresher,30,Warangal,Wheat,Threshing,4,Rabi,0.57,39.7,3280,3
+Trailer,20,Narasaraopet,Cotton,Transport,2,Kharif,0.83,1.0,580,7
+Thresher,30,Vijayawada,Wheat,Threshing,8,Rabi,0.87,8.4,5680,1
+Cultivator,30,Warangal,Cotton,Ploughing,6,Kharif,1.0,18.4,2790,7
+Thresher,40,Narasaraopet,Maize,Threshing,4,Summer,0.55,21.4,2210,4
+Sprayer,30,Nellore,Cotton,Spraying,10,Rabi,0.67,4.8,3000,3
+Rotavator,30,Warangal,Paddy,Tilling,10,Rabi,0.6,29.8,5040,1
+Tractor,75,Tenali,Chilli,Transport,16,Rabi,0.11,9.5,5060,11
+Tractor,40,Hyderabad,Paddy,Transplanting,10,Summer,0.37,25.2,4140,4
+Tractor,35,Guntur,Groundnut,Sowing,16,Kharif,0.41,12.4,5490,7
+Sprayer,30,Vijayawada,Chilli,Spraying,8,Kharif,0.78,12.9,3360,10
+Tiller,40,Machilipatnam,Chilli,Tilling,16,Kharif,0.75,10.3,5930,8
+Cultivator,40,Warangal,Groundnut,Ploughing,16,Rabi,0.83,21.9,5600,3
+Paddy Transplanter,30,Ongole,Paddy,Transplanting,8,Rabi,0.33,30.9,5450,3
+Trailer,30,Tenali,Chilli,Transport,8,Rabi,0.53,38.9,2410,2
+Tiller,30,Tenali,Chilli,Tilling,6,Rabi,0.6,27.9,2400,1
+Thresher,40,Guntur,Wheat,Threshing,2,Rabi,0.3,6.1,1140,12
+Paddy Transplanter,40,Tenali,Paddy,Transplanting,10,Rabi,0.78,24.1,8120,11
+Paddy Transplanter,20,Tenali,Paddy,Transplanting,4,Summer,0.45,26.4,2760,5
+Trailer,30,Hyderabad,Turmeric,Transport,8,Summer,0.14,17.8,2000,4
+Tractor,35,Nellore,Paddy,Transplanting,8,Kharif,0.86,5.5,3320,6
+Seed Drill,40,Machilipatnam,Groundnut,Sowing,6,Summer,0.74,28.9,2610,5
+Thresher,40,Kurnool,Wheat,Threshing,4,Summer,0.72,26.0,2480,5
+Tractor,45,Machilipatnam,Maize,Sowing,16,Summer,0.54,5.2,4810,5
+Tractor,75,Hyderabad,Wheat,Sowing,4,Summer,0.47,34.2,2190,5
+Tractor,55,Hyderabad,Chilli,Spraying,2,Rabi,0.83,42.6,1600,3
+Combine Harvester,75,Hyderabad,Wheat,Harvesting,2,Kharif,0.64,30.9,7590,7
+Tractor,60,Kurnool,Maize,Ploughing,4,Rabi,0.69,1.2,1620,2
+Tractor,75,Narasaraopet,Paddy,Transplanting,16,Rabi,0.7,12.9,6530,11
+Seed Drill,20,Vijayawada,Wheat,Sowing,8,Kharif,0.9,43.4,4150,6
+Thresher,40,Hyderabad,Paddy,Threshing,16,Kharif,0.37,36.7,12100,8
+Cultivator,30,Hyderabad,Sugarcane,Tilling,16,Kharif,0.25,19.4,5040,9
+Tractor,60,Warangal,Paddy,Transplanting,2,Rabi,0.65,39.5,1400,3
+Tractor,50,Machilipatnam,Groundnut,Sowing,10,Kharif,0.61,30.4,4290,6
+Thresher,30,Vijayawada,Maize,Threshing,6,Rabi,0.6,10.4,4310,1
+Sprayer,20,Ongole,Cotton,Spraying,8,Rabi,0.6,36.6,3020,3
+Trailer,40,Machilipatnam,Cotton,Transport,16,Kharif,0.71,19.9,4960,8
+Seed Drill,40,Machilipatnam,Maize,Sowing,6,Summer,0.61,32.1,2730,5
+Tractor,45,Ongole,Turmeric,Transport,16,Rabi,0.32,6.2,5180,1
+Cultivator,30,Vijayawada,Wheat,Ploughing,2,Kharif,0.68,18.5,1000,9
+Tractor,45,Tenali,Cotton,Transport,4,Rabi,0.48,13.6,1580,12
+Rotavator,40,Khammam,Sugarcane,Tilling,8,Rabi,0.7,38.1,3850,2
+Thresher,40,Vijayawada,Maize,Threshing,4,Rabi,0.58,40.6,3710,12
+Sprayer,30,Warangal,Chilli,Spraying,6,Kharif,0.72,16.9,2550,6
+Tractor,60,Guntur,Sugarcane,Ploughing,10,Kharif,0.63,27.9,4480,7
+Paddy Transplanter,20,Vijayawada,Paddy,Transplanting,4,Rabi,0.66,23.7,3610,11
+Tractor,50,Guntur,Turmeric,Transport,2,Rabi,0.51,3.8,820,3
+Cultivator,30,Khammam,Chilli,Tilling,8,Summer,0.64,36.2,2800,4
+Harvester,35,Nellore,Wheat,Harvesting,6,Rabi,0.4,10.9,8410,12
+Tractor,60,Ongole,Chilli,Spraying,2,Summer,0.62,15.1,920,4
+Sprayer,40,Vijayawada,Chilli,Spraying,4,Kharif,0.87,8.4,1910,6
+Thresher,30,Warangal,Paddy,Threshing,6,Rabi,0.59,23.4,4100,2
+Tractor,50,Eluru,Cotton,Sowing,16,Kharif,0.81,27.1,7830,7
+Tractor,35,Nellore,Paddy,Transplanting,8,Kharif,1.0,40.5,3640,8
+Tractor,60,Warangal,Cotton,Transport,8,Kharif,0.68,19.8,3690,10
+Tractor,45,Nellore,Turmeric,Tilling,6,Summer,0.72,43.3,2520,4
+Harvester,45,Nellore,Groundnut,Harvesting,8,Kharif,0.52,21.2,10700,10
+Tractor,40,Vijayawada,Cotton,Spraying,6,Summer,0.14,40.4,2400,5
+Harvester,60,Vijayawada,Paddy,Harvesting,2,Rabi,0.86,13.8,4330,12
+Tractor,55,Warangal,Sugarcane,Tilling,16,Rabi,0.71,22.0,6790,3
+Tiller,30,Tenali,Chilli,Tilling,2,Summer,0.44,32.0,1000,4
+Paddy Transplanter,30,Tenali,Paddy,Transplanting,10,Kharif,0.88,20.7,7960,10
+Seed Drill,20,Ongole,Maize,Sowing,4,Rabi,0.64,11.6,1640,3
+Paddy Transplanter,20,Narasaraopet,Paddy,Transplanting,6,Rabi,0.65,14.3,3950,3
+Tractor,35,Machilipatnam,Paddy,Tilling,16,Kharif,0.99,29.3,6350,10
+Tractor,75,Nellore,Cotton,Spraying,10,Kharif,0.67,21.3,4730,6
+Tractor,50,Machilipatnam,Cotton,Transport,6,Kharif,0.85,26.0,3260,6
+Harvester,40,Vijayawada,Wheat,Harvesting,4,Kharif,0.45,44.8,8020,9
+Thresher,20,Khammam,Paddy,Threshing,2,Rabi,0.53,27.7,1510,2
+Paddy Transplanter,30,Ongole,Paddy,Transplanting,8,Rabi,0.62,9.6,5140,12
+Tractor,35,Warangal,Turmeric,Sowing,16,Summer,0.44,9.4,4980,5
+Tractor,75,Narasaraopet,Turmeric,Tilling,10,Rabi,0.4,36.8,3960,12
+Tractor,50,Ongole,Chilli,Tilling,4,Rabi,0.68,20.0,1850,12
+Thresher,30,Nellore,Wheat,Threshing,6,Kharif,0.49,10.4,3800,10
+Tractor,35,Hyderabad,Cotton,Spraying,4,Rabi,0.52,36.6,2150,11
+Rotavator,20,Ongole,Chilli,Tilling,6,Kharif,0.92,9.6,3140,9
+Paddy Transplanter,30,Kurnool,Paddy,Transplanting,8,Rabi,0.42,44.3,5400,11
+Combine Harvester,40,Hyderabad,Maize,Harvesting,16,Rabi,0.54,5.3,43510,1
+Combine Harvester,45,Tenali,Maize,Harvesting,6,Rabi,0.64,36.0,15210,3
+Tractor,40,Narasaraopet,Chilli,Spraying,2,Kharif,0.76,42.5,1480,8
+Tractor,55,Ongole,Maize,Sowing,6,Rabi,0.41,8.1,2280,11
+Tractor,45,Vijayawada,Paddy,Transplanting,16,Rabi,0.75,38.3,7840,3
+Sprayer,20,Khammam,Chilli,Spraying,2,Kharif,0.78,6.6,820,7
+Sprayer,40,Vijayawada,Chilli,Spraying,6,Kharif,0.75,24.2,2740,9
+Cultivator,20,Kurnool,Paddy,Ploughing,6,Kharif,0.48,23.1,2010,8
+Plough,40,Khammam,Groundnut,Ploughing,10,Summer,0.46,11.9,2510,5
+Tractor,40,Machilipatnam,Maize,Sowing,6,Kharif,0.43,32.8,2740,10
+Thresher,30,Hyderabad,Paddy,Threshing,6,Summer,0.87,44.4,4740,5
+Harvester,35,Nellore,Groundnut,Harvesting,4,Rabi,0.42,17.8,5100,11
+Tractor,40,Warangal,Paddy,Transplanting,10,Summer,0.26,27.7,3210,4
+Tractor,40,Guntur,Turmeric,Transport,16,Kharif,0.65,22.8,6390,6
+Combine Harvester,60,Warangal,Maize,Harvesting,2,Rabi,0.52,42.6,5630,11
+Tractor,75,Narasaraopet,Groundnut,Sowing,4,Kharif,0.78,10.5,2130,7
+Combine Harvester,60,Warangal,Sugarcane,Harvesting,4,Rabi,0.59,43.2,10950,3
+Plough,30,Kurnool,Maize,Ploughing,2,Rabi,0.47,29.2,970,12
+Paddy Transplanter,40,Khammam,Paddy,Transplanting,2,Rabi,0.67,7.2,1550,11
+Seed Drill,40,Kurnool,Turmeric,Sowing,4,Rabi,0.66,10.3,1800,12
+Rotavator,40,Guntur,Chilli,Tilling,2,Rabi,0.57,37.4,1480,1
+Tractor,45,Guntur,Sugarcane,Ploughing,16,Kharif,0.74,24.0,6460,8
+Paddy Transplanter,20,Kurnool,Paddy,Transplanting,6,Summer,0.52,36.0,3830,5
+Paddy Transplanter,40,Warangal,Paddy,Transplanting,16,Rabi,0.31,31.2,10360,3
+Trailer,20,Warangal,Turmeric,Transport,10,Rabi,0.41,41.0,2770,3
+Tractor,45,Tenali,Sugarcane,Tilling,8,Summer,0.86,27.9,2970,4
+Trailer,40,Kurnool,Chilli,Transport,8,Kharif,0.56,20.7,2300,8
+Combine Harvester,45,Hyderabad,Paddy,Harvesting,6,Rabi,1.0,11.4,19770,3
+Tractor,75,Guntur,Paddy,Transplanting,6,Kharif,1.0,28.3,3740,10
+Trailer,30,Machilipatnam,Turmeric,Transport,16,Kharif,0.9,23.7,4400,8
+Harvester,50,Ongole,Wheat,Harvesting,6,Kharif,0.95,20.8,11440,6
+Paddy Transplanter,30,Vijayawada,Paddy,Transplanting,2,Rabi,0.6,34.8,1920,2
+Combine Harvester,40,Machilipatnam,Maize,Harvesting,2,Rabi,0.47,28.6,5020,12
+Trailer,20,Narasaraopet,Sugarcane,Transport,10,Summer,0.2,40.9,2330,5
+Tractor,75,Khammam,Chilli,Tilling,10,Summer,0.6,12.0,3630,5
+Cultivator,20,Warangal,Sugarcane,Tilling,16,Rabi,0.64,29.1,4490,12
+Tractor,45,Narasaraopet,Paddy,Transplanting,8,Rabi,0.39,14.3,2910,3
+Tractor,75,Hyderabad,Chilli,Tilling,8,Rabi,0.56,15.1,4040,12
+Thresher,30,Machilipatnam,Paddy,Threshing,8,Rabi,0.5,34.0,4660,3
+Combine Harvester,50,Machilipatnam,Maize,Harvesting,4,Rabi,0.28,20.6,8080,2
+Cultivator,20,Machilipatnam,Wheat,Ploughing,16,Rabi,0.43,29.9,4450,3
+Tractor,75,Guntur,Cotton,Sowing,8,Rabi,0.52,38.3,3810,1
+Tractor,50,Eluru,Cotton,Spraying,6,Kharif,0.93,40.3,3530,9
+Plough,30,Nellore,Cotton,Ploughing,8,Rabi,0.59,9.9,2110,11
+Cultivator,40,Nellore,Paddy,Tilling,16,Rabi,0.68,22.0,5360,12
+Tractor,35,Tenali,Paddy,Transplanting,2,Kharif,0.67,1.8,760,9
+Tractor,55,Tenali,Wheat,Sowing,10,Kharif,0.47,32.3,4440,8
+Thresher,40,Nellore,Maize,Threshing,4,Kharif,0.7,10.8,2670,8
+Tiller,40,Tenali,Paddy,Tilling,8,Rabi,0.74,41.9,3350,2
+Trailer,30,Machilipatnam,Turmeric,Transport,2,Rabi,0.58,43.7,1170,12
+Tractor,35,Machilipatnam,Paddy,Tilling,2,Kharif,0.96,28.0,1250,10
+Thresher,20,Machilipatnam,Maize,Threshing,8,Kharif,0.55,33.1,4560,7
+Harvester,50,Kurnool,Groundnut,Harvesting,4,Kharif,0.65,33.3,7140,7
+Trailer,30,Tenali,Chilli,Transport,8,Kharif,0.98,10.5,2780,9
+Tractor,60,Tenali,Chilli,Transport,4,Rabi,0.41,41.8,2130,11
+Cultivator,20,Hyderabad,Groundnut,Ploughing,6,Kharif,0.61,15.9,2400,7
+Plough,20,Warangal,Maize,Ploughing,4,Kharif,0.43,38.2,1710,10
+Tractor,75,Eluru,Cotton,Sowing,4,Kharif,0.64,39.9,2420,10
+Combine Harvester,40,Narasaraopet,Paddy,Harvesting,10,Rabi,0.64,13.6,21950,2
+Tiller,30,Ongole,Sugarcane,Tilling,4,Kharif,0.77,28.0,1760,7
+Seed Drill,30,Warangal,Wheat,Sowing,2,Rabi,0.83,21.1,1190,2
+Thresher,40,Guntur,Wheat,Threshing,8,Summer,0.41,2.0,4100,5
+Thresher,40,Khammam,Maize,Threshing,2,Kharif,0.82,42.5,2090,6
+Tractor,40,Warangal,Cotton,Transport,10,Rabi,0.53,41.9,4570,11
+Thresher,30,Guntur,Wheat,Threshing,16,Summer,0.6,15.8,9010,5
+Sprayer,20,Guntur,Cotton,Spraying,16,Kharif,0.86,22.1,6520,6
+Seed Drill,20,Vijayawada,Cotton,Sowing,10,Rabi,0.58,23.2,4050,3
+Tractor,60,Guntur,Chilli,Transport,8,Rabi,0.41,12.4,3070,12
+Harvester,40,Eluru,Paddy,Harvesting,6,Rabi,0.59,24.4,10350,2
+Thresher,20,Tenali,Paddy,Threshing,4,Kharif,0.77,9.8,2790,9
+Plough,30,Machilipatnam,Cotton,Ploughing,4,Kharif,0.92,16.3,1760,9
+Paddy Transplanter,20,Nellore,Paddy,Transplanting,16,Summer,0.67,10.4,8960,5
+Paddy Transplanter,30,Kurnool,Paddy,Transplanting,6,Rabi,0.76,11.5,4550,1
+Tractor,55,Hyderabad,Turmeric,Sowing,2,Rabi,0.35,44.7,1630,3
+Harvester,60,Vijayawada,Paddy,Harvesting,8,Kharif,0.72,28.0,15400,7
+Cultivator,20,Narasaraopet,Groundnut,Ploughing,16,Summer,0.19,13.1,3420,4
+Tractor,45,Khammam,Cotton,Ploughing,6,Summer,0.16,15.4,1930,5
+Sprayer,40,Tenali,Cotton,Spraying,8,Summer,0.69,23.2,2580,4
+Tractor,35,Guntur,Chilli,Transport,10,Kharif,0.86,40.4,4900,10
+Cultivator,20,Warangal,Sugarcane,Ploughing,2,Kharif,0.42,44.7,1260,10
+Trailer,20,Narasaraopet,Cotton,Transport,2,Kharif,0.7,36.2,1140,8
+Tractor,40,Vijayawada,Cotton,Spraying,16,Kharif,0.84,20.7,7610,10
+Tractor,45,Ongole,Paddy,Transplanting,2,Rabi,0.57,40.3,1350,11
+Tractor,35,Kurnool,Chilli,Transport,6,Kharif,0.76,23.1,2700,7
+Thresher,30,Nellore,Maize,Threshing,6,Kharif,0.94,12.3,4970,7
+Cultivator,40,Hyderabad,Maize,Ploughing,2,Kharif,0.79,8.5,1020,7
+Tiller,20,Narasaraopet,Sugarcane,Tilling,16,Summer,1.0,25.8,4950,4
+Seed Drill,40,Nellore,Maize,Sowing,2,Rabi,0.57,12.4,980,3
+Plough,20,Ongole,Paddy,Ploughing,16,Rabi,0.66,15.2,4070,12
+Tractor,40,Eluru,Groundnut,Sowing,10,Kharif,0.98,22.2,4850,6
+Cultivator,30,Khammam,Paddy,Ploughing,16,Rabi,0.42,14.8,4230,2
+Combine Harvester,40,Ongole,Sugarcane,Harvesting,8,Summer,0.56,32.0,15410,4
+Tractor,35,Vijayawada,Cotton,Transport,6,Kharif,0.79,5.1,2770,8
+Tractor,35,Khammam,Chilli,Transport,16,Kharif,1.0,24.6,7170,6
+Tractor,50,Eluru,Cotton,Sowing,4,Summer,0.58,9.7,1540,5
+Tractor,45,Ongole,Maize,Sowing,10,Rabi,0.52,17.7,3680,3
+Sprayer,20,Narasaraopet,Chilli,Spraying,16,Kharif,0.83,3.6,5260,7
+Tractor,50,Hyderabad,Sugarcane,Transport,2,Kharif,0.59,6.6,1090,10
+Tractor,60,Guntur,Groundnut,Ploughing,16,Kharif,0.77,27.9,7500,9
+Tractor,35,Khammam,Chilli,Spraying,2,Rabi,0.65,38.9,1310,1
+Sprayer,40,Guntur,Cotton,Spraying,6,Rabi,0.83,10.0,2350,3
+Tractor,35,Kurnool,Paddy,Transplanting,4,Kharif,0.7,43.8,2060,10
+Tractor,45,Narasaraopet,Cotton,Spraying,10,Kharif,0.47,2.9,3580,8
+Cultivator,20,Hyderabad,Sugarcane,Ploughing,10,Rabi,0.67,22.4,3860,12
+Tractor,50,Machilipatnam,Sugarcane,Ploughing,4,Kharif,0.85,44.8,2360,7
+Sprayer,40,Guntur,Cotton,Spraying,6,Rabi,0.69,8.7,2320,3
+Thresher,40,Nellore,Maize,Threshing,2,Rabi,0.35,18.7,1450,12
+Seed Drill,20,Hyderabad,Maize,Sowing,2,Summer,0.45,22.9,1130,4
+Rotavator,20,Narasaraopet,Chilli,Tilling,2,Kharif,0.83,31.3,1510,10
+Thresher,30,Machilipatnam,Maize,Threshing,2,Kharif,0.83,4.0,1580,7
+Trailer,20,Kurnool,Cotton,Transport,16,Rabi,0.41,4.9,3320,1
+Thresher,40,Guntur,Wheat,Threshing,10,Kharif,0.67,19.8,6880,7
+Tractor,75,Guntur,Chilli,Tilling,16,Kharif,0.8,37.6,8190,7
+Seed Drill,30,Khammam,Cotton,Sowing,16,Rabi,0.5,19.4,6420,2
+Combine Harvester,45,Narasaraopet,Groundnut,Harvesting,4,Kharif,0.96,12.0,10310,6
+Tractor,55,Khammam,Sugarcane,Ploughing,8,Rabi,0.73,38.3,3310,3
+Tiller,20,Machilipatnam,Paddy,Tilling,2,Rabi,0.57,44.4,1320,1
+Tractor,55,Guntur,Cotton,Sowing,6,Rabi,0.18,1.5,2220,11
+Thresher,20,Hyderabad,Paddy,Threshing,6,Rabi,0.82,25.4,5130,12
+Rotavator,30,Kurnool,Turmeric,Tilling,16,Kharif,0.54,11.9,6900,10
+Combine Harvester,75,Narasaraopet,Wheat,Harvesting,8,Kharif,0.57,19.3,21580,7
+Harvester,45,Ongole,Groundnut,Harvesting,4,Rabi,0.48,4.0,5980,2
+Thresher,40,Vijayawada,Paddy,Threshing,10,Rabi,0.84,40.6,6880,3
+Tractor,55,Kurnool,Paddy,Ploughing,4,Rabi,0.5,32.6,1760,11
+Thresher,40,Narasaraopet,Maize,Threshing,4,Rabi,0.26,30.2,2810,12
+Tractor,50,Ongole,Turmeric,Transport,2,Rabi,0.25,24.7,960,12
+Thresher,30,Guntur,Maize,Threshing,6,Rabi,0.43,26.7,3920,1
+Tractor,60,Nellore,Cotton,Spraying,10,Summer,0.65,27.7,3300,4
+Sprayer,40,Khammam,Cotton,Spraying,16,Kharif,0.65,5.0,5960,7
+Rotavator,40,Kurnool,Paddy,Tilling,6,Rabi,0.42,15.9,2850,11
+Tractor,45,Guntur,Chilli,Spraying,8,Kharif,1.0,3.2,3670,9
+Paddy Transplanter,40,Vijayawada,Paddy,Transplanting,16,Summer,0.55,11.3,10050,5
+Tiller,30,Warangal,Paddy,Tilling,16,Rabi,0.38,5.9,4470,11
+Thresher,30,Hyderabad,Wheat,Threshing,4,Rabi,0.53,39.9,3550,3
+Cultivator,40,Nellore,Groundnut,Ploughing,10,Rabi,1.0,2.5,3230,3
+Thresher,40,Eluru,Wheat,Threshing,4,Kharif,0.68,42.4,3400,10
+Plough,30,Nellore,Sugarcane,Ploughing,10,Rabi,0.22,5.3,2120,11
+Paddy Transplanter,20,Khammam,Paddy,Transplanting,2,Summer,0.42,10.5,1240,5
+Tiller,40,Warangal,Sugarcane,Tilling,8,Summer,0.47,7.6,2420,5
+Cultivator,30,Warangal,Wheat,Ploughing,8,Summer,0.59,31.4,2480,4
+Sprayer,20,Khammam,Chilli,Spraying,10,Kharif,0.74,1.5,3240,8
+Tractor,45,Eluru,Cotton,Sowing,10,Kharif,0.79,17.5,4630,7
+Tiller,40,Nellore,Paddy,Tilling,4,Summer,0.75,23.0,1570,4
+Thresher,30,Narasaraopet,Wheat,Threshing,10,Summer,0.65,12.5,5470,4
+Thresher,30,Warangal,Paddy,Threshing,10,Kharif,1.0,23.7,7940,8
+Seed Drill,20,Guntur,Groundnut,Sowing,6,Kharif,0.89,1.7,2720,9
+Harvester,45,Eluru,Sugarcane,Harvesting,8,Kharif,0.44,31.7,13390,10
+Trailer,20,Hyderabad,Cotton,Transport,4,Summer,0.89,9.6,1320,5
+Thresher,30,Eluru,Maize,Threshing,4,Rabi,0.76,18.7,3030,11
+Cultivator,40,Warangal,Turmeric,Tilling,2,Kharif,0.59,41.2,1190,8
+Seed Drill,40,Hyderabad,Turmeric,Sowing,6,Kharif,0.69,21.1,3530,7
+Paddy Transplanter,20,Guntur,Paddy,Transplanting,6,Rabi,0.24,30.3,3820,2
+Sprayer,30,Hyderabad,Chilli,Spraying,6,Kharif,0.82,12.9,2610,10
+Seed Drill,40,Khammam,Maize,Sowing,16,Kharif,0.76,43.2,7950,7
+Tractor,40,Khammam,Turmeric,Transport,6,Kharif,0.83,16.1,2880,7
+Combine Harvester,50,Guntur,Wheat,Harvesting,10,Kharif,0.74,23.9,25710,8
+Trailer,20,Nellore,Chilli,Transport,10,Rabi,0.37,32.5,2520,3
+Tractor,45,Khammam,Chilli,Transport,10,Summer,0.8,36.1,3920,4
+Trailer,20,Guntur,Turmeric,Transport,6,Rabi,0.68,33.8,2040,12
+Tractor,50,Ongole,Cotton,Transport,8,Summer,0.45,38.0,2840,5
+Cultivator,20,Machilipatnam,Maize,Ploughing,6,Rabi,0.37,40.4,2290,3
+Harvester,55,Eluru,Maize,Harvesting,8,Summer,0.48,21.8,10220,4
+Paddy Transplanter,30,Machilipatnam,Paddy,Transplanting,10,Rabi,0.85,16.0,7230,2
+Thresher,20,Khammam,Maize,Threshing,2,Summer,0.52,33.5,1580,4
+Tractor,50,Tenali,Chilli,Spraying,8,Summer,0.37,17.8,2590,4
+Tractor,40,Khammam,Chilli,Tilling,10,Rabi,0.49,18.3,3670,3
+Thresher,30,Kurnool,Wheat,Threshing,2,Kharif,0.58,32.2,1800,9
+Tractor,40,Khammam,Paddy,Transplanting,6,Summer,0.6,43.8,2440,4
+Tiller,20,Warangal,Paddy,Tilling,16,Rabi,0.4,23.1,4820,2
+Paddy Transplanter,30,Eluru,Paddy,Transplanting,8,Kharif,0.83,16.6,6410,7
+Paddy Transplanter,40,Narasaraopet,Paddy,Transplanting,10,Kharif,0.77,18.3,7930,9
+Trailer,30,Narasaraopet,Sugarcane,Transport,2,Rabi,0.47,21.2,790,3
+Seed Drill,20,Narasaraopet,Groundnut,Sowing,8,Kharif,0.43,38.2,3470,9
+Tractor,60,Ongole,Turmeric,Tilling,4,Kharif,0.78,22.9,2090,6
+Tractor,50,Guntur,Paddy,Tilling,16,Kharif,0.56,39.8,6760,9
+Tractor,55,Kurnool,Sugarcane,Transport,8,Kharif,0.82,41.4,3920,7
+Tractor,55,Guntur,Cotton,Spraying,16,Rabi,0.59,30.7,6670,1
+Thresher,20,Narasaraopet,Wheat,Threshing,10,Rabi,0.54,3.2,5310,2
+Sprayer,30,Nellore,Chilli,Spraying,2,Kharif,0.78,6.1,760,7
+Seed Drill,20,Tenali,Wheat,Sowing,4,Summer,0.58,31.2,1730,5
+Tractor,60,Ongole,Cotton,Spraying,10,Kharif,0.54,44.5,4790,7
+Tractor,60,Machilipatnam,Groundnut,Ploughing,6,Kharif,0.58,34.9,3460,8
+Plough,30,Guntur,Groundnut,Ploughing,8,Kharif,0.43,15.5,2580,6
+Cultivator,20,Khammam,Cotton,Ploughing,2,Rabi,0.68,2.8,630,2
+Tractor,60,Machilipatnam,Paddy,Transplanting,8,Summer,0.33,41.6,3000,4
+Harvester,75,Guntur,Sugarcane,Harvesting,16,Rabi,0.45,21.5,24620,11
+Tractor,35,Machilipatnam,Turmeric,Transport,4,Kharif,0.9,21.4,2150,9
+Thresher,40,Ongole,Wheat,Threshing,8,Kharif,0.67,17.4,5440,8
+Tractor,50,Eluru,Chilli,Tilling,10,Kharif,0.63,26.9,4670,7
+Cultivator,40,Guntur,Paddy,Tilling,6,Kharif,0.74,20.0,2490,10
+Paddy Transplanter,20,Machilipatnam,Paddy,Transplanting,16,Kharif,0.66,20.0,11760,10
+Trailer,20,Machilipatnam,Sugarcane,Transport,8,Rabi,0.5,6.4,2000,3
+Plough,20,Narasaraopet,Groundnut,Ploughing,2,Rabi,0.86,21.1,910,12
+Paddy Transplanter,40,Hyderabad,Paddy,Transplanting,4,Rabi,0.48,18.7,3620,2
+Sprayer,20,Vijayawada,Cotton,Spraying,4,Rabi,0.69,25.1,1680,3
+Sprayer,30,Eluru,Cotton,Spraying,2,Rabi,0.55,7.4,850,12
+Tractor,75,Nellore,Chilli,Spraying,10,Kharif,0.93,10.0,4440,7
+Plough,30,Vijayawada,Maize,Ploughing,16,Summer,0.59,44.9,4830,5
+Harvester,35,Hyderabad,Maize,Harvesting,6,Kharif,0.63,32.0,11560,8
+Tractor,35,Vijayawada,Sugarcane,Transport,6,Kharif,0.72,11.7,3140,9
+Trailer,40,Kurnool,Chilli,Transport,8,Kharif,0.77,30.7,2500,10
+Tractor,45,Narasaraopet,Groundnut,Ploughing,8,Kharif,1.0,31.7,3630,9
+Sprayer,40,Machilipatnam,Chilli,Spraying,16,Kharif,0.42,15.1,4980,9
+Harvester,40,Nellore,Maize,Harvesting,16,Rabi,0.31,36.9,18720,1
+Combine Harvester,45,Eluru,Sugarcane,Harvesting,8,Rabi,0.76,39.5,20450,2
+Thresher,20,Warangal,Paddy,Threshing,6,Rabi,0.49,15.8,3860,3
+Tractor,55,Narasaraopet,Cotton,Transport,16,Rabi,0.43,43.7,5710,3
+Harvester,50,Narasaraopet,Paddy,Harvesting,6,Rabi,0.45,26.2,9630,12
+Seed Drill,20,Tenali,Groundnut,Sowing,2,Kharif,0.96,23.3,1170,8
+Cultivator,40,Kurnool,Sugarcane,Tilling,8,Rabi,0.15,13.2,2240,3
+Tractor,60,Tenali,Sugarcane,Transport,4,Rabi,0.71,25.2,2090,1
+Cultivator,40,Warangal,Sugarcane,Tilling,2,Rabi,0.69,25.8,990,12
+Tractor,60,Vijayawada,Wheat,Sowing,16,Rabi,0.76,37.5,7390,3
+Paddy Transplanter,20,Narasaraopet,Paddy,Transplanting,2,Kharif,0.68,27.0,2040,9
+Seed Drill,20,Warangal,Wheat,Sowing,4,Summer,0.59,31.7,1850,4
+Tractor,40,Warangal,Sugarcane,Transport,2,Rabi,0.69,11.3,950,12
+Tractor,50,Eluru,Groundnut,Sowing,4,Rabi,0.57,12.7,1970,2
+Seed Drill,30,Nellore,Wheat,Sowing,10,Summer,0.42,12.2,2760,5
+Tractor,55,Kurnool,Paddy,Tilling,16,Kharif,0.94,29.0,7010,9
+Tractor,50,Kurnool,Wheat,Ploughing,6,Kharif,0.61,29.3,2690,10
+Thresher,30,Tenali,Paddy,Threshing,2,Rabi,0.51,35.4,1600,11
+Thresher,20,Eluru,Maize,Threshing,2,Kharif,1.0,12.9,1810,8
+Thresher,20,Vijayawada,Maize,Threshing,16,Rabi,0.98,20.6,11040,3
+Combine Harvester,50,Kurnool,Paddy,Harvesting,4,Rabi,0.77,36.9,11370,1
+Tractor,55,Guntur,Wheat,Ploughing,6,Rabi,0.19,27.8,2480,11
+Rotavator,30,Vijayawada,Paddy,Tilling,4,Rabi,0.57,14.9,2210,3
+Thresher,30,Eluru,Maize,Threshing,10,Kharif,0.38,43.4,6920,9
+Tractor,45,Narasaraopet,Cotton,Transport,6,Rabi,0.55,42.9,2650,2
+Cultivator,30,Warangal,Sugarcane,Ploughing,2,Summer,0.33,29.4,970,4
+Combine Harvester,55,Narasaraopet,Wheat,Harvesting,4,Summer,0.4,29.9,9030,4
+Tractor,60,Vijayawada,Paddy,Transplanting,10,Rabi,0.59,13.0,4490,2
+Trailer,30,Narasaraopet,Turmeric,Transport,2,Kharif,0.58,24.8,910,10
+Cultivator,20,Kurnool,Sugarcane,Tilling,6,Rabi,0.46,5.3,1630,12
+Tractor,60,Warangal,Groundnut,Sowing,8,Kharif,0.7,17.6,3750,7
+Plough,20,Eluru,Cotton,Ploughing,2,Rabi,0.7,29.1,930,12
+Cultivator,20,Khammam,Paddy,Ploughing,6,Summer,0.24,16.6,1650,4
+Plough,20,Eluru,Cotton,Ploughing,2,Summer,0.46,41.3,1100,4
+Thresher,40,Vijayawada,Wheat,Threshing,2,Rabi,0.72,27.4,1840,12
+Rotavator,20,Tenali,Paddy,Tilling,10,Kharif,0.99,30.6,6020,7
+Tractor,45,Eluru,Chilli,Spraying,2,Kharif,0.89,17.0,1180,9
+Plough,20,Hyderabad,Groundnut,Ploughing,10,Kharif,0.6,3.5,3510,10
+Tractor,75,Kurnool,Paddy,Transplanting,2,Rabi,0.68,9.6,960,2
+Rotavator,20,Eluru,Sugarcane,Tilling,8,Kharif,0.78,25.4,4360,9
+Sprayer,40,Hyderabad,Chilli,Spraying,4,Kharif,0.62,29.6,2260,7
+Tractor,40,Vijayawada,Chilli,Transport,2,Rabi,0.46,5.2,930,1
+Cultivator,30,Warangal,Turmeric,Tilling,10,Rabi,1.0,1.6,3470,12
+Rotavator,30,Khammam,Chilli,Tilling,10,Summer,0.53,31.6,4100,4
+Thresher,30,Hyderabad,Wheat,Threshing,4,Kharif,0.73,22.3,3480,9
+Rotavator,20,Machilipatnam,Paddy,Tilling,8,Summer,0.54,43.0,3500,5
+Rotavator,30,Kurnool,Chilli,Tilling,16,Summer,0.39,41.4,5510,4
+Rotavator,30,Machilipatnam,Turmeric,Tilling,4,Summer,0.56,21.8,1740,4
+Thresher,20,Machilipatnam,Maize,Threshing,16,Summer,0.62,36.4,7600,5
+Tractor,50,Narasaraopet,Paddy,Transplanting,4,Summer,0.3,31.6,1600,4
+Tractor,35,Khammam,Maize,Ploughing,4,Summer,0.4,34.6,1570,5
+Seed Drill,30,Hyderabad,Turmeric,Sowing,4,Summer,0.73,32.0,2110,4
+Combine Harvester,35,Ongole,Groundnut,Harvesting,4,Kharif,0.83,30.2,11070,7
+Tractor,40,Vijayawada,Paddy,Ploughing,16,Rabi,0.54,19.5,6050,2
+Combine Harvester,55,Eluru,Groundnut,Harvesting,10,Summer,0.77,22.6,23860,5
+Cultivator,30,Warangal,Maize,Ploughing,16,Rabi,0.6,42.5,5090,12
+Paddy Transplanter,40,Narasaraopet,Paddy,Transplanting,2,Rabi,0.66,3.7,1540,11
+Combine Harvester,35,Narasaraopet,Groundnut,Harvesting,16,Rabi,0.46,25.0,34230,1
+Paddy Transplanter,20,Eluru,Paddy,Transplanting,10,Rabi,0.75,4.8,7160,1
+Seed Drill,40,Eluru,Turmeric,Sowing,2,Kharif,0.51,38.3,1430,10
+Thresher,30,Khammam,Paddy,Threshing,8,Rabi,0.72,13.1,4990,11
+Rotavator,20,Eluru,Paddy,Tilling,6,Summer,0.49,39.9,2740,5
+Tractor,60,Ongole,Cotton,Transport,6,Kharif,0.26,23.1,2490,9
+Tractor,75,Vijayawada,Turmeric,Tilling,10,Kharif,0.72,2.4,4520,8
+Trailer,30,Narasaraopet,Cotton,Transport,4,Rabi,0.48,22.1,1380,3
+Seed Drill,20,Khammam,Wheat,Sowing,6,Summer,0.73,27.2,2560,4
+Combine Harvester,55,Kurnool,Groundnut,Harvesting,6,Summer,0.46,40.3,11960,4
+Tractor,45,Guntur,Turmeric,Tilling,8,Rabi,0.47,1.4,2910,2
+Sprayer,20,Hyderabad,Cotton,Spraying,2,Rabi,0.64,25.5,1170,1
+Thresher,30,Kurnool,Maize,Threshing,16,Rabi,0.67,12.8,9000,12
+Trailer,30,Tenali,Sugarcane,Transport,2,Rabi,0.43,41.8,1140,12
+Combine Harvester,55,Kurnool,Paddy,Harvesting,16,Kharif,0.91,24.0,42820,6
+Tractor,45,Warangal,Wheat,Ploughing,8,Kharif,0.75,23.3,3300,10
+Thresher,30,Hyderabad,Maize,Threshing,8,Rabi,0.51,14.2,5180,2
+Tractor,60,Guntur,Paddy,Transplanting,2,Kharif,1.0,38.9,1470,10
+Tractor,40,Ongole,Cotton,Sowing,6,Summer,0.38,39.7,2370,5
+Sprayer,20,Kurnool,Chilli,Spraying,8,Kharif,0.26,11.9,2350,7
+Cultivator,20,Narasaraopet,Turmeric,Tilling,6,Kharif,0.34,12.6,1790,6
+Tractor,35,Khammam,Paddy,Ploughing,16,Summer,0.5,30.9,5000,5
+Seed Drill,40,Warangal,Turmeric,Sowing,10,Rabi,0.55,2.5,4000,1
+Tractor,40,Narasaraopet,Chilli,Spraying,16,Rabi,0.59,35.8,6530,12
+Tractor,45,Ongole,Paddy,Transplanting,4,Rabi,0.55,35.9,1810,1
+Paddy Transplanter,40,Eluru,Paddy,Transplanting,16,Summer,0.41,20.7,9980,4
+Paddy Transplanter,40,Ongole,Paddy,Transplanting,6,Kharif,0.42,41.0,5030,7
+Tractor,55,Eluru,Maize,Sowing,2,Summer,0.33,31.8,1190,5
+Thresher,30,Tenali,Wheat,Threshing,4,Kharif,0.74,38.7,3010,8
+Sprayer,20,Machilipatnam,Cotton,Spraying,10,Kharif,0.76,18.2,3710,10
+Trailer,20,Machilipatnam,Turmeric,Transport,8,Summer,0.74,26.0,2400,5
+Combine Harvester,50,Nellore,Wheat,Harvesting,4,Kharif,1.0,32.1,11050,9
+Tractor,60,Hyderabad,Chilli,Tilling,16,Rabi,0.64,24.9,7690,11
+Tractor,60,Nellore,Chilli,Spraying,2,Rabi,0.56,23.3,1080,11
+Combine Harvester,60,Vijayawada,Wheat,Harvesting,16,Summer,0.45,1.7,32410,5
+Paddy Transplanter,40,Vijayawada,Paddy,Transplanting,4,Kharif,1.0,27.1,4580,8
+Thresher,40,Narasaraopet,Paddy,Threshing,10,Summer,0.57,10.9,4900,5
+Tractor,75,Eluru,Cotton,Spraying,16,Kharif,1.0,38.5,9220,6
+Harvester,50,Ongole,Maize,Harvesting,4,Rabi,0.65,22.9,6710,2
+Tractor,50,Eluru,Wheat,Sowing,10,Kharif,0.75,40.8,5020,7
+Tractor,75,Warangal,Maize,Sowing,2,Kharif,0.88,14.5,1260,10
+Tractor,45,Vijayawada,Paddy,Transplanting,16,Rabi,0.5,18.0,6840,3
+Paddy Transplanter,40,Narasaraopet,Paddy,Transplanting,2,Kharif,0.71,35.8,2130,9
+Plough,40,Ongole,Sugarcane,Ploughing,10,Rabi,0.58,22.3,2950,11
+Paddy Transplanter,20,Eluru,Paddy,Transplanting,4,Kharif,0.84,4.8,3310,10
+Tractor,60,Machilipatnam,Paddy,Transplanting,16,Rabi,0.61,20.3,6460,11
+Seed Drill,20,Machilipatnam,Cotton,Sowing,6,Rabi,0.56,7.3,2140,12
+Tractor,45,Narasaraopet,Cotton,Transport,8,Rabi,0.31,28.1,2880,3
+Tractor,45,Kurnool,Sugarcane,Transport,6,Kharif,0.83,43.4,3260,6
+Rotavator,20,Kurnool,Chilli,Tilling,16,Kharif,0.78,25.7,7290,6
+Cultivator,20,Nellore,Turmeric,Tilling,4,Rabi,0.74,27.3,1620,2
+Plough,30,Narasaraopet,Groundnut,Ploughing,10,Rabi,0.24,36.4,2760,1
+Combine Harvester,60,Guntur,Sugarcane,Harvesting,8,Rabi,0.68,34.3,19400,2
+Rotavator,30,Narasaraopet,Chilli,Tilling,16,Rabi,0.68,10.2,7280,3
+Sprayer,20,Narasaraopet,Chilli,Spraying,8,Rabi,0.54,3.5,2080,11
+Tractor,40,Eluru,Turmeric,Tilling,10,Rabi,0.31,19.5,3860,11
+Seed Drill,30,Ongole,Turmeric,Sowing,16,Rabi,0.37,14.0,5100,2
+Tractor,45,Warangal,Wheat,Sowing,4,Rabi,0.87,13.2,1910,11
+Cultivator,30,Tenali,Paddy,Ploughing,10,Rabi,0.8,5.2,3550,12
+Paddy Transplanter,30,Hyderabad,Paddy,Transplanting,6,Kharif,0.9,27.4,7010,8
+Tractor,60,Machilipatnam,Paddy,Transplanting,16,Rabi,0.41,3.1,5500,3
+Paddy Transplanter,40,Eluru,Paddy,Transplanting,2,Kharif,0.91,31.1,2220,9
+Rotavator,20,Nellore,Paddy,Tilling,10,Summer,0.44,33.3,3890,4
+Tractor,60,Hyderabad,Turmeric,Tilling,16,Kharif,0.97,33.1,9510,7
+Thresher,30,Hyderabad,Wheat,Threshing,2,Kharif,0.72,38.4,2160,8
+Harvester,60,Warangal,Wheat,Harvesting,16,Kharif,0.47,32.2,25730,10
+Tractor,55,Khammam,Cotton,Spraying,8,Kharif,0.68,43.9,3820,6
+Sprayer,40,Hyderabad,Chilli,Spraying,6,Kharif,0.88,9.3,3100,10
+Thresher,20,Guntur,Maize,Threshing,10,Rabi,0.55,39.6,6260,2
+Sprayer,30,Vijayawada,Chilli,Spraying,10,Kharif,0.75,21.4,3790,9
+Paddy Transplanter,20,Narasaraopet,Paddy,Transplanting,2,Summer,0.65,44.5,1720,4
+Trailer,40,Narasaraopet,Cotton,Transport,2,Rabi,0.43,23.6,820,3
+Cultivator,40,Nellore,Chilli,Tilling,6,Kharif,0.8,37.0,2700,8
+Trailer,30,Eluru,Chilli,Transport,2,Kharif,0.73,43.3,1150,9
+Tractor,45,Narasaraopet,Paddy,Transplanting,4,Rabi,0.52,41.8,1940,12
+Sprayer,40,Ongole,Chilli,Spraying,2,Kharif,0.84,2.0,800,8
+Rotavator,30,Vijayawada,Sugarcane,Tilling,8,Kharif,0.83,19.3,4690,8
+Rotavator,20,Tenali,Chilli,Tilling,8,Rabi,0.63,7.9,3500,1
+Tractor,40,Nellore,Sugarcane,Tilling,10,Rabi,0.71,7.1,3810,12
+Rotavator,30,Eluru,Sugarcane,Tilling,16,Summer,0.42,31.2,7150,4
+Tractor,55,Warangal,Paddy,Transplanting,2,Kharif,0.66,32.8,1320,6
+Sprayer,40,Vijayawada,Cotton,Spraying,16,Summer,0.24,21.9,5300,4
+Thresher,20,Machilipatnam,Maize,Threshing,4,Kharif,0.62,31.2,2940,6
+Thresher,30,Eluru,Wheat,Threshing,10,Summer,0.51,29.7,5390,4
+Tractor,40,Kurnool,Wheat,Sowing,2,Kharif,0.89,13.2,1050,7
+Tractor,40,Eluru,Maize,Sowing,4,Kharif,0.83,20.3,2180,8
+Paddy Transplanter,40,Guntur,Paddy,Transplanting,2,Kharif,0.85,16.1,1960,6
+Sprayer,20,Machilipatnam,Cotton,Spraying,2,Rabi,0.62,17.3,840,1
+Sprayer,30,Warangal,Cotton,Spraying,16,Rabi,0.49,1.1,5310,2
+Rotavator,40,Eluru,Turmeric,Tilling,8,Summer,0.68,21.4,3620,5
+Tractor,60,Vijayawada,Turmeric,Transport,16,Rabi,0.54,7.3,6460,11
+Tractor,60,Kurnool,Paddy,Transplanting,16,Kharif,0.28,14.7,5540,7
+Thresher,30,Machilipatnam,Paddy,Threshing,2,Rabi,0.5,32.0,1620,3
+Plough,40,Kurnool,Groundnut,Ploughing,6,Rabi,0.58,37.1,2170,2
+Trailer,20,Warangal,Chilli,Transport,6,Rabi,0.51,14.4,1730,11
+Tractor,50,Nellore,Chilli,Transport,6,Kharif,0.58,16.2,2590,10
+Rotavator,20,Narasaraopet,Paddy,Tilling,8,Kharif,0.85,7.1,3820,7
+Harvester,50,Nellore,Sugarcane,Harvesting,10,Rabi,0.88,12.6,13640,3
+Tractor,60,Ongole,Groundnut,Ploughing,2,Kharif,0.6,9.2,940,6
+Tractor,75,Tenali,Turmeric,Sowing,4,Rabi,0.34,39.5,2090,3
+Rotavator,30,Ongole,Chilli,Tilling,16,Rabi,0.34,4.0,5530,12
+Tractor,35,Hyderabad,Paddy,Tilling,2,Kharif,0.85,6.7,1070,9
+Tractor,45,Narasaraopet,Paddy,Transplanting,6,Rabi,0.62,20.0,2620,12
+Plough,40,Machilipatnam,Wheat,Ploughing,8,Rabi,0.8,4.4,2600,2
+Trailer,30,Vijayawada,Sugarcane,Transport,16,Kharif,0.7,20.4,4890,9
+Combine Harvester,40,Guntur,Maize,Harvesting,2,Summer,0.66,21.5,4400,5
+Tractor,50,Khammam,Paddy,Transplanting,6,Rabi,0.67,15.2,2400,12
+Rotavator,30,Vijayawada,Sugarcane,Tilling,10,Rabi,0.36,32.5,4480,11
+Tractor,45,Ongole,Turmeric,Sowing,8,Rabi,0.31,22.8,2740,3
+Paddy Transplanter,20,Tenali,Paddy,Transplanting,4,Kharif,0.82,41.9,3750,8
+Tractor,55,Narasaraopet,Paddy,Transplanting,4,Kharif,0.91,4.9,1810,7
+Trailer,20,Tenali,Turmeric,Transport,6,Summer,0.61,42.7,2010,5
+Tractor,55,Nellore,Sugarcane,Transport,16,Kharif,0.76,16.6,6650,6
+Cultivator,30,Vijayawada,Turmeric,Tilling,8,Rabi,0.77,17.7,3170,1
+Tractor,55,Machilipatnam,Groundnut,Sowing,2,Kharif,0.62,22.1,1160,10
+Combine Harvester,45,Narasaraopet,Maize,Harvesting,2,Summer,0.41,30.4,4190,5
+Combine Harvester,45,Nellore,Groundnut,Harvesting,16,Kharif,0.84,43.0,39740,10
+Tractor,60,Eluru,Paddy,Transplanting,10,Rabi,0.44,26.8,3730,12
+Tractor,55,Narasaraopet,Sugarcane,Tilling,10,Kharif,0.8,18.3,4370,9
+Tractor,35,Hyderabad,Chilli,Transport,2,Rabi,0.5,29.6,1180,3
+Tractor,45,Eluru,Wheat,Ploughing,6,Rabi,0.77,14.6,2790,3
+Tractor,35,Narasaraopet,Turmeric,Sowing,8,Kharif,0.86,8.8,3430,7
+Harvester,40,Khammam,Groundnut,Harvesting,2,Kharif,0.91,27.0,4360,6
+Tiller,30,Machilipatnam,Sugarcane,Tilling,4,Rabi,0.63,25.6,1840,11
+Tractor,55,Vijayawada,Wheat,Sowing,2,Rabi,0.58,23.8,1320,12
+Harvester,55,Khammam,Wheat,Harvesting,8,Kharif,0.79,12.8,12540,10
+Tractor,50,Narasaraopet,Turmeric,Sowing,10,Kharif,0.86,40.0,4790,7
+Trailer,20,Nellore,Turmeric,Transport,8,Rabi,0.66,36.1,2380,2
+Harvester,45,Nellore,Sugarcane,Harvesting,2,Rabi,0.57,1.9,2930,1
+Sprayer,20,Warangal,Chilli,Spraying,10,Kharif,0.72,24.3,3680,9
+Plough,20,Eluru,Groundnut,Ploughing,2,Kharif,0.65,20.1,930,6
+Cultivator,20,Eluru,Cotton,Ploughing,6,Kharif,0.88,26.6,2540,7
+Tractor,55,Guntur,Paddy,Transplanting,6,Rabi,0.44,24.0,2740,1
+Tractor,55,Ongole,Cotton,Spraying,2,Rabi,0.51,18.8,1000,2
+Cultivator,20,Khammam,Chilli,Tilling,10,Rabi,0.08,14.0,2330,12
+Cultivator,40,Nellore,Chilli,Tilling,16,Kharif,0.68,32.9,5460,7
+Harvester,50,Ongole,Sugarcane,Harvesting,16,Kharif,0.89,5.6,26530,6
+Rotavator,20,Eluru,Turmeric,Tilling,6,Rabi,0.65,37.8,3430,3
+Harvester,35,Hyderabad,Groundnut,Harvesting,16,Rabi,0.41,5.5,23870,2
+Cultivator,30,Vijayawada,Wheat,Ploughing,2,Rabi,0.56,9.4,840,2
+Harvester,60,Kurnool,Groundnut,Harvesting,10,Rabi,0.44,20.8,14190,3
+Tractor,55,Tenali,Cotton,Spraying,6,Rabi,0.37,31.1,2750,1
+Tractor,50,Kurnool,Paddy,Ploughing,2,Summer,0.51,39.4,1230,5
+Trailer,20,Machilipatnam,Turmeric,Transport,10,Summer,0.44,33.2,2440,5
+Tractor,50,Machilipatnam,Cotton,Transport,6,Rabi,1.0,29.8,3060,3
+Tractor,50,Eluru,Cotton,Transport,8,Kharif,0.73,38.6,3820,6
+Harvester,40,Nellore,Paddy,Harvesting,6,Kharif,0.63,9.2,9640,10
+Cultivator,20,Guntur,Sugarcane,Ploughing,8,Rabi,0.31,13.3,2070,11
+Tractor,40,Khammam,Paddy,Transplanting,8,Kharif,0.57,23.5,3300,6
+Thresher,40,Warangal,Maize,Threshing,2,Kharif,0.62,38.9,1940,7
+Thresher,30,Guntur,Wheat,Threshing,16,Kharif,0.61,31.8,10650,7
+Thresher,30,Ongole,Wheat,Threshing,10,Rabi,0.62,7.9,5570,2
+Tractor,75,Machilipatnam,Paddy,Tilling,8,Rabi,0.7,3.9,3170,12
+Thresher,30,Machilipatnam,Maize,Threshing,6,Kharif,0.45,26.9,4200,10
+Tractor,55,Eluru,Turmeric,Sowing,4,Summer,0.8,1.5,1590,4
+Trailer,40,Tenali,Sugarcane,Transport,16,Summer,0.56,23.9,4030,5
+Tiller,20,Warangal,Turmeric,Tilling,6,Summer,0.77,35.7,2600,4
+Tractor,75,Nellore,Cotton,Spraying,8,Kharif,1.0,3.6,3640,10
+Tractor,60,Guntur,Chilli,Transport,6,Rabi,0.71,5.5,2830,1
+Thresher,30,Guntur,Paddy,Threshing,2,Rabi,0.66,1.8,1360,11
+Thresher,40,Machilipatnam,Wheat,Threshing,16,Kharif,0.6,33.1,10200,7
+Tractor,60,Eluru,Turmeric,Tilling,8,Rabi,0.64,9.0,3540,11
+Harvester,75,Guntur,Groundnut,Harvesting,4,Kharif,0.61,14.8,7200,6
+Harvester,60,Kurnool,Sugarcane,Harvesting,8,Rabi,0.6,44.1,11600,3
+Paddy Transplanter,30,Warangal,Paddy,Transplanting,2,Kharif,0.61,13.5,1900,8
+Tractor,75,Vijayawada,Paddy,Transplanting,8,Rabi,0.62,32.8,4130,2
+Harvester,50,Guntur,Maize,Harvesting,10,Rabi,0.38,21.8,12320,12
+Tractor,50,Machilipatnam,Turmeric,Sowing,2,Summer,0.85,26.6,1090,4
+Cultivator,30,Machilipatnam,Cotton,Ploughing,2,Rabi,0.39,8.9,700,3
+Seed Drill,40,Khammam,Cotton,Sowing,10,Kharif,1.0,1.9,4480,10
+Thresher,30,Khammam,Maize,Threshing,16,Kharif,0.75,39.5,10860,8
+Paddy Transplanter,40,Nellore,Paddy,Transplanting,10,Rabi,0.61,12.3,6850,1
+Trailer,30,Guntur,Chilli,Transport,4,Kharif,0.65,28.0,1850,9
+Seed Drill,30,Narasaraopet,Groundnut,Sowing,4,Summer,0.57,11.4,1470,5
+Trailer,40,Khammam,Turmeric,Transport,2,Kharif,1.0,26.0,1120,10
+Seed Drill,30,Narasaraopet,Maize,Sowing,4,Summer,0.58,14.8,1560,4
+Harvester,50,Vijayawada,Groundnut,Harvesting,10,Rabi,0.46,25.4,16060,11
+Paddy Transplanter,40,Khammam,Paddy,Transplanting,8,Kharif,0.84,24.2,6330,7
+Harvester,45,Kurnool,Paddy,Harvesting,2,Kharif,0.61,19.5,3310,8
+Seed Drill,20,Hyderabad,Maize,Sowing,16,Kharif,0.68,30.0,6860,8
+Tractor,75,Vijayawada,Paddy,Tilling,4,Rabi,0.53,2.8,1770,11
+Plough,20,Machilipatnam,Maize,Ploughing,8,Rabi,0.15,21.2,1990,11
+Thresher,20,Warangal,Wheat,Threshing,6,Kharif,0.81,35.1,4580,9
+Thresher,30,Narasaraopet,Wheat,Threshing,16,Kharif,0.86,44.8,12070,10
+Sprayer,40,Guntur,Cotton,Spraying,6,Summer,0.38,38.7,2310,5
+Paddy Transplanter,40,Kurnool,Paddy,Transplanting,8,Kharif,0.52,6.7,5350,6
+Thresher,30,Khammam,Maize,Threshing,10,Rabi,0.78,26.9,6470,3
+Thresher,30,Hyderabad,Wheat,Threshing,2,Rabi,0.53,20.0,1660,2
+Tractor,35,Tenali,Chilli,Spraying,8,Kharif,0.82,38.4,3910,9
+Paddy Transplanter,40,Machilipatnam,Paddy,Transplanting,16,Rabi,0.37,25.2,10600,1
+Harvester,75,Nellore,Maize,Harvesting,6,Kharif,0.74,5.0,11480,8
+Tractor,35,Kurnool,Paddy,Transplanting,6,Rabi,0.7,2.3,2280,2
+Combine Harvester,40,Ongole,Paddy,Harvesting,10,Kharif,0.74,32.9,24290,7
+Trailer,20,Eluru,Cotton,Transport,2,Kharif,1.0,12.0,790,9
+Thresher,30,Machilipatnam,Wheat,Threshing,2,Kharif,0.86,44.6,2010,9
+Tractor,40,Warangal,Wheat,Ploughing,8,Rabi,0.54,2.6,2770,2
+Harvester,35,Machilipatnam,Groundnut,Harvesting,16,Summer,0.49,17.0,17780,4
+Thresher,40,Narasaraopet,Paddy,Threshing,2,Kharif,0.91,4.3,1620,10
+Harvester,75,Khammam,Wheat,Harvesting,10,Kharif,0.79,23.3,18610,9
+Combine Harvester,60,Tenali,Sugarcane,Harvesting,4,Rabi,0.85,33.1,12040,11
+Paddy Transplanter,40,Vijayawada,Paddy,Transplanting,6,Rabi,0.42,15.6,5050,12
+Tractor,55,Ongole,Paddy,Transplanting,16,Rabi,0.59,31.8,5680,12
+Tractor,35,Tenali,Turmeric,Transport,2,Kharif,1.0,14.4,1060,9
+Tractor,50,Warangal,Chilli,Transport,4,Summer,0.52,25.2,1680,4
+Harvester,75,Tenali,Maize,Harvesting,10,Kharif,0.7,5.8,16840,8
+Combine Harvester,45,Tenali,Paddy,Harvesting,4,Summer,0.74,15.3,9100,4
+Harvester,45,Guntur,Wheat,Harvesting,2,Rabi,0.6,10.7,3110,11
+Combine Harvester,50,Guntur,Paddy,Harvesting,2,Kharif,0.8,44.8,6740,6
+Rotavator,30,Narasaraopet,Turmeric,Tilling,4,Rabi,0.65,6.6,1700,11
+Thresher,40,Khammam,Wheat,Threshing,2,Summer,0.73,7.8,1240,5
+Cultivator,20,Ongole,Wheat,Ploughing,2,Kharif,0.81,19.0,960,6
+Trailer,20,Khammam,Chilli,Transport,10,Kharif,0.62,2.5,2520,9
+Rotavator,20,Kurnool,Sugarcane,Tilling,2,Rabi,0.58,4.4,910,2
+Tractor,75,Kurnool,Maize,Sowing,4,Kharif,0.81,20.9,2260,10
+Tractor,60,Guntur,Wheat,Sowing,4,Kharif,0.66,38.6,2350,6
+Tractor,40,Eluru,Paddy,Transplanting,6,Summer,0.5,35.1,2540,5
+Trailer,30,Ongole,Turmeric,Transport,4,Rabi,0.7,4.8,1160,11
+Tiller,30,Guntur,Paddy,Tilling,10,Summer,0.69,27.9,3280,5
+Tractor,60,Guntur,Paddy,Transplanting,6,Rabi,0.68,23.3,2940,3
+Paddy Transplanter,40,Tenali,Paddy,Transplanting,4,Kharif,0.56,4.1,3070,7
+Harvester,55,Narasaraopet,Maize,Harvesting,10,Rabi,0.43,41.3,15420,1
+Tractor,75,Tenali,Paddy,Transplanting,6,Rabi,0.66,3.2,2700,11
+Combine Harvester,35,Nellore,Sugarcane,Harvesting,4,Rabi,0.62,13.6,9510,3
+Rotavator,30,Eluru,Sugarcane,Tilling,6,Kharif,0.59,9.7,3270,7
+Thresher,30,Ongole,Paddy,Threshing,10,Rabi,0.47,19.3,5940,3
+Trailer,20,Khammam,Cotton,Transport,8,Rabi,0.54,41.6,2410,12
+Tiller,30,Narasaraopet,Sugarcane,Tilling,2,Kharif,0.93,32.2,1230,7
+Sprayer,20,Nellore,Cotton,Spraying,6,Rabi,0.56,4.3,1770,1
+Paddy Transplanter,40,Warangal,Paddy,Transplanting,8,Summer,0.42,44.9,5600,4
+Cultivator,40,Hyderabad,Chilli,Tilling,2,Rabi,0.09,31.1,1090,12
+Tractor,75,Warangal,Cotton,Sowing,16,Summer,0.62,9.0,5670,4
+Paddy Transplanter,30,Kurnool,Paddy,Transplanting,10,Rabi,0.44,10.2,5810,11
+Seed Drill,40,Warangal,Groundnut,Sowing,2,Rabi,0.44,20.2,1100,12
+Paddy Transplanter,40,Machilipatnam,Paddy,Transplanting,16,Rabi,0.61,19.8,11380,3
+Sprayer,40,Kurnool,Cotton,Spraying,8,Kharif,0.66,32.4,3090,7
+Tractor,75,Ongole,Paddy,Transplanting,6,Kharif,0.69,8.9,2960,9
+Thresher,20,Warangal,Wheat,Threshing,8,Rabi,0.39,31.0,5010,11
+Tiller,20,Warangal,Sugarcane,Tilling,6,Rabi,0.06,7.9,1740,11
+Plough,40,Nellore,Maize,Ploughing,6,Summer,0.49,14.3,1690,4
+Plough,40,Vijayawada,Maize,Ploughing,2,Kharif,0.35,36.4,1170,9
+Tractor,50,Vijayawada,Paddy,Tilling,6,Rabi,0.54,2.0,2600,12
+Thresher,20,Vijayawada,Maize,Threshing,4,Rabi,0.6,30.1,2900,11
+Sprayer,30,Tenali,Cotton,Spraying,16,Rabi,0.64,11.8,5610,3
+Combine Harvester,45,Kurnool,Groundnut,Harvesting,8,Kharif,0.57,30.9,18200,7
+Trailer,30,Vijayawada,Sugarcane,Transport,10,Rabi,0.62,38.8,3520,12
+Tractor,60,Vijayawada,Cotton,Spraying,6,Kharif,0.27,13.3,2860,9
+Sprayer,30,Kurnool,Chilli,Spraying,2,Rabi,0.54,40.1,1150,3
+Cultivator,40,Nellore,Chilli,Tilling,4,Summer,0.56,32.2,1420,4
+Tractor,55,Vijayawada,Groundnut,Sowing,6,Rabi,0.05,21.5,2440,3
+Tractor,35,Khammam,Turmeric,Tilling,10,Summer,0.7,41.5,3560,4
+Trailer,20,Vijayawada,Sugarcane,Transport,8,Kharif,0.93,16.0,2580,9
+Tractor,45,Narasaraopet,Chilli,Transport,4,Kharif,0.74,28.7,2070,9
+Seed Drill,20,Nellore,Groundnut,Sowing,10,Kharif,1.0,28.8,4590,8
+Seed Drill,20,Ongole,Turmeric,Sowing,8,Rabi,0.81,24.4,3350,1
+Plough,30,Warangal,Maize,Ploughing,8,Kharif,0.41,33.6,2410,10
+Harvester,75,Nellore,Wheat,Harvesting,4,Rabi,0.42,11.7,6000,3
+Harvester,40,Vijayawada,Maize,Harvesting,2,Kharif,0.47,11.4,3600,9
+Paddy Transplanter,20,Ongole,Paddy,Transplanting,8,Rabi,0.42,28.6,4920,1
+Tractor,75,Kurnool,Cotton,Ploughing,8,Rabi,0.51,21.5,2940,11
+Thresher,20,Narasaraopet,Wheat,Threshing,16,Rabi,0.26,14.7,8040,11
+Tiller,30,Narasaraopet,Paddy,Tilling,8,Kharif,0.69,5.5,2830,8
+Tiller,30,Narasaraopet,Turmeric,Tilling,6,Kharif,0.53,10.8,2210,9
+Trailer,30,Ongole,Turmeric,Transport,6,Kharif,0.65,34.7,2110,7
+Tractor,55,Nellore,Paddy,Tilling,10,Kharif,0.79,31.9,4430,6
+Rotavator,20,Machilipatnam,Sugarcane,Tilling,16,Rabi,0.4,13.8,6230,1
+Harvester,75,Eluru,Groundnut,Harvesting,6,Kharif,0.67,38.0,12350,8
+Tractor,45,Narasaraopet,Paddy,Transplanting,8,Kharif,0.97,15.2,3440,8
+Sprayer,40,Guntur,Cotton,Spraying,2,Rabi,0.61,28.1,1180,11
+Plough,30,Warangal,Wheat,Ploughing,16,Rabi,0.6,11.6,4520,3
+Tiller,20,Ongole,Sugarcane,Tilling,2,Kharif,0.95,37.5,1310,6
+Tractor,75,Warangal,Turmeric,Transport,6,Rabi,0.39,6.3,2640,3
+Sprayer,30,Machilipatnam,Cotton,Spraying,16,Kharif,0.88,8.4,5940,9
+Tractor,40,Eluru,Cotton,Spraying,16,Rabi,0.52,28.4,6420,2
+Paddy Transplanter,30,Tenali,Paddy,Transplanting,4,Kharif,0.95,20.9,3800,7
+Tractor,50,Tenali,Chilli,Spraying,6,Summer,0.17,32.6,2110,5
+Tiller,30,Eluru,Sugarcane,Tilling,2,Kharif,0.66,19.2,1050,6
+Trailer,20,Hyderabad,Sugarcane,Transport,10,Kharif,0.72,16.1,3550,10
+Paddy Transplanter,30,Hyderabad,Paddy,Transplanting,2,Rabi,0.58,37.4,2370,1
+Combine Harvester,55,Warangal,Groundnut,Harvesting,2,Summer,0.24,37.3,4180,4
+Thresher,30,Warangal,Paddy,Threshing,8,Summer,0.46,8.6,3750,4
+Thresher,20,Ongole,Wheat,Threshing,2,Rabi,0.63,27.5,1520,12
+Trailer,30,Machilipatnam,Chilli,Transport,8,Kharif,0.7,25.4,2590,9
+Tractor,35,Nellore,Cotton,Sowing,4,Kharif,0.83,44.0,2280,6
+Trailer,30,Tenali,Sugarcane,Transport,6,Summer,0.55,3.4,1420,4
+Thresher,40,Tenali,Wheat,Threshing,10,Summer,0.71,15.0,5990,5
+Sprayer,20,Narasaraopet,Cotton,Spraying,16,Rabi,0.08,40.3,4250,11
+Plough,30,Vijayawada,Paddy,Ploughing,8,Rabi,0.78,1.2,2700,12
+Cultivator,20,Narasaraopet,Sugarcane,Tilling,4,Kharif,0.45,42.3,1780,6
+Thresher,20,Nellore,Maize,Threshing,10,Kharif,0.37,33.8,5830,8
+Harvester,60,Nellore,Wheat,Harvesting,16,Kharif,0.78,3.1,25210,9
+Plough,40,Guntur,Paddy,Ploughing,8,Kharif,0.68,17.9,2790,7
+Cultivator,40,Guntur,Chilli,Tilling,4,Rabi,0.5,40.4,1660,2
+Cultivator,40,Tenali,Groundnut,Ploughing,2,Kharif,0.66,39.7,1390,9
+Combine Harvester,60,Ongole,Maize,Harvesting,4,Kharif,0.76,8.6,10950,9
+Sprayer,30,Ongole,Cotton,Spraying,2,Rabi,0.51,41.9,1280,3
+Combine Harvester,40,Eluru,Wheat,Harvesting,2,Rabi,0.6,18.8,4860,11
+Trailer,30,Nellore,Chilli,Transport,4,Rabi,0.74,5.5,1110,1
+Thresher,30,Eluru,Paddy,Threshing,6,Rabi,0.74,7.1,4180,2
+Seed Drill,40,Tenali,Cotton,Sowing,2,Rabi,0.66,18.8,1100,12
+Tractor,45,Kurnool,Sugarcane,Transport,2,Rabi,0.66,25.9,1090,3
+Trailer,20,Narasaraopet,Cotton,Transport,16,Rabi,0.49,23.4,3820,11
+Tractor,60,Vijayawada,Paddy,Transplanting,2,Kharif,0.8,12.4,1170,9
+Paddy Transplanter,40,Warangal,Paddy,Transplanting,16,Kharif,0.65,19.8,13110,8
+Tractor,45,Narasaraopet,Chilli,Spraying,2,Kharif,0.72,17.2,1060,8
+Combine Harvester,75,Khammam,Wheat,Harvesting,2,Rabi,0.41,39.5,5180,2
+Tractor,45,Khammam,Paddy,Transplanting,16,Summer,0.79,32.7,5460,5
+Thresher,40,Kurnool,Maize,Threshing,4,Kharif,0.37,17.6,2420,10
+Tractor,55,Tenali,Cotton,Sowing,8,Kharif,0.62,27.8,3390,10
+Combine Harvester,55,Khammam,Groundnut,Harvesting,16,Summer,0.47,44.6,34420,5
+Thresher,20,Narasaraopet,Paddy,Threshing,10,Rabi,0.24,32.9,4970,11
+Sprayer,20,Ongole,Cotton,Spraying,16,Kharif,0.82,9.1,5390,8
+Paddy Transplanter,40,Hyderabad,Paddy,Transplanting,6,Summer,0.57,16.2,4950,4
+Sprayer,30,Hyderabad,Cotton,Spraying,10,Rabi,0.72,28.9,3960,1
+Seed Drill,30,Ongole,Cotton,Sowing,2,Rabi,0.46,41.5,1230,2
+Tiller,40,Warangal,Sugarcane,Tilling,4,Summer,0.48,16.7,1500,4
+Tiller,20,Kurnool,Sugarcane,Tilling,10,Kharif,0.85,15.9,3360,8
+Tractor,45,Machilipatnam,Chilli,Spraying,6,Rabi,0.19,33.9,2490,11
+Cultivator,30,Eluru,Cotton,Ploughing,10,Rabi,0.5,29.6,3220,11
+Tractor,45,Nellore,Wheat,Sowing,8,Summer,0.44,29.4,2530,4
+Tractor,50,Warangal,Cotton,Sowing,16,Rabi,0.7,19.8,6780,11
+Cultivator,20,Narasaraopet,Paddy,Ploughing,6,Kharif,0.71,27.3,2370,8
+Tractor,60,Narasaraopet,Sugarcane,Transport,10,Summer,0.86,37.5,4240,4
+Thresher,40,Khammam,Wheat,Threshing,4,Kharif,0.48,35.3,3190,10
+Rotavator,40,Eluru,Chilli,Tilling,4,Summer,0.53,44.0,2110,4
+Sprayer,20,Nellore,Cotton,Spraying,4,Summer,0.75,31.3,1610,5
+Tractor,45,Tenali,Cotton,Spraying,10,Kharif,0.67,33.1,4040,8
+Rotavator,30,Warangal,Paddy,Tilling,10,Rabi,0.6,35.1,4720,3
+Sprayer,30,Kurnool,Chilli,Spraying,6,Summer,0.39,7.5,1800,4
+Cultivator,40,Hyderabad,Maize,Ploughing,10,Kharif,0.74,42.0,4670,6
+Tractor,75,Warangal,Chilli,Transport,2,Kharif,1.0,20.5,1390,8
+Sprayer,20,Ongole,Cotton,Spraying,2,Kharif,0.57,10.0,810,9
+Thresher,30,Guntur,Paddy,Threshing,10,Rabi,0.69,33.5,5960,2
+Paddy Transplanter,30,Tenali,Paddy,Transplanting,6,Kharif,0.63,20.6,5020,10
+Plough,20,Kurnool,Groundnut,Ploughing,16,Rabi,0.65,8.8,4100,11
+Trailer,30,Vijayawada,Cotton,Transport,10,Rabi,0.36,5.7,2730,1
+Seed Drill,40,Warangal,Maize,Sowing,6,Rabi,0.57,5.3,2590,2
+Cultivator,40,Nellore,Paddy,Tilling,4,Rabi,0.64,6.6,1310,12
+Plough,40,Machilipatnam,Groundnut,Ploughing,10,Kharif,0.75,16.4,3030,8
+Tractor,60,Narasaraopet,Wheat,Ploughing,16,Rabi,0.46,19.1,6470,11
+Sprayer,20,Nellore,Chilli,Spraying,16,Rabi,0.88,12.0,5540,11
+Seed Drill,30,Tenali,Maize,Sowing,4,Rabi,0.44,23.3,1900,1
+Tractor,50,Ongole,Paddy,Transplanting,6,Rabi,0.49,18.6,2570,11
+Cultivator,30,Vijayawada,Chilli,Tilling,2,Kharif,1.0,5.8,880,8
+Tractor,40,Tenali,Paddy,Transplanting,6,Kharif,1.0,20.5,2830,6
+Tiller,40,Guntur,Sugarcane,Tilling,16,Summer,0.63,9.7,5100,4
+Tractor,60,Ongole,Sugarcane,Transport,10,Kharif,0.88,37.9,4810,6
+Sprayer,30,Tenali,Cotton,Spraying,6,Kharif,0.76,43.3,2940,8
+Plough,30,Nellore,Maize,Ploughing,8,Rabi,0.79,28.4,2660,1
+Seed Drill,40,Khammam,Groundnut,Sowing,2,Summer,0.72,8.7,850,4
+Tractor,45,Narasaraopet,Turmeric,Sowing,6,Kharif,0.77,41.9,3530,7
+Harvester,75,Narasaraopet,Paddy,Harvesting,16,Rabi,0.73,30.1,25840,3
+Combine Harvester,40,Khammam,Groundnut,Harvesting,10,Rabi,0.55,39.0,22500,1
+Tractor,55,Vijayawada,Paddy,Ploughing,10,Rabi,0.26,34.1,4370,12
+Sprayer,40,Narasaraopet,Chilli,Spraying,10,Rabi,0.36,26.0,3320,12
+Harvester,45,Hyderabad,Groundnut,Harvesting,6,Kharif,0.91,26.7,13410,8
+Tractor,75,Nellore,Cotton,Transport,2,Kharif,0.9,21.9,1310,9
+Paddy Transplanter,40,Guntur,Paddy,Transplanting,6,Summer,0.64,25.5,4600,4
+Trailer,20,Machilipatnam,Sugarcane,Transport,10,Kharif,0.91,32.3,3370,6
+Tractor,40,Nellore,Chilli,Transport,2,Rabi,0.69,27.6,1090,11
+Tractor,45,Eluru,Paddy,Transplanting,8,Summer,0.13,1.5,2100,4
+Combine Harvester,35,Nellore,Sugarcane,Harvesting,2,Kharif,0.86,19.5,5250,10
+Trailer,20,Guntur,Cotton,Transport,6,Rabi,0.56,32.3,1990,11
+Combine Harvester,35,Tenali,Groundnut,Harvesting,10,Summer,0.62,17.5,17810,5
+Thresher,20,Hyderabad,Paddy,Threshing,4,Kharif,0.76,20.6,3650,6
+Tiller,20,Narasaraopet,Chilli,Tilling,10,Rabi,0.7,6.9,2960,12
+Tractor,45,Machilipatnam,Chilli,Transport,8,Rabi,0.54,10.2,3000,1
+Trailer,30,Khammam,Sugarcane,Transport,10,Summer,0.39,39.2,2600,5
+Thresher,30,Machilipatnam,Maize,Threshing,8,Rabi,0.66,26.4,5010,3
+Trailer,30,Khammam,Chilli,Transport,6,Rabi,0.61,26.7,2050,11
+Thresher,30,Warangal,Paddy,Threshing,4,Rabi,0.52,40.2,3110,1
+Tractor,60,Machilipatnam,Cotton,Ploughing,2,Kharif,0.82,6.5,1060,7
+Harvester,45,Nellore,Wheat,Harvesting,10,Rabi,0.79,3.8,14480,1
+Harvester,75,Ongole,Paddy,Harvesting,6,Kharif,0.86,28.1,12050,10
+Thresher,40,Machilipatnam,Wheat,Threshing,16,Summer,0.73,9.7,9100,4
+Combine Harvester,75,Vijayawada,Wheat,Harvesting,2,Rabi,0.58,3.8,6330,2
+Harvester,75,Warangal,Wheat,Harvesting,10,Kharif,0.92,40.9,20710,10
+Combine Harvester,35,Nellore,Maize,Harvesting,10,Rabi,0.6,7.9,22320,11
+Tractor,75,Kurnool,Turmeric,Transport,4,Rabi,0.32,29.2,1870,1
+Paddy Transplanter,40,Khammam,Paddy,Transplanting,8,Summer,0.43,43.0,5470,5
+Tractor,60,Tenali,Wheat,Ploughing,6,Rabi,0.53,34.1,2950,1
+Tractor,50,Vijayawada,Maize,Sowing,6,Kharif,0.66,4.5,3010,9
+Tiller,40,Ongole,Sugarcane,Tilling,6,Rabi,0.67,16.8,2120,12
+Combine Harvester,60,Kurnool,Wheat,Harvesting,2,Kharif,0.33,24.2,5230,10
+Trailer,40,Kurnool,Cotton,Transport,8,Kharif,0.41,4.9,2160,9
+Thresher,20,Tenali,Wheat,Threshing,16,Kharif,0.6,33.5,9900,6
+Tractor,50,Warangal,Turmeric,Transport,10,Rabi,0.45,6.8,3290,12
+Thresher,30,Warangal,Wheat,Threshing,8,Rabi,0.62,30.0,5130,2
+Tractor,55,Warangal,Cotton,Spraying,10,Kharif,0.81,23.4,4570,8
+Tractor,35,Warangal,Turmeric,Transport,6,Summer,0.5,4.3,1950,5
+Thresher,30,Kurnool,Maize,Threshing,8,Kharif,0.9,9.9,5700,6
+Thresher,40,Ongole,Paddy,Threshing,4,Kharif,0.44,8.7,2810,7
+Thresher,40,Vijayawada,Maize,Threshing,10,Kharif,0.69,35.8,8430,6
+Tractor,45,Warangal,Chilli,Tilling,8,Summer,0.48,5.2,2310,4
+Tractor,40,Eluru,Turmeric,Transport,4,Rabi,0.37,12.9,1700,1
+Paddy Transplanter,40,Eluru,Paddy,Transplanting,10,Rabi,0.71,5.4,7730,2
+Tractor,35,Khammam,Turmeric,Transport,2,Rabi,0.55,2.9,800,11
+Thresher,30,Nellore,Maize,Threshing,8,Kharif,0.75,27.5,5350,7
+Tractor,55,Kurnool,Wheat,Sowing,8,Rabi,0.31,32.5,2930,12
+Seed Drill,30,Nellore,Cotton,Sowing,4,Kharif,0.42,7.8,1660,8
+Plough,20,Nellore,Groundnut,Ploughing,2,Kharif,0.86,14.7,850,6
+Combine Harvester,45,Kurnool,Sugarcane,Harvesting,6,Rabi,0.42,12.5,13110,12
+Harvester,75,Vijayawada,Wheat,Harvesting,16,Rabi,0.59,38.3,28720,2
+Tractor,35,Narasaraopet,Chilli,Spraying,16,Rabi,0.65,3.7,6070,2
+Sprayer,40,Vijayawada,Chilli,Spraying,10,Kharif,0.73,29.0,4660,10
+Tractor,35,Narasaraopet,Paddy,Transplanting,10,Kharif,1.0,24.3,4480,10
+Tractor,55,Machilipatnam,Chilli,Transport,10,Kharif,0.7,39.2,4340,8
+Sprayer,40,Guntur,Chilli,Spraying,10,Rabi,0.39,8.4,3380,2
+Tractor,40,Nellore,Turmeric,Sowing,2,Rabi,0.75,11.9,950,11
+Sprayer,30,Narasaraopet,Cotton,Spraying,2,Rabi,0.62,29.8,1000,3
+Rotavator,40,Nellore,Sugarcane,Tilling,2,Kharif,0.68,2.6,1050,8
+Rotavator,30,Kurnool,Sugarcane,Tilling,10,Kharif,0.85,21.1,5160,7
+Harvester,40,Machilipatnam,Paddy,Harvesting,8,Kharif,0.83,4.3,12640,6
+Seed Drill,20,Guntur,Turmeric,Sowing,16,Rabi,0.64,31.6,7090,1
+Paddy Transplanter,20,Warangal,Paddy,Transplanting,6,Rabi,0.59,18.0,4370,2
+Tractor,40,Eluru,Chilli,Spraying,16,Rabi,0.41,34.3,5440,12
+Thresher,40,Guntur,Paddy,Threshing,8,Kharif,0.84,37.4,6490,8
+Tractor,35,Ongole,Chilli,Spraying,6,Kharif,0.93,22.3,2970,7
+Paddy Transplanter,40,Kurnool,Paddy,Transplanting,6,Kharif,0.89,17.6,5550,9
+Tractor,45,Guntur,Turmeric,Transport,10,Rabi,0.36,6.2,3370,11
+Sprayer,30,Guntur,Chilli,Spraying,8,Rabi,0.79,35.4,3530,2
+Combine Harvester,75,Hyderabad,Sugarcane,Harvesting,2,Kharif,0.75,6.3,7810,9
+Trailer,40,Warangal,Chilli,Transport,10,Kharif,0.95,40.3,3790,7
+Tractor,35,Vijayawada,Turmeric,Transport,16,Rabi,0.62,6.1,6520,11
+Rotavator,30,Ongole,Chilli,Tilling,4,Rabi,0.5,44.7,2370,1
+Plough,40,Tenali,Wheat,Ploughing,4,Summer,0.63,20.9,1370,4
+Thresher,40,Warangal,Wheat,Threshing,8,Rabi,0.52,18.3,5500,12
+Seed Drill,30,Machilipatnam,Groundnut,Sowing,2,Kharif,1.0,10.9,1120,9
+Sprayer,30,Hyderabad,Cotton,Spraying,8,Rabi,0.61,40.0,3500,2
+Trailer,30,Vijayawada,Chilli,Transport,10,Rabi,1.0,22.4,3280,12
+Seed Drill,30,Nellore,Maize,Sowing,16,Rabi,0.66,1.6,5820,2
+Cultivator,30,Machilipatnam,Paddy,Ploughing,8,Kharif,0.54,38.7,3030,9
+Seed Drill,30,Vijayawada,Cotton,Sowing,2,Kharif,0.48,36.2,1210,7
+Tractor,60,Ongole,Wheat,Ploughing,10,Rabi,0.74,28.1,3730,1
+Tractor,50,Kurnool,Wheat,Ploughing,2,Summer,0.63,29.1,1070,5
+Tractor,60,Tenali,Chilli,Spraying,4,Kharif,0.68,43.5,2610,7
+Thresher,30,Vijayawada,Paddy,Threshing,16,Rabi,0.41,17.8,9840,1
+Sprayer,20,Machilipatnam,Chilli,Spraying,10,Summer,0.51,6.8,2730,5
+Paddy Transplanter,30,Tenali,Paddy,Transplanting,6,Rabi,0.45,16.0,4200,1
+Tiller,20,Tenali,Sugarcane,Tilling,16,Rabi,0.1,13.6,4130,12
+Sprayer,20,Narasaraopet,Chilli,Spraying,4,Summer,0.17,43.1,1550,4
+Thresher,40,Vijayawada,Paddy,Threshing,4,Kharif,0.79,5.2,3420,6
+Tractor,60,Nellore,Wheat,Sowing,10,Summer,0.66,33.3,3780,5
+Seed Drill,40,Tenali,Wheat,Sowing,4,Summer,0.62,5.3,1590,5
+Sprayer,40,Guntur,Cotton,Spraying,2,Summer,0.73,16.0,930,4
+Combine Harvester,55,Khammam,Wheat,Harvesting,8,Kharif,0.72,31.7,19470,8
+Paddy Transplanter,40,Machilipatnam,Paddy,Transplanting,6,Summer,0.7,44.6,4820,5
+Sprayer,30,Ongole,Chilli,Spraying,2,Rabi,0.44,36.7,1150,12
+Cultivator,20,Vijayawada,Cotton,Ploughing,10,Kharif,0.74,28.4,3580,9
+Cultivator,20,Vijayawada,Cotton,Ploughing,8,Rabi,0.7,19.3,2710,11
+Tractor,50,Vijayawada,Paddy,Transplanting,16,Rabi,0.53,22.9,6860,12
+Trailer,40,Narasaraopet,Cotton,Transport,10,Rabi,0.51,13.8,2590,2
+Tractor,60,Guntur,Sugarcane,Tilling,6,Kharif,0.84,11.9,3180,6
+Tractor,55,Machilipatnam,Paddy,Transplanting,6,Summer,0.38,20.6,2070,5
+Tiller,30,Guntur,Sugarcane,Tilling,8,Rabi,0.08,22.4,2320,2
+Tiller,40,Eluru,Chilli,Tilling,16,Kharif,0.82,10.9,6080,6
+Paddy Transplanter,30,Guntur,Paddy,Transplanting,10,Kharif,1.0,25.9,8930,8
+Combine Harvester,40,Eluru,Paddy,Harvesting,10,Rabi,0.63,5.0,24190,1
+Harvester,45,Nellore,Maize,Harvesting,4,Rabi,0.42,19.9,6300,3
+Thresher,40,Khammam,Paddy,Threshing,16,Kharif,1.0,22.2,11400,7
+Combine Harvester,55,Eluru,Wheat,Harvesting,2,Rabi,0.42,20.9,5570,2
+Rotavator,20,Warangal,Paddy,Tilling,4,Kharif,1.0,10.7,2530,6
+Cultivator,30,Guntur,Paddy,Ploughing,10,Rabi,0.69,29.9,3710,1
+Tractor,60,Kurnool,Paddy,Transplanting,6,Summer,0.71,37.9,2720,4
+Thresher,20,Tenali,Maize,Threshing,6,Rabi,0.53,32.7,4290,12
+Thresher,30,Hyderabad,Wheat,Threshing,2,Rabi,0.72,36.4,2010,12
+Thresher,40,Eluru,Paddy,Threshing,4,Rabi,0.43,32.8,2810,12
+Cultivator,30,Khammam,Maize,Ploughing,2,Rabi,0.49,38.2,1180,1
+Harvester,35,Vijayawada,Paddy,Harvesting,8,Kharif,0.66,32.1,14180,9
+Harvester,45,Tenali,Wheat,Harvesting,10,Rabi,0.79,27.3,15430,3
+Thresher,30,Khammam,Wheat,Threshing,4,Kharif,0.61,23.4,2570,9
+Tractor,45,Kurnool,Paddy,Transplanting,4,Rabi,0.2,7.6,1400,11
+Tractor,75,Khammam,Paddy,Transplanting,2,Rabi,0.86,13.5,1110,12
+Tractor,50,Eluru,Turmeric,Transport,6,Kharif,0.85,35.0,3260,9
+Cultivator,20,Eluru,Maize,Ploughing,16,Kharif,0.57,42.5,5430,10
+Tractor,45,Eluru,Paddy,Transplanting,2,Kharif,0.72,6.7,900,7
+Harvester,40,Nellore,Maize,Harvesting,4,Kharif,0.64,31.9,6660,6
+Seed Drill,40,Hyderabad,Maize,Sowing,16,Summer,0.69,14.0,6720,4
+Seed Drill,30,Warangal,Maize,Sowing,10,Kharif,1.0,30.0,5030,6
+Sprayer,20,Khammam,Cotton,Spraying,2,Kharif,0.91,9.9,880,7
+Cultivator,20,Hyderabad,Sugarcane,Tilling,2,Summer,0.88,34.4,1150,4
+Paddy Transplanter,30,Guntur,Paddy,Transplanting,10,Kharif,0.65,10.1,7670,7
+Plough,40,Tenali,Paddy,Ploughing,8,Rabi,0.4,29.6,2710,2
+Trailer,30,Ongole,Cotton,Transport,6,Kharif,0.93,24.5,2230,10
+Plough,40,Tenali,Cotton,Ploughing,8,Rabi,0.37,24.2,2450,2
+Combine Harvester,75,Narasaraopet,Sugarcane,Harvesting,2,Rabi,0.34,18.4,5400,1
+Trailer,30,Ongole,Turmeric,Transport,4,Kharif,0.85,27.4,1580,8
+Tractor,75,Khammam,Groundnut,Ploughing,16,Summer,0.73,22.8,6240,4
+Harvester,40,Warangal,Wheat,Harvesting,2,Rabi,0.32,21.6,2970,11
+Tiller,20,Vijayawada,Turmeric,Tilling,4,Summer,0.82,13.0,1530,4
+Tractor,60,Eluru,Sugarcane,Transport,10,Rabi,0.73,10.9,4570,2
+Sprayer,20,Kurnool,Chilli,Spraying,8,Summer,0.73,12.0,2000,4
+Tractor,45,Khammam,Chilli,Spraying,2,Kharif,0.49,26.0,1210,10
+Sprayer,20,Khammam,Cotton,Spraying,6,Kharif,1.0,16.3,2520,10
+Plough,40,Khammam,Wheat,Ploughing,2,Kharif,0.7,12.2,810,10
+Trailer,30,Narasaraopet,Cotton,Transport,4,Rabi,0.47,38.4,1570,12
+Tractor,50,Guntur,Cotton,Sowing,4,Kharif,0.46,26.8,2070,8
+Paddy Transplanter,30,Narasaraopet,Paddy,Transplanting,8,Summer,0.51,2.8,4630,4
+Trailer,40,Kurnool,Cotton,Transport,8,Kharif,0.81,7.5,2400,8
+Tractor,50,Vijayawada,Paddy,Tilling,8,Rabi,0.45,10.3,3180,1
+Combine Harvester,45,Tenali,Wheat,Harvesting,2,Kharif,0.6,16.1,5930,6
+Seed Drill,20,Machilipatnam,Cotton,Sowing,4,Rabi,0.86,32.0,1990,3
+Tractor,50,Machilipatnam,Groundnut,Sowing,2,Rabi,0.47,23.2,1040,3
+Tractor,75,Tenali,Cotton,Sowing,10,Rabi,0.54,38.2,4250,2
+Sprayer,40,Guntur,Chilli,Spraying,4,Kharif,1.0,11.6,1770,9
+Trailer,30,Vijayawada,Turmeric,Transport,6,Rabi,0.62,39.5,2610,2
+Thresher,30,Eluru,Paddy,Threshing,2,Kharif,0.56,20.3,1730,6
+Cultivator,30,Warangal,Groundnut,Ploughing,8,Kharif,0.72,31.8,3020,7
+Tractor,50,Nellore,Chilli,Transport,4,Summer,0.71,34.3,1760,5
+Sprayer,40,Ongole,Chilli,Spraying,8,Kharif,0.99,8.8,3420,10
+Combine Harvester,75,Guntur,Groundnut,Harvesting,16,Rabi,0.59,12.2,44560,1
+Thresher,40,Eluru,Maize,Threshing,16,Summer,0.25,11.8,7640,4
+Trailer,30,Guntur,Cotton,Transport,2,Summer,0.83,13.0,720,5
+Thresher,30,Guntur,Wheat,Threshing,16,Rabi,0.81,5.8,10390,2
+Tractor,45,Ongole,Paddy,Transplanting,8,Summer,0.86,44.4,3250,4
+Seed Drill,20,Khammam,Cotton,Sowing,2,Rabi,0.49,13.0,900,12
+Seed Drill,20,Nellore,Groundnut,Sowing,16,Rabi,0.48,26.7,5800,1
+Tractor,55,Nellore,Paddy,Transplanting,2,Kharif,0.76,26.5,1280,9
+Paddy Transplanter,40,Eluru,Paddy,Transplanting,10,Rabi,0.68,18.0,7740,2
+Harvester,45,Tenali,Groundnut,Harvesting,10,Kharif,0.37,4.2,13860,9
+Harvester,60,Tenali,Wheat,Harvesting,8,Summer,0.86,30.5,11730,4
+Tractor,55,Ongole,Turmeric,Sowing,10,Rabi,0.73,19.7,3790,2
+Tractor,60,Narasaraopet,Turmeric,Transport,16,Rabi,0.54,32.5,6410,2
+Trailer,40,Tenali,Cotton,Transport,2,Rabi,0.69,23.4,960,11
+Tractor,45,Guntur,Wheat,Sowing,6,Rabi,0.62,2.6,2370,2
+Tractor,55,Khammam,Cotton,Spraying,2,Kharif,0.54,16.5,1080,6
+Thresher,30,Khammam,Wheat,Threshing,6,Summer,0.74,3.6,3480,5
+Tractor,50,Warangal,Paddy,Transplanting,2,Summer,0.78,6.4,840,5
+Tractor,45,Khammam,Groundnut,Sowing,8,Rabi,0.29,6.4,2420,3
+Trailer,30,Tenali,Chilli,Transport,8,Kharif,0.87,7.8,2580,6
+Tractor,35,Guntur,Cotton,Spraying,8,Kharif,1.0,33.6,3740,8
+Tractor,45,Eluru,Cotton,Spraying,2,Rabi,0.43,6.7,870,11
+Paddy Transplanter,20,Ongole,Paddy,Transplanting,4,Summer,0.55,26.4,2740,4
+Tractor,40,Warangal,Groundnut,Sowing,10,Rabi,0.76,44.0,4360,11
+Tractor,45,Warangal,Cotton,Transport,4,Summer,0.34,3.7,1320,5
+Tractor,45,Ongole,Cotton,Spraying,8,Rabi,0.64,21.0,3010,2
+Rotavator,40,Narasaraopet,Chilli,Tilling,8,Rabi,0.7,4.6,3610,1
+Trailer,40,Narasaraopet,Turmeric,Transport,4,Summer,0.69,27.0,1340,5
+Tractor,55,Narasaraopet,Sugarcane,Transport,2,Kharif,0.98,37.1,1460,10
+Thresher,30,Ongole,Paddy,Threshing,16,Rabi,0.31,23.7,8200,2
+Tractor,50,Ongole,Paddy,Transplanting,4,Rabi,0.36,17.7,1640,1
+Tractor,55,Narasaraopet,Wheat,Sowing,8,Rabi,0.54,20.9,3050,1
+Harvester,45,Khammam,Maize,Harvesting,10,Summer,0.62,26.6,12660,5
+Seed Drill,40,Machilipatnam,Groundnut,Sowing,4,Kharif,0.63,8.0,1840,10
+Tractor,45,Eluru,Maize,Sowing,2,Rabi,0.49,24.2,1150,11
+Tractor,60,Khammam,Chilli,Transport,4,Kharif,0.65,15.9,1920,10
+Harvester,55,Tenali,Maize,Harvesting,8,Kharif,0.45,43.6,12310,10
+Tractor,50,Narasaraopet,Turmeric,Tilling,2,Kharif,1.0,25.6,1290,6
+Harvester,60,Nellore,Sugarcane,Harvesting,10,Rabi,0.06,12.3,11290,2
+Paddy Transplanter,20,Ongole,Paddy,Transplanting,4,Rabi,0.53,44.3,3210,11
+Cultivator,20,Machilipatnam,Sugarcane,Ploughing,10,Rabi,0.91,27.5,3400,12
+Plough,40,Tenali,Groundnut,Ploughing,6,Summer,0.28,32.2,1830,5
+Trailer,40,Guntur,Cotton,Transport,4,Summer,0.35,10.5,1170,5
+Seed Drill,20,Khammam,Turmeric,Sowing,2,Summer,0.46,16.6,840,5
+Tractor,55,Eluru,Cotton,Sowing,8,Kharif,0.61,26.0,3400,8
+Plough,30,Tenali,Paddy,Ploughing,16,Kharif,0.69,30.8,5550,6
+Cultivator,30,Khammam,Paddy,Ploughing,6,Kharif,0.61,42.2,2410,8
+Trailer,30,Narasaraopet,Sugarcane,Transport,6,Kharif,1.0,15.2,2100,10
+Harvester,35,Tenali,Maize,Harvesting,2,Rabi,0.75,1.6,3460,2
+Tractor,50,Ongole,Cotton,Spraying,10,Kharif,0.5,22.0,4040,10
+Combine Harvester,60,Warangal,Sugarcane,Harvesting,16,Kharif,0.57,33.9,45000,10
+Tractor,60,Kurnool,Cotton,Spraying,10,Rabi,0.64,29.8,3930,1
+Tractor,40,Nellore,Sugarcane,Transport,10,Kharif,0.88,23.4,4060,10
+Rotavator,40,Narasaraopet,Chilli,Tilling,2,Kharif,0.53,11.6,1250,7
+Tractor,55,Narasaraopet,Groundnut,Sowing,8,Kharif,1.0,40.8,4000,9
+Combine Harvester,55,Narasaraopet,Wheat,Harvesting,16,Summer,0.64,27.2,33020,4
+Tractor,60,Warangal,Paddy,Transplanting,16,Rabi,0.41,40.2,5990,11
+Harvester,75,Ongole,Wheat,Harvesting,8,Rabi,0.34,22.0,11220,2
+Tractor,75,Ongole,Cotton,Transport,4,Rabi,0.44,26.4,1900,3
+Tractor,40,Hyderabad,Cotton,Sowing,8,Kharif,0.66,27.3,3930,7
+Harvester,40,Ongole,Wheat,Harvesting,16,Kharif,0.94,2.2,26600,9
+Tractor,35,Warangal,Cotton,Transport,10,Kharif,0.61,43.5,4320,10
+Tractor,75,Hyderabad,Paddy,Transplanting,8,Summer,0.36,3.4,3080,4
+Sprayer,20,Vijayawada,Chilli,Spraying,10,Rabi,0.53,36.1,4130,1
+Tractor,75,Machilipatnam,Sugarcane,Transport,16,Summer,0.19,33.7,5090,5
+Tractor,75,Machilipatnam,Cotton,Spraying,10,Rabi,0.35,3.4,3640,1
+Tractor,35,Machilipatnam,Paddy,Transplanting,16,Kharif,0.73,32.6,6270,7
+Tractor,50,Machilipatnam,Turmeric,Transport,2,Summer,0.66,25.3,920,5
+Tractor,50,Ongole,Chilli,Spraying,8,Rabi,0.5,27.4,3070,12
+Plough,40,Hyderabad,Groundnut,Ploughing,2,Rabi,0.37,10.2,890,11
+Sprayer,20,Nellore,Chilli,Spraying,10,Rabi,0.56,41.8,3420,3
+Combine Harvester,50,Ongole,Paddy,Harvesting,4,Rabi,0.29,43.3,9030,2
+Seed Drill,20,Machilipatnam,Groundnut,Sowing,16,Kharif,0.89,17.2,6600,6
+Trailer,20,Guntur,Cotton,Transport,16,Summer,0.51,26.7,3640,5
+Paddy Transplanter,20,Khammam,Paddy,Transplanting,4,Rabi,0.36,17.6,2890,1
+Tractor,45,Hyderabad,Sugarcane,Transport,2,Summer,0.53,10.6,940,5
+Combine Harvester,60,Ongole,Sugarcane,Harvesting,4,Kharif,0.56,6.1,10130,6
+Thresher,30,Narasaraopet,Wheat,Threshing,10,Rabi,0.37,28.8,5570,11
+Cultivator,20,Narasaraopet,Paddy,Tilling,16,Rabi,0.93,26.2,5000,2
+Seed Drill,20,Khammam,Wheat,Sowing,4,Kharif,0.52,15.8,1630,9
+Thresher,40,Khammam,Paddy,Threshing,4,Summer,0.37,3.7,2080,5
+Seed Drill,30,Nellore,Turmeric,Sowing,2,Rabi,0.57,43.1,1440,12
+Tractor,60,Guntur,Wheat,Sowing,10,Kharif,0.72,17.8,4400,7
+Trailer,30,Nellore,Chilli,Transport,8,Kharif,0.97,39.2,2950,10
+Cultivator,40,Khammam,Wheat,Ploughing,6,Summer,0.88,14.4,2130,4
+Tractor,75,Hyderabad,Paddy,Transplanting,6,Rabi,0.66,30.8,3560,2
+Paddy Transplanter,40,Narasaraopet,Paddy,Transplanting,2,Kharif,0.83,32.4,2210,9
+Paddy Transplanter,30,Warangal,Paddy,Transplanting,10,Rabi,0.75,34.6,8340,11
+Tractor,60,Machilipatnam,Maize,Sowing,2,Rabi,0.65,36.6,1480,1
+Trailer,30,Khammam,Turmeric,Transport,4,Rabi,0.47,26.8,1310,12
+Cultivator,40,Warangal,Chilli,Tilling,2,Rabi,0.33,9.7,750,1
+Paddy Transplanter,30,Guntur,Paddy,Transplanting,4,Rabi,0.74,29.6,3400,3
+Sprayer,40,Ongole,Cotton,Spraying,16,Rabi,0.39,15.3,4700,2
+Thresher,30,Ongole,Maize,Threshing,6,Kharif,0.47,18.7,3880,9
+Combine Harvester,55,Vijayawada,Maize,Harvesting,6,Kharif,0.78,25.4,21080,7
+Sprayer,30,Narasaraopet,Chilli,Spraying,2,Rabi,0.57,32.0,1060,12
+Plough,20,Ongole,Maize,Ploughing,8,Rabi,0.78,18.7,2340,11
+Trailer,30,Khammam,Cotton,Transport,8,Rabi,0.56,35.6,2370,3
+Tractor,35,Warangal,Sugarcane,Transport,16,Rabi,0.32,13.1,5560,11
+Combine Harvester,40,Eluru,Maize,Harvesting,8,Rabi,0.58,30.0,19090,3
+Combine Harvester,40,Narasaraopet,Maize,Harvesting,10,Rabi,0.64,10.8,23060,11
+Tractor,55,Warangal,Chilli,Transport,10,Kharif,1.0,28.5,5360,8
+Tractor,45,Machilipatnam,Turmeric,Sowing,6,Rabi,0.63,21.5,2350,2
+Combine Harvester,60,Guntur,Wheat,Harvesting,10,Rabi,0.72,24.5,26070,3
+Tractor,50,Nellore,Maize,Sowing,8,Kharif,0.59,41.0,3730,9
+Plough,30,Warangal,Paddy,Ploughing,10,Rabi,0.71,2.0,2810,11
+Rotavator,30,Narasaraopet,Turmeric,Tilling,6,Summer,0.25,38.8,2580,4
+Trailer,40,Khammam,Cotton,Transport,10,Rabi,0.54,18.3,2800,3
+Tractor,60,Kurnool,Cotton,Spraying,2,Rabi,0.52,6.8,850,2
+Tractor,75,Ongole,Wheat,Ploughing,2,Kharif,0.57,9.2,1070,10
+Tiller,20,Warangal,Paddy,Tilling,8,Kharif,0.54,31.2,2840,10
+Harvester,40,Ongole,Wheat,Harvesting,6,Kharif,0.81,39.7,10910,8
+Tractor,35,Eluru,Turmeric,Sowing,10,Rabi,0.55,18.4,3700,1
+Thresher,30,Narasaraopet,Maize,Threshing,10,Rabi,0.41,8.6,6260,2
+Sprayer,40,Guntur,Chilli,Spraying,4,Kharif,0.59,2.6,1540,6
+Tractor,45,Kurnool,Turmeric,Transport,2,Kharif,0.83,13.2,1050,7
+Tractor,50,Guntur,Cotton,Transport,6,Rabi,0.7,18.1,2830,11
+Cultivator,20,Eluru,Turmeric,Tilling,10,Rabi,0.48,13.5,2900,1
+Trailer,40,Ongole,Cotton,Transport,8,Summer,0.3,22.0,1850,4
+Seed Drill,20,Guntur,Cotton,Sowing,8,Kharif,1.0,22.5,3820,8
+Tractor,35,Narasaraopet,Sugarcane,Transport,4,Rabi,0.61,22.1,1800,2
+Harvester,40,Warangal,Maize,Harvesting,2,Kharif,0.59,35.5,3730,6
+Cultivator,20,Eluru,Wheat,Ploughing,16,Summer,0.42,37.2,4130,4
+Combine Harvester,75,Guntur,Paddy,Harvesting,6,Rabi,0.68,16.7,17730,12
+Tractor,35,Hyderabad,Paddy,Transplanting,8,Rabi,0.69,25.2,3720,3
+Plough,40,Eluru,Paddy,Ploughing,4,Rabi,0.48,10.5,1250,3
+Tractor,45,Khammam,Turmeric,Transport,8,Kharif,0.87,12.2,3550,6
+Tractor,60,Tenali,Groundnut,Sowing,2,Kharif,0.52,26.3,1160,7
+Sprayer,40,Warangal,Chilli,Spraying,10,Summer,0.43,30.0,3310,4
+Plough,40,Vijayawada,Cotton,Ploughing,6,Rabi,0.5,5.6,1940,11
+Tiller,40,Eluru,Sugarcane,Tilling,6,Rabi,0.31,8.1,2200,2
+Tractor,55,Hyderabad,Turmeric,Tilling,8,Kharif,0.58,6.9,3840,10
+Paddy Transplanter,30,Hyderabad,Paddy,Transplanting,6,Rabi,0.8,41.3,6180,2
+Harvester,40,Kurnool,Wheat,Harvesting,10,Kharif,0.83,29.3,15900,9
+Plough,20,Nellore,Cotton,Ploughing,6,Summer,0.67,43.1,2080,4
+Tractor,35,Warangal,Chilli,Spraying,6,Rabi,0.42,26.2,2400,11
+Harvester,45,Machilipatnam,Wheat,Harvesting,2,Rabi,0.27,8.9,2770,12
+Tractor,60,Tenali,Maize,Sowing,6,Rabi,0.4,18.0,2590,12
+Seed Drill,30,Eluru,Groundnut,Sowing,6,Summer,0.51,23.1,2410,4
+Tractor,60,Narasaraopet,Chilli,Tilling,6,Rabi,0.54,8.1,2520,1
+Seed Drill,20,Eluru,Turmeric,Sowing,10,Rabi,0.42,40.6,3760,12
+Trailer,30,Machilipatnam,Sugarcane,Transport,6,Kharif,0.75,33.2,2260,7
+Plough,30,Hyderabad,Maize,Ploughing,10,Kharif,0.55,38.3,4030,7
+Plough,30,Nellore,Paddy,Ploughing,4,Kharif,0.56,32.5,1630,9
+Tractor,75,Eluru,Wheat,Ploughing,6,Kharif,0.72,3.6,3310,9
+Plough,20,Tenali,Wheat,Ploughing,2,Summer,0.67,34.9,990,4
+Tractor,60,Kurnool,Paddy,Tilling,2,Rabi,0.49,3.0,800,2
+Harvester,60,Machilipatnam,Sugarcane,Harvesting,2,Summer,0.59,42.6,3460,5
+Rotavator,30,Narasaraopet,Sugarcane,Tilling,8,Rabi,0.45,24.4,3460,12
+Seed Drill,40,Guntur,Wheat,Sowing,8,Summer,0.63,10.7,3030,4
+Harvester,50,Guntur,Wheat,Harvesting,4,Summer,0.39,40.3,5640,4
+Tractor,50,Vijayawada,Paddy,Ploughing,2,Rabi,0.54,2.6,900,1
+Seed Drill,20,Ongole,Turmeric,Sowing,8,Rabi,0.68,4.3,2620,12
+Tractor,75,Hyderabad,Wheat,Ploughing,8,Kharif,0.82,17.1,4620,7
+Plough,30,Khammam,Paddy,Ploughing,8,Kharif,0.75,7.4,2670,10
+Harvester,45,Eluru,Maize,Harvesting,8,Rabi,0.21,36.7,9150,1
+Tractor,50,Nellore,Turmeric,Transport,10,Summer,0.47,27.4,2980,4
+Cultivator,30,Machilipatnam,Paddy,Ploughing,6,Kharif,0.52,35.3,2400,6
+Trailer,30,Warangal,Chilli,Transport,10,Rabi,0.29,30.4,2660,11
+Seed Drill,20,Warangal,Turmeric,Sowing,8,Summer,0.81,38.2,3090,5
+Combine Harvester,55,Eluru,Sugarcane,Harvesting,2,Rabi,0.42,3.4,4720,2
+Tractor,60,Guntur,Chilli,Spraying,6,Summer,0.75,40.0,3090,5
+Sprayer,40,Kurnool,Cotton,Spraying,6,Rabi,0.35,26.2,1960,1
+Tractor,45,Khammam,Sugarcane,Ploughing,8,Rabi,0.43,12.2,2850,1
+Combine Harvester,75,Hyderabad,Maize,Harvesting,10,Summer,0.57,24.2,25680,4
+Paddy Transplanter,20,Tenali,Paddy,Transplanting,10,Kharif,0.78,7.3,7200,10
+Thresher,40,Tenali,Maize,Threshing,8,Rabi,0.37,7.4,3960,12
+Thresher,30,Eluru,Wheat,Threshing,8,Summer,0.57,44.6,4650,5
+Thresher,30,Nellore,Wheat,Threshing,6,Summer,0.51,12.7,2990,5
+Tractor,75,Hyderabad,Sugarcane,Tilling,8,Summer,0.82,38.4,4180,5
+Harvester,45,Kurnool,Wheat,Harvesting,10,Kharif,0.36,17.2,13100,6
+Sprayer,20,Tenali,Chilli,Spraying,4,Summer,0.42,37.5,1650,5
+Sprayer,20,Hyderabad,Chilli,Spraying,8,Rabi,0.72,29.3,3460,2
+Thresher,30,Tenali,Maize,Threshing,6,Rabi,0.08,30.3,3530,3
+Tractor,40,Eluru,Wheat,Sowing,4,Summer,0.63,24.8,1890,4
+Tractor,45,Eluru,Wheat,Sowing,4,Kharif,1.0,3.5,2050,6
+Thresher,40,Hyderabad,Wheat,Threshing,2,Summer,0.51,27.4,1660,5
+Thresher,20,Khammam,Maize,Threshing,6,Kharif,1.0,37.2,4780,6
+Tractor,35,Eluru,Cotton,Spraying,2,Summer,0.57,21.1,1000,4
+Tractor,60,Khammam,Paddy,Transplanting,10,Rabi,0.46,29.4,4020,3
+Tractor,60,Eluru,Chilli,Spraying,4,Rabi,0.46,38.3,2080,11
+Cultivator,20,Vijayawada,Groundnut,Ploughing,4,Kharif,0.87,16.5,1830,7
+Tractor,50,Kurnool,Maize,Sowing,8,Summer,0.55,33.0,2780,4
+Tractor,35,Kurnool,Turmeric,Sowing,4,Kharif,0.95,42.9,2350,6
+Cultivator,30,Eluru,Maize,Ploughing,16,Rabi,0.38,32.1,4840,3
+Tiller,20,Machilipatnam,Chilli,Tilling,4,Rabi,0.36,31.5,1700,11
+Tractor,40,Machilipatnam,Paddy,Transplanting,6,Rabi,0.55,8.8,2430,12
+Harvester,35,Vijayawada,Sugarcane,Harvesting,4,Kharif,0.75,17.7,7560,9
+Trailer,30,Warangal,Sugarcane,Transport,10,Rabi,0.79,31.2,3150,11
+Tractor,75,Ongole,Paddy,Transplanting,16,Summer,0.52,26.9,5370,4
+Plough,30,Warangal,Cotton,Ploughing,4,Kharif,0.72,30.0,1850,7
+Combine Harvester,55,Nellore,Sugarcane,Harvesting,16,Kharif,0.74,44.5,41760,8
+Tractor,45,Eluru,Wheat,Sowing,10,Rabi,0.7,43.6,4250,2
+Seed Drill,30,Kurnool,Groundnut,Sowing,6,Summer,0.52,32.6,1990,5
+Seed Drill,30,Hyderabad,Maize,Sowing,4,Rabi,0.66,27.4,2180,11
+Tractor,45,Machilipatnam,Paddy,Ploughing,6,Rabi,0.71,25.1,2630,12
+Rotavator,20,Khammam,Sugarcane,Tilling,4,Kharif,0.62,9.7,2250,6
+Harvester,55,Kurnool,Paddy,Harvesting,16,Kharif,0.75,23.0,29270,10
+Cultivator,40,Narasaraopet,Maize,Ploughing,4,Rabi,0.48,31.5,1640,1
+Trailer,20,Narasaraopet,Turmeric,Transport,6,Rabi,0.28,29.5,1800,11
+Sprayer,20,Machilipatnam,Chilli,Spraying,4,Rabi,0.47,15.5,1470,12
+Tractor,45,Ongole,Groundnut,Ploughing,6,Kharif,0.66,30.0,2780,10
+Tiller,40,Eluru,Turmeric,Tilling,2,Rabi,0.57,29.9,1250,2
+Rotavator,20,Hyderabad,Turmeric,Tilling,6,Rabi,0.74,42.6,3820,11
+Tractor,45,Ongole,Turmeric,Sowing,8,Rabi,0.75,23.4,3000,3
+Tractor,45,Vijayawada,Cotton,Transport,6,Kharif,0.69,44.1,3440,9
+Thresher,40,Guntur,Maize,Threshing,4,Kharif,0.7,18.3,3080,10
+Tractor,60,Machilipatnam,Paddy,Transplanting,2,Rabi,0.74,20.4,1140,1
+Rotavator,20,Warangal,Sugarcane,Tilling,8,Summer,0.18,8.5,2320,4
+Tractor,40,Tenali,Paddy,Ploughing,2,Kharif,0.54,8.4,920,10
+Cultivator,40,Vijayawada,Sugarcane,Tilling,16,Summer,0.5,13.6,4760,4
+Tractor,75,Nellore,Sugarcane,Transport,2,Summer,0.45,30.8,1190,4
+Plough,20,Eluru,Cotton,Ploughing,16,Rabi,0.59,12.4,4680,2
+Tractor,60,Vijayawada,Chilli,Transport,10,Rabi,0.35,4.8,3690,2
+Sprayer,30,Tenali,Chilli,Spraying,8,Rabi,0.52,35.3,2840,2
+Thresher,30,Machilipatnam,Wheat,Threshing,16,Rabi,0.66,18.5,9400,12
+Tractor,55,Ongole,Paddy,Transplanting,10,Rabi,0.48,42.6,3760,12
+Thresher,20,Eluru,Maize,Threshing,8,Rabi,0.39,5.1,4080,11
+Sprayer,20,Ongole,Cotton,Spraying,6,Summer,0.3,42.9,1910,5
+Paddy Transplanter,20,Khammam,Paddy,Transplanting,6,Rabi,0.63,31.9,4380,12
+Tractor,40,Ongole,Sugarcane,Ploughing,8,Rabi,0.67,32.7,3290,11
+Plough,20,Guntur,Cotton,Ploughing,8,Kharif,1.0,15.6,2810,8
+Thresher,20,Tenali,Maize,Threshing,4,Kharif,0.67,11.8,3090,7
+Tractor,45,Khammam,Chilli,Transport,16,Kharif,0.54,27.0,6600,9
+Cultivator,20,Narasaraopet,Turmeric,Tilling,10,Kharif,0.72,22.7,3470,6
+Thresher,20,Khammam,Paddy,Threshing,2,Kharif,0.48,21.1,1540,7
+Tractor,60,Tenali,Paddy,Transplanting,4,Kharif,0.68,31.5,2270,9
+Trailer,40,Hyderabad,Turmeric,Transport,10,Rabi,0.35,26.9,3020,11
+Paddy Transplanter,30,Khammam,Paddy,Transplanting,16,Kharif,0.72,11.3,12410,9
+Harvester,40,Hyderabad,Groundnut,Harvesting,2,Summer,0.45,6.5,3190,5
+Rotavator,40,Tenali,Chilli,Tilling,4,Kharif,0.89,44.3,3050,7
+Thresher,30,Warangal,Paddy,Threshing,16,Rabi,0.28,10.3,7950,3
+Seed Drill,20,Machilipatnam,Wheat,Sowing,8,Kharif,0.68,8.6,3420,10
+Thresher,30,Vijayawada,Paddy,Threshing,10,Rabi,0.51,44.6,6650,2
+Tractor,60,Eluru,Wheat,Ploughing,8,Rabi,0.42,42.0,3600,1
+Combine Harvester,60,Kurnool,Groundnut,Harvesting,4,Rabi,0.5,12.4,8640,1
+Combine Harvester,50,Ongole,Sugarcane,Harvesting,4,Kharif,0.77,42.6,12720,8
+Trailer,30,Hyderabad,Sugarcane,Transport,10,Rabi,0.49,32.9,3300,3
+Tractor,75,Hyderabad,Groundnut,Sowing,4,Kharif,0.65,16.7,2590,9
+Thresher,40,Tenali,Wheat,Threshing,6,Kharif,0.65,40.7,4970,8
+Tractor,45,Narasaraopet,Turmeric,Tilling,4,Rabi,0.59,34.9,1860,1
+Sprayer,30,Narasaraopet,Cotton,Spraying,4,Summer,0.78,27.6,1740,4
+Trailer,40,Tenali,Turmeric,Transport,16,Rabi,0.52,23.9,4530,2
+Plough,20,Tenali,Wheat,Ploughing,16,Kharif,1.0,10.4,5550,8
+Seed Drill,30,Ongole,Wheat,Sowing,4,Kharif,1.0,17.8,2160,7
+Tractor,75,Machilipatnam,Sugarcane,Tilling,4,Rabi,0.53,43.4,2210,12
+Cultivator,20,Machilipatnam,Paddy,Tilling,16,Rabi,0.55,26.2,4740,3
+Trailer,40,Khammam,Chilli,Transport,10,Summer,0.53,2.5,2230,4
+Cultivator,30,Ongole,Wheat,Ploughing,6,Kharif,0.64,30.4,2620,9
+Sprayer,40,Nellore,Cotton,Spraying,16,Rabi,0.61,28.5,5220,12
+Paddy Transplanter,20,Hyderabad,Paddy,Transplanting,2,Rabi,0.21,12.4,1530,3
+Trailer,30,Ongole,Turmeric,Transport,10,Kharif,0.78,43.3,3180,9
+Seed Drill,40,Warangal,Turmeric,Sowing,8,Kharif,1.0,3.8,4180,9
+Cultivator,40,Ongole,Paddy,Tilling,16,Kharif,0.86,15.4,5860,10
+Seed Drill,40,Ongole,Maize,Sowing,10,Rabi,0.6,42.8,4300,2
+Rotavator,40,Tenali,Sugarcane,Tilling,4,Kharif,0.8,5.8,2270,8
+Sprayer,40,Machilipatnam,Chilli,Spraying,6,Kharif,0.66,43.2,2440,9
+Seed Drill,20,Hyderabad,Cotton,Sowing,6,Summer,0.71,18.2,2790,5
+Cultivator,40,Vijayawada,Chilli,Tilling,10,Rabi,0.78,31.3,4280,2
+Tractor,60,Tenali,Chilli,Spraying,2,Kharif,0.98,4.7,1080,8
+Sprayer,30,Hyderabad,Chilli,Spraying,16,Kharif,0.86,9.6,7520,8
+Thresher,30,Khammam,Maize,Threshing,2,Kharif,1.0,33.0,1960,6
+Combine Harvester,60,Eluru,Wheat,Harvesting,10,Rabi,0.37,21.8,21440,11
+Trailer,30,Vijayawada,Chilli,Transport,2,Kharif,0.86,18.6,950,7
+Plough,40,Tenali,Sugarcane,Ploughing,16,Rabi,0.67,1.4,4330,12
+Tractor,35,Khammam,Chilli,Transport,4,Kharif,0.75,16.2,1990,9
+Tiller,30,Tenali,Turmeric,Tilling,10,Kharif,0.44,31.4,3810,7
+Thresher,40,Ongole,Maize,Threshing,10,Rabi,0.68,2.4,5720,2
+Tractor,45,Machilipatnam,Cotton,Transport,16,Kharif,0.55,14.5,6360,7
+Trailer,20,Machilipatnam,Cotton,Transport,10,Rabi,0.79,10.4,2850,12
+Trailer,40,Nellore,Sugarcane,Transport,6,Kharif,0.6,29.2,1990,10
+Harvester,55,Tenali,Paddy,Harvesting,4,Summer,0.67,18.6,6530,4
+Thresher,30,Vijayawada,Maize,Threshing,6,Rabi,0.73,37.6,4870,3
+Combine Harvester,40,Kurnool,Sugarcane,Harvesting,2,Rabi,0.66,40.8,5070,2
+Harvester,50,Tenali,Sugarcane,Harvesting,8,Kharif,0.72,6.1,13080,7
+Thresher,40,Tenali,Wheat,Threshing,6,Kharif,0.54,25.4,4930,9
+Tractor,60,Vijayawada,Paddy,Transplanting,8,Summer,0.3,19.6,2810,4
+Seed Drill,20,Khammam,Maize,Sowing,8,Summer,0.64,32.8,2790,5
+Paddy Transplanter,30,Ongole,Paddy,Transplanting,6,Kharif,0.79,5.8,4980,6
+Sprayer,40,Ongole,Cotton,Spraying,4,Rabi,0.36,25.9,1590,2
+Sprayer,20,Ongole,Cotton,Spraying,10,Kharif,0.65,24.8,3300,6
+Harvester,60,Hyderabad,Wheat,Harvesting,6,Rabi,0.62,26.9,12470,11
+Tractor,45,Hyderabad,Chilli,Spraying,4,Kharif,0.55,39.7,2370,10
+Tractor,55,Machilipatnam,Cotton,Transport,8,Summer,0.37,37.4,2940,5
+Tractor,35,Tenali,Turmeric,Sowing,2,Summer,0.64,38.1,1160,5
+Harvester,50,Ongole,Paddy,Harvesting,8,Summer,0.65,43.4,10250,4
+Thresher,20,Guntur,Paddy,Threshing,6,Rabi,0.59,34.6,4150,3
+Trailer,30,Ongole,Chilli,Transport,16,Kharif,0.82,34.6,4620,10
+Tractor,75,Ongole,Maize,Ploughing,10,Rabi,0.48,30.9,3860,12
+Plough,20,Hyderabad,Paddy,Ploughing,16,Rabi,0.52,4.5,5120,2
+Tractor,50,Nellore,Groundnut,Sowing,2,Kharif,0.78,30.0,1180,9
+Trailer,20,Machilipatnam,Sugarcane,Transport,6,Kharif,0.76,24.0,2210,7
+Seed Drill,30,Warangal,Maize,Sowing,10,Kharif,0.83,11.2,4650,10
+Plough,40,Guntur,Maize,Ploughing,10,Summer,0.49,8.7,2610,4
+Thresher,40,Ongole,Maize,Threshing,16,Kharif,0.72,3.8,10740,10
+Cultivator,40,Tenali,Maize,Ploughing,16,Kharif,0.72,27.6,5610,7
+Paddy Transplanter,40,Vijayawada,Paddy,Transplanting,2,Rabi,0.54,1.8,1640,2
+Tractor,45,Khammam,Cotton,Spraying,10,Kharif,0.85,26.0,4130,8
+Tractor,45,Khammam,Sugarcane,Tilling,4,Summer,0.55,43.2,1930,4
+Sprayer,20,Nellore,Chilli,Spraying,2,Rabi,0.63,5.6,610,12
+Tiller,30,Hyderabad,Sugarcane,Tilling,6,Kharif,0.42,37.1,2870,6
+Tractor,55,Kurnool,Sugarcane,Tilling,8,Summer,0.59,9.7,2660,4
+Cultivator,20,Tenali,Groundnut,Ploughing,4,Kharif,0.98,12.3,1720,10
+Tractor,75,Narasaraopet,Cotton,Transport,16,Summer,0.75,23.2,5760,4
+Tractor,55,Kurnool,Turmeric,Transport,6,Kharif,0.8,36.2,2860,9
+Sprayer,30,Warangal,Chilli,Spraying,10,Rabi,0.32,14.2,2680,2
+Paddy Transplanter,20,Hyderabad,Paddy,Transplanting,4,Rabi,0.57,17.2,3460,11
+Trailer,40,Kurnool,Turmeric,Transport,6,Rabi,0.45,36.3,2020,3
+Combine Harvester,55,Tenali,Wheat,Harvesting,2,Kharif,0.77,28.4,6110,7
+Tractor,45,Vijayawada,Paddy,Transplanting,8,Summer,0.55,38.3,2960,5
+Paddy Transplanter,30,Tenali,Paddy,Transplanting,6,Kharif,0.71,24.1,5250,6
+Tractor,40,Ongole,Paddy,Transplanting,2,Kharif,0.69,30.0,1210,6
+Combine Harvester,50,Ongole,Paddy,Harvesting,10,Rabi,0.64,44.5,23800,11
+Plough,20,Hyderabad,Maize,Ploughing,10,Rabi,0.58,8.1,3170,3
+Cultivator,20,Nellore,Sugarcane,Tilling,8,Rabi,0.53,26.1,2490,11
+Cultivator,20,Khammam,Cotton,Ploughing,16,Kharif,0.7,9.6,4860,9
+Combine Harvester,45,Guntur,Wheat,Harvesting,8,Rabi,0.59,39.0,18970,11
+Trailer,40,Ongole,Sugarcane,Transport,8,Rabi,0.86,22.1,2510,1
+Combine Harvester,35,Machilipatnam,Paddy,Harvesting,2,Rabi,0.7,3.5,4600,3
+Seed Drill,30,Hyderabad,Maize,Sowing,10,Summer,0.79,21.3,4410,5
+Seed Drill,40,Hyderabad,Wheat,Sowing,6,Rabi,0.31,10.2,2920,11
+Plough,40,Guntur,Maize,Ploughing,6,Kharif,0.7,13.3,2350,7
+Tractor,55,Guntur,Turmeric,Sowing,6,Kharif,0.78,27.3,3180,6
+Paddy Transplanter,30,Guntur,Paddy,Transplanting,8,Rabi,0.34,6.6,5250,1
+Trailer,40,Tenali,Turmeric,Transport,10,Kharif,1.0,7.0,3010,9
+Tractor,40,Khammam,Cotton,Spraying,10,Kharif,0.71,12.3,4020,6
+Rotavator,30,Warangal,Turmeric,Tilling,4,Kharif,0.73,2.6,2130,7
+Sprayer,30,Vijayawada,Cotton,Spraying,8,Kharif,0.87,13.2,3360,6
+Tiller,30,Kurnool,Paddy,Tilling,6,Summer,0.69,6.7,1850,5
+Sprayer,40,Ongole,Cotton,Spraying,6,Kharif,0.7,32.5,2660,8
+Cultivator,30,Ongole,Paddy,Tilling,2,Rabi,0.49,2.7,640,3
+Seed Drill,40,Kurnool,Turmeric,Sowing,10,Summer,0.62,44.6,3570,4
+Sprayer,20,Hyderabad,Cotton,Spraying,4,Summer,0.49,17.6,1710,5
+Tractor,50,Narasaraopet,Cotton,Transport,10,Kharif,0.8,29.1,4520,10
+Tractor,60,Kurnool,Wheat,Sowing,10,Rabi,0.77,18.7,4170,3
+Thresher,40,Guntur,Wheat,Threshing,8,Kharif,1.0,19.2,6170,10
+Tractor,40,Vijayawada,Chilli,Tilling,4,Rabi,0.59,18.3,2040,11
+Tractor,60,Guntur,Groundnut,Sowing,4,Rabi,0.71,18.5,1980,2
+Cultivator,30,Hyderabad,Wheat,Ploughing,8,Rabi,0.33,43.6,3090,2
+Plough,20,Guntur,Sugarcane,Ploughing,4,Kharif,0.56,36.1,1550,9
+Tractor,40,Nellore,Cotton,Ploughing,8,Summer,0.56,33.0,2980,5
+Trailer,30,Guntur,Sugarcane,Transport,4,Kharif,0.54,40.0,1830,8
+Tiller,30,Kurnool,Sugarcane,Tilling,6,Kharif,0.61,27.4,2450,7
+Sprayer,40,Vijayawada,Cotton,Spraying,4,Rabi,0.55,10.3,1680,3
+Cultivator,40,Guntur,Turmeric,Tilling,4,Rabi,0.54,37.2,1740,1
+Trailer,30,Guntur,Sugarcane,Transport,16,Rabi,0.38,39.0,4220,12
+Tractor,45,Khammam,Sugarcane,Tilling,2,Rabi,0.53,33.5,1210,1
+Tractor,60,Khammam,Paddy,Transplanting,8,Rabi,0.52,42.8,3290,1
+Tractor,55,Machilipatnam,Sugarcane,Transport,8,Rabi,0.52,4.6,2940,2
+Tractor,55,Tenali,Turmeric,Sowing,2,Kharif,0.79,7.5,1060,7
+Tiller,40,Guntur,Turmeric,Tilling,10,Kharif,1.0,36.1,4240,8
+Seed Drill,20,Vijayawada,Cotton,Sowing,10,Summer,0.47,9.1,3350,4
+Sprayer,20,Hyderabad,Chilli,Spraying,4,Summer,0.33,18.0,1370,4
+Tractor,50,Guntur,Paddy,Transplanting,6,Rabi,0.48,18.9,2640,1
+Tractor,40,Warangal,Paddy,Transplanting,16,Kharif,0.73,35.1,7140,7
+Thresher,20,Hyderabad,Paddy,Threshing,10,Rabi,0.56,32.8,7300,11
+Thresher,20,Vijayawada,Maize,Threshing,6,Rabi,0.67,3.1,3870,1
+Thresher,20,Machilipatnam,Wheat,Threshing,10,Rabi,0.8,34.1,7060,1
+Tiller,20,Vijayawada,Sugarcane,Tilling,8,Kharif,0.86,8.7,3230,7
+Seed Drill,40,Tenali,Turmeric,Sowing,6,Kharif,0.87,11.5,3010,10
+Cultivator,20,Eluru,Wheat,Ploughing,16,Kharif,0.75,28.3,5350,9
+Tractor,55,Hyderabad,Groundnut,Sowing,8,Summer,0.46,39.2,3250,4
+Paddy Transplanter,20,Nellore,Paddy,Transplanting,2,Kharif,0.62,20.4,1660,9
+Tractor,45,Hyderabad,Wheat,Sowing,10,Kharif,1.0,13.4,5280,10
+Tractor,50,Nellore,Turmeric,Sowing,16,Kharif,0.63,1.8,5640,10
+Tractor,35,Vijayawada,Wheat,Sowing,4,Rabi,0.52,35.6,2020,2
+Cultivator,30,Khammam,Paddy,Ploughing,6,Kharif,0.85,14.0,2340,9
+Paddy Transplanter,40,Tenali,Paddy,Transplanting,6,Rabi,0.16,30.6,4350,12
+Sprayer,20,Nellore,Chilli,Spraying,16,Summer,0.9,25.5,4910,5
+Paddy Transplanter,30,Tenali,Paddy,Transplanting,6,Rabi,0.49,24.5,4870,12
+Tractor,60,Hyderabad,Maize,Sowing,2,Kharif,1.0,4.4,1280,10
+Tractor,55,Kurnool,Sugarcane,Tilling,10,Summer,0.72,29.1,3300,4
+Sprayer,30,Hyderabad,Chilli,Spraying,4,Kharif,0.54,2.4,1700,9
+Tractor,35,Tenali,Turmeric,Tilling,10,Kharif,0.69,42.1,4730,10
+Seed Drill,40,Vijayawada,Groundnut,Sowing,8,Rabi,0.27,11.8,3300,12
+Paddy Transplanter,40,Nellore,Paddy,Transplanting,10,Rabi,0.77,25.1,7580,1
+Combine Harvester,55,Eluru,Sugarcane,Harvesting,2,Rabi,0.49,43.9,6100,11
+Trailer,30,Vijayawada,Sugarcane,Transport,10,Summer,0.64,14.3,2920,5
+Tractor,60,Eluru,Cotton,Spraying,4,Kharif,0.73,37.4,2400,10
+Tractor,50,Ongole,Cotton,Spraying,16,Summer,0.5,40.1,5480,5
+Tractor,50,Khammam,Groundnut,Ploughing,16,Summer,0.67,5.9,5190,4
+Tractor,35,Kurnool,Maize,Sowing,4,Kharif,0.45,12.7,1540,8
+Tractor,50,Nellore,Paddy,Transplanting,2,Summer,0.36,41.5,1230,5
+Tractor,55,Hyderabad,Maize,Sowing,4,Kharif,0.82,37.7,2910,7
+Tractor,40,Eluru,Turmeric,Transport,10,Kharif,1.0,27.5,4530,6
+Tractor,45,Kurnool,Wheat,Sowing,8,Rabi,0.63,30.2,2930,2
+Rotavator,30,Machilipatnam,Sugarcane,Tilling,10,Rabi,0.71,2.3,4370,2
+Thresher,40,Machilipatnam,Maize,Threshing,2,Summer,0.65,2.1,1120,5
+Sprayer,30,Warangal,Chilli,Spraying,10,Rabi,0.46,24.8,3380,1
+Tractor,40,Tenali,Paddy,Transplanting,10,Rabi,0.87,18.1,3990,2
+Sprayer,40,Ongole,Chilli,Spraying,8,Summer,0.68,32.5,2770,4
+Tractor,50,Tenali,Chilli,Transport,4,Kharif,0.73,44.3,2640,7
+Thresher,30,Eluru,Wheat,Threshing,2,Kharif,1.0,7.8,1770,10
+Tractor,60,Nellore,Paddy,Transplanting,8,Kharif,0.89,39.4,3690,10
+Sprayer,40,Eluru,Chilli,Spraying,4,Rabi,0.65,13.4,1630,12
+Tractor,45,Kurnool,Paddy,Ploughing,2,Rabi,0.61,31.6,1210,1
+Tractor,75,Warangal,Chilli,Spraying,2,Summer,0.43,42.5,1240,4
+Cultivator,40,Guntur,Groundnut,Ploughing,6,Rabi,0.25,17.2,2140,12
+Rotavator,40,Ongole,Chilli,Tilling,8,Summer,0.75,21.7,3350,5
+Combine Harvester,40,Vijayawada,Paddy,Harvesting,4,Summer,0.76,39.1,10920,4
+Tractor,50,Machilipatnam,Paddy,Transplanting,4,Summer,0.25,6.5,1250,5
+Tractor,40,Narasaraopet,Paddy,Transplanting,6,Summer,0.51,8.0,2000,4
+Harvester,35,Vijayawada,Wheat,Harvesting,6,Kharif,0.69,2.6,11220,6
+Sprayer,40,Ongole,Chilli,Spraying,4,Kharif,0.54,33.8,2020,9
+Thresher,30,Warangal,Maize,Threshing,8,Kharif,0.64,23.9,5530,6
+Tractor,40,Eluru,Paddy,Transplanting,6,Rabi,0.78,13.9,2400,3
+Sprayer,40,Machilipatnam,Cotton,Spraying,6,Rabi,0.06,2.3,1810,12
+Tractor,40,Ongole,Turmeric,Transport,4,Summer,0.81,17.8,1640,4
+Combine Harvester,60,Vijayawada,Paddy,Harvesting,10,Rabi,0.76,44.7,29430,1
+Combine Harvester,45,Hyderabad,Paddy,Harvesting,2,Rabi,0.36,3.2,5510,11
+Tractor,60,Guntur,Turmeric,Sowing,10,Kharif,0.76,3.9,4340,10
+Thresher,40,Warangal,Maize,Threshing,2,Rabi,0.63,16.9,1510,11
+Cultivator,20,Hyderabad,Groundnut,Ploughing,16,Rabi,0.56,17.5,5780,1
+Paddy Transplanter,30,Eluru,Paddy,Transplanting,6,Rabi,0.29,11.6,3960,12
+Tractor,45,Khammam,Chilli,Spraying,10,Kharif,0.54,24.7,4020,10
+Seed Drill,40,Eluru,Wheat,Sowing,6,Summer,0.42,38.4,2590,5
+Tractor,60,Tenali,Sugarcane,Ploughing,16,Kharif,0.67,39.4,6910,6
+Harvester,55,Hyderabad,Wheat,Harvesting,10,Rabi,0.63,38.7,17740,2
+Sprayer,30,Hyderabad,Cotton,Spraying,16,Rabi,0.25,22.0,5610,12
+Tiller,40,Vijayawada,Paddy,Tilling,2,Kharif,0.67,4.5,910,8
+Sprayer,20,Warangal,Chilli,Spraying,2,Kharif,0.7,18.3,1080,9
+Harvester,35,Nellore,Paddy,Harvesting,4,Kharif,0.44,11.8,5500,7
+Thresher,30,Guntur,Maize,Threshing,8,Kharif,0.65,16.1,5320,10
+Thresher,30,Tenali,Wheat,Threshing,2,Kharif,1.0,8.6,1590,9
+Seed Drill,40,Warangal,Turmeric,Sowing,10,Summer,0.64,33.6,3990,5
+Paddy Transplanter,40,Narasaraopet,Paddy,Transplanting,6,Kharif,0.84,23.9,5780,9
+Sprayer,30,Nellore,Chilli,Spraying,6,Rabi,0.54,28.0,2290,1
+Tractor,60,Eluru,Sugarcane,Ploughing,8,Kharif,0.56,14.7,3400,6
+Thresher,30,Nellore,Paddy,Threshing,4,Rabi,0.57,26.4,2650,11
+Tractor,35,Kurnool,Turmeric,Sowing,2,Kharif,0.73,16.3,910,9
+Thresher,20,Kurnool,Paddy,Threshing,10,Rabi,0.62,27.7,5700,3
+Tractor,35,Vijayawada,Chilli,Transport,8,Kharif,0.79,34.6,3940,6
+Tractor,75,Ongole,Paddy,Transplanting,10,Kharif,0.79,40.1,5350,10
+Cultivator,30,Hyderabad,Paddy,Ploughing,16,Kharif,0.97,8.7,7310,7
+Rotavator,30,Khammam,Paddy,Tilling,6,Kharif,0.95,41.8,3700,6
+Harvester,60,Khammam,Wheat,Harvesting,4,Summer,0.59,28.7,6400,5
+Tiller,20,Vijayawada,Sugarcane,Tilling,10,Rabi,0.47,25.9,3860,3
+Cultivator,30,Kurnool,Wheat,Ploughing,8,Rabi,0.5,21.4,2300,3
+Combine Harvester,60,Warangal,Sugarcane,Harvesting,2,Kharif,0.41,29.4,5320,6
+Combine Harvester,75,Tenali,Paddy,Harvesting,6,Kharif,0.56,18.7,16670,8
+Thresher,40,Machilipatnam,Maize,Threshing,2,Kharif,0.7,26.0,1890,6
+Tractor,50,Hyderabad,Groundnut,Ploughing,2,Kharif,0.63,31.3,1540,10
+Seed Drill,30,Tenali,Wheat,Sowing,8,Kharif,0.78,25.4,3600,10
+Tractor,50,Warangal,Paddy,Transplanting,8,Summer,0.51,42.7,2950,4
+Tiller,30,Eluru,Chilli,Tilling,4,Kharif,0.83,24.2,2180,9
+Paddy Transplanter,20,Tenali,Paddy,Transplanting,4,Rabi,0.7,30.4,3300,12
+Tractor,40,Tenali,Groundnut,Ploughing,10,Rabi,0.69,39.6,4070,1
+Sprayer,30,Tenali,Cotton,Spraying,16,Rabi,1.0,9.9,5610,2
+Tractor,55,Tenali,Sugarcane,Transport,16,Kharif,0.74,4.6,6190,7
+Tractor,75,Kurnool,Wheat,Ploughing,10,Kharif,1.0,32.7,5590,7
+Sprayer,30,Hyderabad,Chilli,Spraying,8,Rabi,0.54,29.3,3230,2
+Combine Harvester,55,Warangal,Wheat,Harvesting,6,Rabi,0.75,39.9,16300,11
+Combine Harvester,35,Vijayawada,Paddy,Harvesting,8,Kharif,0.84,10.3,24070,10
+Cultivator,20,Machilipatnam,Groundnut,Ploughing,4,Kharif,0.89,28.5,1740,8
+Combine Harvester,35,Kurnool,Groundnut,Harvesting,2,Rabi,0.61,12.0,4780,2
+Sprayer,40,Machilipatnam,Cotton,Spraying,16,Rabi,0.38,14.4,4850,12
+Thresher,40,Khammam,Wheat,Threshing,2,Kharif,0.72,4.8,1390,8
+Plough,40,Guntur,Paddy,Ploughing,2,Kharif,0.88,29.1,1120,7
+Seed Drill,40,Guntur,Groundnut,Sowing,6,Rabi,0.69,11.4,2610,12
+Rotavator,40,Hyderabad,Paddy,Tilling,4,Rabi,0.61,27.3,2740,11
+Paddy Transplanter,40,Kurnool,Paddy,Transplanting,6,Rabi,0.47,41.4,4160,11
+Sprayer,30,Guntur,Chilli,Spraying,2,Rabi,0.6,17.0,940,2
+Cultivator,40,Kurnool,Chilli,Tilling,4,Kharif,0.61,28.5,1670,8
+Tractor,55,Eluru,Sugarcane,Tilling,10,Rabi,0.48,28.8,3860,3
+Plough,40,Eluru,Maize,Ploughing,10,Summer,0.46,7.4,2430,4
+Plough,20,Nellore,Paddy,Ploughing,10,Rabi,0.26,10.9,2440,1
+Tractor,45,Khammam,Chilli,Transport,4,Rabi,0.5,7.0,1630,1
+Sprayer,20,Vijayawada,Cotton,Spraying,8,Rabi,0.91,22.3,3030,11
+Thresher,30,Kurnool,Maize,Threshing,8,Kharif,0.77,9.6,5160,9
+Trailer,40,Tenali,Turmeric,Transport,6,Kharif,0.69,44.2,2300,7
+Tractor,75,Tenali,Chilli,Spraying,8,Kharif,1.0,3.3,3820,9
+Rotavator,30,Guntur,Sugarcane,Tilling,16,Rabi,0.45,33.2,6730,2
+Harvester,40,Kurnool,Sugarcane,Harvesting,10,Kharif,1.0,16.9,15300,10
+Tractor,60,Hyderabad,Paddy,Transplanting,16,Kharif,1.0,15.2,8920,10
+Seed Drill,40,Machilipatnam,Turmeric,Sowing,8,Kharif,0.83,32.9,3880,9
+Tractor,75,Hyderabad,Chilli,Spraying,16,Rabi,0.91,19.9,8740,2
+Rotavator,40,Eluru,Paddy,Tilling,16,Rabi,0.48,30.6,7070,1
+Thresher,30,Warangal,Maize,Threshing,6,Rabi,0.39,18.4,4020,1
+Plough,30,Nellore,Sugarcane,Ploughing,16,Summer,0.34,33.6,3950,4
+Tractor,75,Hyderabad,Chilli,Transport,8,Kharif,0.6,41.8,4740,10
+Seed Drill,20,Machilipatnam,Groundnut,Sowing,8,Rabi,0.79,18.8,3150,2
+Tractor,75,Guntur,Cotton,Spraying,16,Rabi,0.6,1.2,7190,12
+Tractor,35,Eluru,Turmeric,Sowing,2,Rabi,0.3,9.2,750,2
+Combine Harvester,45,Machilipatnam,Wheat,Harvesting,16,Summer,0.43,7.7,27420,5
+Paddy Transplanter,20,Guntur,Paddy,Transplanting,4,Kharif,0.7,14.5,3390,8
+Trailer,40,Nellore,Turmeric,Transport,10,Rabi,0.38,36.8,2830,12
+Cultivator,20,Warangal,Maize,Ploughing,8,Kharif,0.77,4.8,2740,9
+Paddy Transplanter,40,Guntur,Paddy,Transplanting,16,Rabi,0.36,17.3,10370,1
+Tractor,40,Guntur,Turmeric,Transport,4,Rabi,0.72,42.4,2210,3
+Tiller,20,Hyderabad,Turmeric,Tilling,2,Summer,0.84,2.1,760,5
+Plough,20,Narasaraopet,Groundnut,Ploughing,8,Kharif,0.77,26.4,2580,8
+Harvester,55,Warangal,Paddy,Harvesting,16,Rabi,0.72,6.9,25070,3
+Tractor,60,Ongole,Turmeric,Transport,2,Summer,0.27,20.3,800,4
+Thresher,30,Kurnool,Paddy,Threshing,16,Rabi,0.67,33.4,9410,3
+Trailer,20,Machilipatnam,Cotton,Transport,16,Rabi,0.45,4.7,3830,12
+Harvester,45,Guntur,Sugarcane,Harvesting,8,Kharif,0.86,5.7,15720,9
+Cultivator,40,Kurnool,Turmeric,Tilling,6,Summer,0.52,30.1,1710,4
+Rotavator,30,Guntur,Sugarcane,Tilling,4,Kharif,0.75,10.5,2300,8
+Sprayer,20,Vijayawada,Chilli,Spraying,16,Summer,0.72,27.8,5110,4
+Tractor,40,Hyderabad,Cotton,Ploughing,6,Rabi,0.67,27.7,3100,1
+Cultivator,40,Tenali,Cotton,Ploughing,8,Rabi,0.28,20.4,2420,3
+Harvester,55,Eluru,Maize,Harvesting,8,Summer,0.64,43.5,11110,5
+Rotavator,30,Guntur,Turmeric,Tilling,2,Kharif,1.0,41.1,1720,8
+Tractor,50,Tenali,Chilli,Transport,2,Summer,0.7,22.8,1120,5
+Harvester,40,Warangal,Maize,Harvesting,10,Rabi,0.73,38.4,15530,3
+Harvester,35,Ongole,Paddy,Harvesting,16,Kharif,1.0,27.2,28680,6
+Trailer,20,Nellore,Turmeric,Transport,8,Kharif,0.65,18.2,2230,7
+Sprayer,30,Warangal,Cotton,Spraying,10,Summer,0.06,8.0,2480,4
+Sprayer,30,Nellore,Chilli,Spraying,6,Rabi,0.55,7.7,1970,3
+Sprayer,40,Eluru,Cotton,Spraying,2,Rabi,0.65,1.0,730,12
+Seed Drill,20,Hyderabad,Cotton,Sowing,16,Kharif,0.89,12.0,7390,10
+Thresher,40,Ongole,Maize,Threshing,10,Rabi,0.65,16.6,6590,2
+Thresher,30,Vijayawada,Wheat,Threshing,6,Rabi,0.68,39.1,4280,12
+Tractor,35,Warangal,Wheat,Sowing,16,Rabi,0.77,23.2,6390,1
+Harvester,60,Machilipatnam,Maize,Harvesting,8,Rabi,0.41,31.5,11990,12
+Combine Harvester,55,Ongole,Maize,Harvesting,10,Rabi,0.55,27.4,23790,3
+Plough,20,Warangal,Wheat,Ploughing,16,Kharif,1.0,28.9,5570,7
+Thresher,20,Narasaraopet,Paddy,Threshing,6,Rabi,0.24,19.2,2990,12
+Tractor,55,Eluru,Turmeric,Sowing,8,Rabi,0.74,2.8,3650,3
+Tractor,35,Nellore,Sugarcane,Tilling,4,Kharif,0.74,4.3,1600,9
+Thresher,20,Eluru,Maize,Threshing,4,Rabi,0.65,13.5,2750,1
+Tractor,55,Ongole,Turmeric,Transport,16,Kharif,0.45,35.6,5850,9
+Paddy Transplanter,40,Tenali,Paddy,Transplanting,10,Rabi,0.23,28.8,6610,1
+Trailer,40,Hyderabad,Sugarcane,Transport,10,Summer,0.7,22.0,2830,5
+Paddy Transplanter,30,Vijayawada,Paddy,Transplanting,2,Rabi,0.97,20.8,2150,1
+Seed Drill,30,Nellore,Turmeric,Sowing,2,Rabi,0.28,28.3,1030,1
+Cultivator,20,Kurnool,Turmeric,Tilling,16,Kharif,0.53,29.3,4230,9
+Tractor,35,Ongole,Sugarcane,Transport,2,Rabi,0.55,13.4,880,11
+Tractor,55,Nellore,Maize,Sowing,10,Rabi,0.86,36.8,4750,12
+Tractor,50,Ongole,Chilli,Transport,6,Summer,0.05,7.2,1790,4
+Trailer,20,Narasaraopet,Cotton,Transport,2,Kharif,0.82,32.7,1100,9
+Tractor,55,Eluru,Maize,Sowing,4,Rabi,0.51,18.4,1760,1
+Seed Drill,40,Narasaraopet,Groundnut,Sowing,2,Kharif,0.71,8.1,980,6
+Tractor,50,Hyderabad,Cotton,Spraying,10,Kharif,0.79,32.9,5540,8
+Trailer,40,Narasaraopet,Turmeric,Transport,8,Rabi,0.54,41.7,2650,1
+Tractor,50,Tenali,Turmeric,Tilling,8,Kharif,0.75,32.9,3810,8
+Harvester,75,Hyderabad,Groundnut,Harvesting,16,Summer,0.48,24.6,26090,5
+Sprayer,30,Ongole,Cotton,Spraying,8,Kharif,0.48,21.7,2720,8
+Seed Drill,40,Hyderabad,Turmeric,Sowing,6,Rabi,0.5,31.4,3200,1
+Cultivator,30,Eluru,Wheat,Ploughing,2,Rabi,0.53,33.4,1020,3
+Thresher,40,Vijayawada,Wheat,Threshing,10,Kharif,0.69,26.2,7550,6
+Plough,20,Hyderabad,Cotton,Ploughing,4,Rabi,0.48,40.9,1890,2
+Plough,40,Machilipatnam,Sugarcane,Ploughing,10,Rabi,0.65,8.7,3050,3
+Tractor,40,Machilipatnam,Cotton,Spraying,8,Rabi,0.61,29.9,3110,12
+Cultivator,40,Khammam,Sugarcane,Tilling,2,Kharif,0.45,30.4,1030,10
+Rotavator,40,Nellore,Sugarcane,Tilling,4,Rabi,0.64,43.7,2510,2
+Combine Harvester,60,Eluru,Maize,Harvesting,10,Rabi,0.33,36.5,22930,12
+Tractor,75,Narasaraopet,Sugarcane,Ploughing,6,Rabi,0.36,17.4,2460,3
+Thresher,40,Narasaraopet,Wheat,Threshing,6,Kharif,0.64,42.5,4850,6
+Tractor,35,Eluru,Maize,Ploughing,2,Summer,0.36,5.0,690,4
+Paddy Transplanter,20,Tenali,Paddy,Transplanting,2,Summer,0.66,6.4,1330,4
+Tractor,50,Vijayawada,Turmeric,Transport,8,Kharif,0.8,10.3,3930,6
+Thresher,30,Kurnool,Maize,Threshing,16,Kharif,0.74,37.3,9490,9
+Cultivator,20,Kurnool,Paddy,Ploughing,16,Kharif,0.79,3.5,4830,7
+Harvester,75,Eluru,Paddy,Harvesting,4,Kharif,1.0,16.5,9910,10
+Tractor,45,Guntur,Maize,Ploughing,4,Kharif,0.89,7.4,2120,10
+Seed Drill,20,Machilipatnam,Groundnut,Sowing,10,Rabi,0.5,37.4,3900,1
+Trailer,40,Ongole,Cotton,Transport,4,Kharif,0.71,9.3,1370,7
+Harvester,60,Vijayawada,Groundnut,Harvesting,6,Kharif,0.73,39.4,12620,7
+Tractor,45,Narasaraopet,Maize,Sowing,2,Rabi,0.74,26.5,1230,1
+Seed Drill,40,Tenali,Groundnut,Sowing,10,Rabi,0.41,21.7,3840,2
+Plough,30,Ongole,Wheat,Ploughing,10,Rabi,0.53,36.6,3110,2
+Tractor,50,Eluru,Cotton,Transport,8,Kharif,0.95,23.5,3520,7
+Harvester,60,Guntur,Maize,Harvesting,2,Summer,0.43,1.1,2660,5
+Cultivator,40,Machilipatnam,Chilli,Tilling,8,Rabi,0.72,31.7,3040,1
+Tractor,60,Nellore,Sugarcane,Ploughing,10,Kharif,0.83,32.9,4490,8
+Sprayer,30,Guntur,Cotton,Spraying,6,Rabi,0.57,15.7,2240,2
+Tractor,55,Kurnool,Chilli,Spraying,10,Rabi,0.71,16.8,3770,3
+Trailer,20,Guntur,Chilli,Transport,10,Rabi,0.25,35.6,2760,3
+Tractor,55,Warangal,Maize,Sowing,16,Rabi,0.4,44.2,6370,1
+Trailer,20,Kurnool,Chilli,Transport,2,Rabi,0.63,17.5,710,3
+Tractor,35,Vijayawada,Turmeric,Transport,2,Rabi,0.26,14.2,950,12
+Plough,40,Narasaraopet,Cotton,Ploughing,8,Kharif,0.62,38.5,2740,7
+Tiller,20,Eluru,Chilli,Tilling,2,Rabi,0.78,21.6,1050,3
+Thresher,20,Nellore,Wheat,Threshing,16,Kharif,0.94,43.0,10240,9
+Seed Drill,40,Khammam,Maize,Sowing,4,Rabi,0.55,14.4,1790,3
+Tractor,45,Khammam,Paddy,Transplanting,10,Rabi,0.62,33.5,4100,11
+Tractor,60,Khammam,Groundnut,Ploughing,4,Rabi,0.3,27.9,1890,12
+Tractor,50,Nellore,Groundnut,Sowing,6,Rabi,0.68,6.8,2460,2
+Plough,30,Nellore,Maize,Ploughing,16,Kharif,1.0,38.3,5630,7
+Cultivator,30,Hyderabad,Chilli,Tilling,16,Rabi,0.57,10.9,5070,3
+Thresher,20,Tenali,Maize,Threshing,10,Kharif,0.58,17.3,6050,7
+Tractor,55,Guntur,Chilli,Tilling,8,Rabi,0.56,9.3,3100,11
+Tractor,45,Hyderabad,Chilli,Spraying,4,Rabi,0.51,43.9,2430,1
+Harvester,75,Guntur,Wheat,Harvesting,16,Summer,0.48,25.8,25090,5
+Tractor,50,Narasaraopet,Groundnut,Sowing,4,Summer,0.42,21.8,1540,5
+Tractor,35,Narasaraopet,Cotton,Spraying,10,Kharif,0.68,9.5,3980,8
+Sprayer,40,Tenali,Chilli,Spraying,6,Rabi,0.77,44.4,2920,11
+Tractor,35,Guntur,Paddy,Transplanting,2,Kharif,0.42,35.1,1190,7
+Tiller,30,Hyderabad,Chilli,Tilling,2,Kharif,0.92,28.0,1380,7
+Tractor,45,Warangal,Chilli,Transport,2,Rabi,1.0,7.3,1040,1
+Harvester,55,Khammam,Sugarcane,Harvesting,8,Rabi,0.69,29.5,13080,12
+Rotavator,40,Ongole,Chilli,Tilling,10,Kharif,0.59,7.7,4680,8
+Thresher,20,Nellore,Wheat,Threshing,2,Rabi,0.46,30.6,1470,1
+Tiller,40,Warangal,Chilli,Tilling,2,Kharif,0.74,23.8,1140,7
+Tractor,35,Eluru,Chilli,Spraying,16,Kharif,0.67,8.5,5840,9
+Tractor,75,Machilipatnam,Maize,Ploughing,8,Summer,0.61,5.9,2800,4
+Paddy Transplanter,20,Khammam,Paddy,Transplanting,2,Kharif,0.75,13.4,1960,8
+Thresher,20,Machilipatnam,Paddy,Threshing,4,Rabi,0.41,41.4,2910,12
+Tractor,75,Ongole,Groundnut,Ploughing,4,Rabi,0.74,2.6,1570,1
+Tractor,75,Tenali,Cotton,Spraying,4,Rabi,0.85,40.4,2440,1
+Seed Drill,40,Ongole,Cotton,Sowing,16,Kharif,0.8,18.4,6960,7
+Tractor,35,Kurnool,Chilli,Spraying,2,Kharif,1.0,12.0,970,8
+Plough,30,Tenali,Wheat,Ploughing,10,Summer,0.32,26.2,2520,4
+Tractor,75,Narasaraopet,Turmeric,Sowing,2,Summer,0.73,20.1,1020,5
+Tractor,35,Hyderabad,Cotton,Transport,6,Summer,0.47,12.5,2370,4
+Thresher,20,Vijayawada,Paddy,Threshing,4,Summer,0.56,12.1,2300,4
+Trailer,40,Nellore,Turmeric,Transport,16,Kharif,1.0,16.1,5200,6
+Thresher,20,Nellore,Maize,Threshing,6,Kharif,0.89,8.5,3860,10
+Thresher,30,Machilipatnam,Wheat,Threshing,8,Kharif,0.83,1.8,5440,10
+Plough,20,Warangal,Maize,Ploughing,2,Rabi,0.47,8.6,710,3
+Paddy Transplanter,30,Nellore,Paddy,Transplanting,6,Summer,0.42,34.0,3830,4
+Tractor,45,Narasaraopet,Chilli,Transport,6,Rabi,0.44,29.7,2730,11
+Harvester,35,Kurnool,Paddy,Harvesting,10,Rabi,0.48,7.9,12790,12
+Seed Drill,20,Tenali,Wheat,Sowing,8,Kharif,0.86,41.7,3630,10
+Thresher,40,Hyderabad,Paddy,Threshing,4,Kharif,0.98,26.8,4010,10
+Cultivator,40,Machilipatnam,Sugarcane,Tilling,4,Kharif,0.5,2.4,1350,9
+Cultivator,30,Tenali,Turmeric,Tilling,2,Summer,0.37,38.1,1100,5
+Tractor,40,Warangal,Cotton,Transport,10,Kharif,0.69,8.7,4340,9
+Harvester,50,Narasaraopet,Maize,Harvesting,8,Rabi,0.49,19.6,11130,12
+Harvester,60,Kurnool,Groundnut,Harvesting,6,Summer,0.58,4.8,7750,5
+Tractor,50,Ongole,Paddy,Transplanting,10,Summer,0.7,31.1,3900,5
+Paddy Transplanter,20,Hyderabad,Paddy,Transplanting,16,Kharif,0.57,36.5,14600,8
+Tractor,35,Ongole,Cotton,Spraying,6,Kharif,0.44,21.8,2380,10
+Tractor,60,Kurnool,Maize,Sowing,4,Kharif,0.68,20.0,2110,6
+Thresher,40,Ongole,Maize,Threshing,10,Rabi,0.58,10.0,6340,12
+Trailer,30,Vijayawada,Turmeric,Transport,8,Rabi,0.55,14.3,2290,2
+Tractor,75,Guntur,Paddy,Transplanting,6,Kharif,0.86,40.9,3540,10
+Trailer,20,Kurnool,Cotton,Transport,10,Kharif,1.0,27.7,3030,9
+Cultivator,20,Warangal,Cotton,Ploughing,8,Rabi,0.58,4.2,2420,12
+Cultivator,20,Machilipatnam,Wheat,Ploughing,10,Rabi,0.46,35.6,3140,11
+Harvester,75,Tenali,Sugarcane,Harvesting,6,Summer,0.36,12.7,7900,4
+Tractor,60,Eluru,Cotton,Spraying,8,Rabi,0.74,12.8,3370,3
+Rotavator,20,Kurnool,Turmeric,Tilling,6,Kharif,0.73,31.9,2960,6
+Tractor,55,Tenali,Chilli,Tilling,8,Rabi,0.44,8.9,3070,12
+Tractor,75,Kurnool,Cotton,Sowing,4,Kharif,0.77,42.7,2570,10
+Plough,20,Warangal,Paddy,Ploughing,6,Kharif,0.42,37.6,2160,8
+Tractor,55,Khammam,Paddy,Transplanting,8,Rabi,0.66,39.4,3230,12
+Sprayer,30,Kurnool,Chilli,Spraying,8,Rabi,0.41,10.9,2250,11
+Sprayer,30,Eluru,Cotton,Spraying,6,Rabi,0.4,34.6,2370,1
+Trailer,40,Ongole,Cotton,Transport,4,Kharif,0.79,44.1,1980,9
+Tractor,60,Kurnool,Cotton,Spraying,16,Rabi,1.0,8.7,6800,3
+Tractor,50,Narasaraopet,Paddy,Transplanting,8,Rabi,0.6,25.8,3410,2
+Thresher,20,Narasaraopet,Maize,Threshing,16,Kharif,0.51,44.9,9290,9
+Rotavator,20,Narasaraopet,Sugarcane,Tilling,16,Kharif,0.73,2.6,6920,10
+Tractor,50,Narasaraopet,Sugarcane,Transport,6,Kharif,0.68,32.7,3020,6
+Tractor,55,Hyderabad,Turmeric,Sowing,2,Kharif,0.66,35.0,1520,10
+Plough,30,Khammam,Cotton,Ploughing,6,Kharif,0.63,12.7,2100,10
+Cultivator,30,Khammam,Paddy,Tilling,6,Kharif,0.98,22.3,2480,8
+Tractor,55,Tenali,Wheat,Sowing,6,Rabi,0.19,29.0,2500,12
+Cultivator,30,Machilipatnam,Paddy,Tilling,10,Kharif,0.99,2.5,3330,6
+Tiller,20,Nellore,Turmeric,Tilling,2,Kharif,0.77,22.0,1070,9
+Seed Drill,40,Khammam,Groundnut,Sowing,8,Kharif,0.77,12.0,3750,6
+Tractor,35,Kurnool,Chilli,Spraying,2,Rabi,0.43,42.3,1160,1
+Cultivator,20,Hyderabad,Groundnut,Ploughing,2,Rabi,0.37,9.1,810,12
+Tractor,35,Khammam,Maize,Sowing,10,Rabi,0.31,3.7,3100,1
+Cultivator,30,Guntur,Sugarcane,Tilling,4,Summer,0.72,42.2,1790,4
+Tractor,35,Kurnool,Paddy,Transplanting,10,Summer,0.42,4.2,2350,4
+Cultivator,30,Narasaraopet,Paddy,Ploughing,16,Kharif,0.87,9.1,5220,9
+Tractor,55,Tenali,Chilli,Transport,10,Kharif,0.67,27.9,4570,8
+Cultivator,20,Guntur,Maize,Ploughing,4,Rabi,0.45,4.5,1310,2
+Combine Harvester,75,Khammam,Sugarcane,Harvesting,10,Rabi,0.49,29.0,21940,2
+Thresher,30,Guntur,Wheat,Threshing,16,Rabi,0.43,3.4,9080,3
+Tractor,40,Tenali,Paddy,Transplanting,6,Kharif,0.95,32.9,3240,6
+Tiller,40,Nellore,Paddy,Tilling,10,Rabi,0.8,18.2,3600,2
+Harvester,45,Narasaraopet,Maize,Harvesting,8,Rabi,0.49,2.5,11160,3
+Cultivator,30,Hyderabad,Turmeric,Tilling,16,Kharif,0.65,12.5,6430,7
+Rotavator,40,Guntur,Sugarcane,Tilling,6,Rabi,0.72,35.3,3440,3
+Tractor,75,Warangal,Turmeric,Tilling,6,Kharif,0.49,23.9,3570,9
+Trailer,40,Warangal,Chilli,Transport,4,Rabi,0.87,39.3,1960,1
+Cultivator,20,Hyderabad,Turmeric,Tilling,4,Summer,0.6,5.6,1350,5
+Thresher,30,Narasaraopet,Maize,Threshing,6,Kharif,0.33,3.9,3530,9
+Tractor,60,Guntur,Paddy,Transplanting,16,Kharif,0.85,27.2,7840,10
+Tractor,35,Hyderabad,Sugarcane,Transport,16,Rabi,0.72,28.2,6990,12
+Tractor,55,Machilipatnam,Cotton,Ploughing,2,Rabi,0.75,14.0,1020,11
+Combine Harvester,45,Nellore,Groundnut,Harvesting,16,Rabi,0.2,12.3,29860,12
+Tractor,45,Machilipatnam,Cotton,Spraying,16,Rabi,0.48,28.2,5810,11
+Tractor,40,Vijayawada,Wheat,Ploughing,16,Kharif,0.49,21.0,6270,8
+Tractor,60,Hyderabad,Wheat,Sowing,6,Kharif,1.0,17.9,4020,8
+Tractor,60,Ongole,Paddy,Transplanting,2,Kharif,1.0,42.7,1490,7
+Trailer,30,Ongole,Chilli,Transport,4,Rabi,0.45,43.4,1540,12
+Thresher,30,Kurnool,Maize,Threshing,8,Rabi,0.46,27.5,4510,2
+Plough,40,Khammam,Cotton,Ploughing,16,Kharif,0.58,13.3,5030,10
+Tractor,50,Tenali,Paddy,Transplanting,16,Kharif,0.6,13.0,6470,6
+Tractor,75,Ongole,Cotton,Spraying,4,Kharif,0.37,45.0,2240,9
+Tractor,60,Machilipatnam,Paddy,Transplanting,10,Kharif,0.57,9.0,3790,8
+Cultivator,40,Ongole,Groundnut,Ploughing,2,Rabi,0.6,36.3,1110,2
+Tractor,60,Tenali,Chilli,Spraying,10,Rabi,0.28,36.5,3790,12
+Thresher,30,Guntur,Maize,Threshing,8,Rabi,0.85,30.5,5800,11
+Harvester,50,Machilipatnam,Maize,Harvesting,16,Kharif,0.77,31.2,24850,9
+Paddy Transplanter,40,Hyderabad,Paddy,Transplanting,10,Kharif,0.92,32.5,10520,9
+Thresher,30,Warangal,Wheat,Threshing,2,Summer,0.54,12.6,1340,5
+Tractor,40,Vijayawada,Sugarcane,Transport,16,Rabi,0.51,21.1,6500,11
+Tractor,45,Eluru,Paddy,Transplanting,4,Rabi,0.09,13.6,1630,12
+Tractor,50,Khammam,Chilli,Spraying,2,Kharif,0.76,6.9,1060,8
+Seed Drill,30,Ongole,Turmeric,Sowing,4,Kharif,0.56,10.5,1750,6
+Harvester,45,Guntur,Groundnut,Harvesting,4,Rabi,0.32,13.4,5840,1
+Sprayer,40,Narasaraopet,Cotton,Spraying,6,Rabi,0.45,18.0,2420,11
+Paddy Transplanter,30,Vijayawada,Paddy,Transplanting,4,Rabi,0.36,14.9,3110,11
+Thresher,40,Guntur,Maize,Threshing,10,Rabi,0.68,31.2,6600,3
+Harvester,75,Narasaraopet,Paddy,Harvesting,4,Rabi,0.46,39.2,6700,11
+Harvester,75,Khammam,Groundnut,Harvesting,10,Rabi,0.46,36.9,15710,3
+Harvester,50,Vijayawada,Groundnut,Harvesting,10,Rabi,0.4,30.4,14610,12
+Thresher,20,Khammam,Wheat,Threshing,2,Rabi,0.78,19.9,1710,3
+Thresher,30,Ongole,Paddy,Threshing,10,Kharif,0.88,29.7,7130,9
+Cultivator,40,Guntur,Maize,Ploughing,10,Kharif,0.78,25.2,4100,6
+Thresher,30,Vijayawada,Paddy,Threshing,4,Rabi,0.05,10.8,2150,12
+Tractor,40,Tenali,Turmeric,Transport,8,Summer,0.22,35.4,2540,4
+Cultivator,30,Machilipatnam,Turmeric,Tilling,6,Rabi,0.47,15.4,2050,11
+Tractor,35,Guntur,Cotton,Sowing,6,Kharif,0.44,3.1,2530,9
+Harvester,45,Nellore,Sugarcane,Harvesting,2,Rabi,0.95,34.0,4010,2
+Tractor,75,Khammam,Wheat,Ploughing,8,Rabi,0.51,9.3,3040,3
+Tiller,30,Warangal,Chilli,Tilling,10,Rabi,0.75,1.4,3430,12
+Cultivator,20,Warangal,Chilli,Tilling,6,Kharif,0.85,43.1,2600,8
+Combine Harvester,60,Warangal,Groundnut,Harvesting,10,Kharif,0.92,27.4,30090,6
+Thresher,20,Eluru,Paddy,Threshing,16,Kharif,0.86,18.5,10680,8
+Tractor,45,Tenali,Groundnut,Sowing,2,Kharif,0.88,30.1,1240,7
+Paddy Transplanter,30,Nellore,Paddy,Transplanting,2,Rabi,0.46,8.3,1570,2
+Cultivator,40,Tenali,Sugarcane,Ploughing,10,Rabi,0.61,6.2,3260,2
+Plough,40,Nellore,Wheat,Ploughing,16,Kharif,0.9,35.0,5850,10
+Tiller,40,Narasaraopet,Paddy,Tilling,2,Rabi,0.56,17.6,940,2
+Thresher,30,Machilipatnam,Wheat,Threshing,8,Summer,0.3,22.2,4180,5
+Seed Drill,40,Narasaraopet,Cotton,Sowing,4,Rabi,0.9,3.7,1630,11
+Harvester,50,Hyderabad,Paddy,Harvesting,10,Kharif,0.94,20.3,21060,10
+Harvester,60,Vijayawada,Sugarcane,Harvesting,16,Rabi,0.55,29.4,25600,2
+Tractor,60,Hyderabad,Maize,Ploughing,6,Rabi,0.55,24.3,3060,3
+Cultivator,20,Tenali,Cotton,Ploughing,10,Kharif,0.85,11.1,3640,10
+Paddy Transplanter,20,Eluru,Paddy,Transplanting,10,Rabi,0.57,24.9,6990,1
+Tractor,75,Ongole,Cotton,Spraying,8,Rabi,0.47,3.2,2840,2
+Seed Drill,40,Narasaraopet,Wheat,Sowing,2,Rabi,0.45,16.5,990,2
+Cultivator,40,Tenali,Paddy,Tilling,4,Summer,0.76,27.6,1600,5
+Combine Harvester,40,Khammam,Sugarcane,Harvesting,6,Kharif,1.0,20.1,18720,10
+Trailer,40,Narasaraopet,Turmeric,Transport,2,Summer,0.69,22.5,790,5
+Tractor,60,Khammam,Sugarcane,Transport,4,Rabi,0.55,44.5,2240,12
+Harvester,40,Tenali,Wheat,Harvesting,8,Kharif,0.72,39.5,13190,10
+Rotavator,30,Ongole,Turmeric,Tilling,16,Rabi,0.58,5.6,7090,1
+Sprayer,20,Guntur,Cotton,Spraying,10,Rabi,0.29,16.5,2760,1
+Tractor,40,Khammam,Sugarcane,Transport,4,Kharif,0.82,2.9,1680,8
+Tractor,75,Hyderabad,Turmeric,Sowing,16,Kharif,0.68,19.3,9270,8
+Sprayer,30,Tenali,Cotton,Spraying,8,Kharif,0.81,28.0,3290,7
+Sprayer,20,Narasaraopet,Cotton,Spraying,10,Rabi,0.6,33.4,3240,3
+Sprayer,20,Hyderabad,Cotton,Spraying,8,Rabi,0.48,7.5,2560,2
+Tractor,50,Vijayawada,Paddy,Transplanting,6,Rabi,0.76,5.7,3100,11
+Tractor,35,Nellore,Chilli,Transport,4,Rabi,0.55,41.6,2050,11
+Tractor,60,Nellore,Chilli,Tilling,4,Kharif,0.91,6.7,1870,7
+Tractor,35,Warangal,Paddy,Tilling,16,Rabi,0.64,27.3,5980,1
+Tractor,50,Tenali,Groundnut,Sowing,6,Kharif,0.62,12.1,2780,6
+Tractor,50,Kurnool,Chilli,Spraying,4,Rabi,0.41,21.0,1540,3
+Thresher,30,Warangal,Maize,Threshing,10,Rabi,0.85,32.5,6840,11
+Tractor,55,Warangal,Turmeric,Sowing,10,Rabi,0.63,28.0,4150,12
+Tiller,20,Machilipatnam,Sugarcane,Tilling,8,Summer,0.3,7.8,1890,5
+Cultivator,40,Machilipatnam,Cotton,Ploughing,4,Rabi,0.56,23.4,1510,2
+Combine Harvester,75,Hyderabad,Wheat,Harvesting,2,Kharif,0.73,6.3,6990,9
+Tractor,40,Khammam,Maize,Sowing,4,Rabi,0.6,6.8,1560,12
+Plough,20,Vijayawada,Sugarcane,Ploughing,8,Rabi,0.7,15.8,2500,11
+Tractor,45,Khammam,Turmeric,Sowing,2,Summer,0.49,3.2,700,4
+Seed Drill,40,Eluru,Cotton,Sowing,4,Kharif,0.85,24.9,2240,10
+Harvester,35,Ongole,Sugarcane,Harvesting,8,Summer,0.51,10.8,8860,4
+Combine Harvester,35,Kurnool,Wheat,Harvesting,6,Rabi,0.48,29.7,12610,1
+Harvester,50,Kurnool,Paddy,Harvesting,10,Rabi,0.34,34.3,12930,11
+Tractor,35,Warangal,Maize,Sowing,2,Rabi,0.73,2.1,860,1
+Tractor,60,Warangal,Sugarcane,Transport,8,Kharif,1.0,6.5,3730,10
+Tractor,35,Warangal,Cotton,Spraying,16,Kharif,0.52,11.3,6670,7
+Trailer,20,Guntur,Sugarcane,Transport,16,Kharif,0.48,17.0,4280,10
+Tiller,30,Narasaraopet,Turmeric,Tilling,6,Kharif,0.7,23.9,2440,7
+Thresher,20,Warangal,Maize,Threshing,4,Rabi,0.3,1.2,2190,11
+Thresher,40,Narasaraopet,Paddy,Threshing,8,Rabi,0.33,12.7,4240,12
+Tractor,45,Nellore,Paddy,Transplanting,4,Kharif,0.95,18.8,2080,6
+Tractor,75,Guntur,Sugarcane,Transport,2,Kharif,0.66,32.8,1450,7
+Thresher,30,Nellore,Maize,Threshing,10,Kharif,0.9,33.0,6370,7
+Tractor,45,Machilipatnam,Cotton,Ploughing,2,Kharif,0.87,36.5,1370,6
+Combine Harvester,60,Eluru,Maize,Harvesting,8,Kharif,0.89,26.9,25160,9
+Seed Drill,30,Narasaraopet,Maize,Sowing,2,Kharif,0.57,26.4,1120,8
+Tractor,40,Eluru,Sugarcane,Transport,4,Kharif,1.0,27.1,2160,9
+Tractor,50,Vijayawada,Sugarcane,Transport,4,Kharif,0.71,20.0,2080,6
+Harvester,55,Eluru,Paddy,Harvesting,4,Kharif,0.27,15.2,6620,9
+Thresher,20,Warangal,Maize,Threshing,10,Kharif,0.92,30.2,7380,10
+Seed Drill,40,Hyderabad,Groundnut,Sowing,4,Kharif,0.73,39.1,2520,10
+Tractor,35,Tenali,Chilli,Spraying,10,Rabi,0.59,11.4,3610,12
+Tractor,75,Nellore,Sugarcane,Tilling,4,Kharif,0.76,21.9,2250,6
+Thresher,40,Vijayawada,Paddy,Threshing,2,Rabi,0.51,44.7,1930,11
+Thresher,20,Ongole,Paddy,Threshing,6,Kharif,0.59,1.2,3430,8
+Tractor,60,Tenali,Maize,Sowing,2,Rabi,0.49,15.8,1000,11
+Thresher,20,Narasaraopet,Wheat,Threshing,16,Kharif,0.94,22.8,11050,8
+Thresher,20,Warangal,Paddy,Threshing,6,Rabi,0.2,15.1,3460,3
+Cultivator,20,Guntur,Sugarcane,Tilling,4,Kharif,0.71,22.4,1680,7
+Tractor,75,Kurnool,Chilli,Tilling,4,Rabi,0.31,4.4,1480,3
+Trailer,20,Vijayawada,Sugarcane,Transport,4,Kharif,0.61,16.4,1410,8
+Tractor,60,Machilipatnam,Paddy,Transplanting,8,Kharif,0.5,25.8,3650,6
+Cultivator,30,Ongole,Turmeric,Tilling,8,Kharif,0.5,35.0,2640,7
+Rotavator,20,Khammam,Chilli,Tilling,10,Summer,0.46,31.9,3850,5
+Seed Drill,30,Kurnool,Groundnut,Sowing,2,Kharif,0.69,35.2,1300,6
+Harvester,40,Ongole,Maize,Harvesting,16,Summer,0.57,17.0,19160,4
+Trailer,40,Khammam,Cotton,Transport,2,Rabi,0.2,9.8,610,11
+Thresher,30,Nellore,Paddy,Threshing,10,Summer,0.83,9.8,5390,5
+Rotavator,40,Machilipatnam,Chilli,Tilling,10,Rabi,0.46,37.1,4310,11
+Trailer,20,Warangal,Sugarcane,Transport,16,Kharif,0.97,19.8,5030,10
+Tractor,60,Ongole,Cotton,Spraying,8,Kharif,0.34,3.4,3050,6
+Sprayer,40,Khammam,Chilli,Spraying,10,Rabi,0.19,26.4,3350,11
+Seed Drill,30,Guntur,Cotton,Sowing,8,Kharif,0.97,3.1,3570,7
+Combine Harvester,55,Kurnool,Wheat,Harvesting,2,Kharif,0.96,17.6,5480,6
+Cultivator,40,Tenali,Paddy,Tilling,16,Rabi,0.35,36.6,4380,11
+Cultivator,30,Machilipatnam,Paddy,Tilling,10,Summer,0.5,19.2,2740,4
+Tractor,55,Vijayawada,Chilli,Transport,4,Rabi,0.57,38.8,2430,2
+Harvester,55,Machilipatnam,Wheat,Harvesting,10,Kharif,0.5,16.2,15630,6
+Combine Harvester,75,Kurnool,Groundnut,Harvesting,6,Kharif,0.82,7.5,17200,6
+Sprayer,40,Nellore,Cotton,Spraying,10,Rabi,0.84,17.6,3560,1
+Plough,30,Khammam,Maize,Ploughing,4,Kharif,0.82,1.1,1460,8
+Combine Harvester,35,Hyderabad,Paddy,Harvesting,2,Kharif,0.99,31.8,7280,10
+Sprayer,30,Guntur,Cotton,Spraying,4,Kharif,0.85,9.3,1850,8
+Tractor,40,Nellore,Turmeric,Transport,2,Rabi,0.75,22.5,1140,11
+Harvester,50,Eluru,Paddy,Harvesting,10,Summer,0.62,31.9,14620,4
+Tractor,55,Kurnool,Cotton,Spraying,2,Kharif,0.55,38.1,1420,9
+Tractor,35,Khammam,Cotton,Spraying,16,Rabi,0.77,32.9,6270,12
+Rotavator,30,Guntur,Turmeric,Tilling,2,Rabi,0.81,35.5,1520,12
+Thresher,20,Kurnool,Paddy,Threshing,16,Kharif,0.96,11.8,9840,9
+Paddy Transplanter,20,Vijayawada,Paddy,Transplanting,16,Rabi,0.7,12.7,11360,12
+Tractor,35,Khammam,Chilli,Spraying,8,Rabi,0.57,41.2,3360,12
+Tractor,50,Machilipatnam,Sugarcane,Transport,8,Summer,0.5,23.6,2840,5
+Paddy Transplanter,20,Guntur,Paddy,Transplanting,4,Rabi,0.39,40.3,2960,11
+Seed Drill,30,Warangal,Maize,Sowing,8,Rabi,0.24,24.4,3160,3
+Tractor,60,Khammam,Cotton,Transport,10,Rabi,0.74,16.5,3950,11
+Tractor,75,Khammam,Cotton,Sowing,2,Rabi,0.32,31.3,1200,3
+Tractor,60,Ongole,Chilli,Spraying,4,Rabi,0.44,28.3,1830,11
+Cultivator,30,Eluru,Sugarcane,Ploughing,16,Kharif,0.52,18.5,5650,8
+Thresher,20,Tenali,Paddy,Threshing,2,Kharif,0.95,7.7,1520,10
+Combine Harvester,40,Ongole,Maize,Harvesting,16,Kharif,0.51,5.5,36820,9
+Paddy Transplanter,20,Eluru,Paddy,Transplanting,16,Summer,0.34,28.2,8520,4
+Seed Drill,20,Guntur,Groundnut,Sowing,16,Kharif,0.96,41.5,7490,8
+Tractor,60,Warangal,Wheat,Sowing,8,Kharif,1.0,20.4,3520,7
+Harvester,75,Hyderabad,Sugarcane,Harvesting,10,Kharif,0.53,16.4,19620,9
+Tractor,35,Machilipatnam,Paddy,Transplanting,16,Kharif,0.64,27.2,6340,9
+Tractor,45,Khammam,Paddy,Transplanting,8,Rabi,0.54,45.0,3150,11
+Thresher,30,Tenali,Wheat,Threshing,6,Kharif,1.0,11.8,4660,7
+Tractor,60,Ongole,Paddy,Transplanting,6,Rabi,0.49,20.3,2670,2
+Trailer,40,Guntur,Chilli,Transport,4,Kharif,0.73,34.3,1790,6
+Thresher,20,Warangal,Paddy,Threshing,2,Kharif,0.79,34.2,1770,6
+Paddy Transplanter,20,Narasaraopet,Paddy,Transplanting,16,Summer,0.45,23.8,9490,5
+Harvester,55,Kurnool,Sugarcane,Harvesting,16,Rabi,0.75,5.6,22530,3
+Rotavator,20,Eluru,Turmeric,Tilling,8,Kharif,0.71,11.3,4260,10
+Trailer,30,Eluru,Cotton,Transport,4,Rabi,0.27,9.3,1070,3
+Tractor,40,Hyderabad,Turmeric,Transport,8,Kharif,1.0,7.3,4270,9
+Thresher,30,Guntur,Maize,Threshing,6,Rabi,0.2,23.8,3420,12
+Thresher,40,Guntur,Wheat,Threshing,6,Summer,0.56,11.4,3580,4
+Rotavator,40,Guntur,Turmeric,Tilling,16,Kharif,0.64,40.3,8360,6
+Sprayer,40,Guntur,Cotton,Spraying,2,Summer,0.75,10.6,820,4
+Trailer,40,Nellore,Chilli,Transport,2,Summer,0.61,28.0,880,4
+Tiller,30,Ongole,Sugarcane,Tilling,8,Rabi,0.55,34.9,2900,12
+Tiller,30,Warangal,Chilli,Tilling,8,Rabi,0.63,32.8,3070,11
+Seed Drill,40,Warangal,Wheat,Sowing,4,Kharif,0.57,31.9,2090,7
+Cultivator,30,Nellore,Maize,Ploughing,10,Kharif,0.73,7.2,3320,7
+Tiller,30,Hyderabad,Turmeric,Tilling,4,Kharif,0.85,18.1,2160,10
+Seed Drill,20,Guntur,Cotton,Sowing,10,Kharif,0.87,15.3,4330,9
+Sprayer,20,Hyderabad,Chilli,Spraying,16,Rabi,0.39,7.9,4820,1
+Harvester,75,Guntur,Paddy,Harvesting,16,Kharif,0.89,44.6,31750,7
+Sprayer,40,Khammam,Cotton,Spraying,4,Summer,0.43,40.0,1700,4
+Seed Drill,20,Kurnool,Wheat,Sowing,2,Rabi,0.67,23.0,1180,2
+Sprayer,30,Ongole,Cotton,Spraying,4,Summer,0.54,6.1,1270,5
+Paddy Transplanter,20,Nellore,Paddy,Transplanting,16,Kharif,0.72,27.4,12000,9
+Tractor,55,Nellore,Paddy,Transplanting,2,Rabi,0.46,1.8,780,1
+Tractor,45,Kurnool,Maize,Ploughing,4,Kharif,0.73,14.5,1810,9
+Tractor,45,Guntur,Wheat,Sowing,8,Kharif,0.78,42.7,3790,8
+Paddy Transplanter,20,Warangal,Paddy,Transplanting,2,Rabi,0.35,39.3,1890,12
+Combine Harvester,35,Eluru,Paddy,Harvesting,10,Summer,0.39,23.9,17670,4
+Tractor,55,Guntur,Paddy,Transplanting,10,Kharif,0.77,29.2,4350,10
+Tractor,35,Ongole,Wheat,Ploughing,2,Kharif,0.71,9.7,920,7
+Tractor,75,Guntur,Paddy,Transplanting,2,Kharif,0.68,32.1,1580,6
+Thresher,40,Khammam,Paddy,Threshing,8,Rabi,0.29,2.0,4210,1
+Cultivator,20,Warangal,Cotton,Ploughing,2,Kharif,1.0,21.5,1110,9
+Combine Harvester,50,Nellore,Maize,Harvesting,10,Rabi,0.49,25.4,22360,3
+Thresher,30,Narasaraopet,Wheat,Threshing,2,Summer,0.46,17.7,1340,5
+Trailer,20,Nellore,Turmeric,Transport,8,Rabi,0.97,18.2,2300,12
+Paddy Transplanter,20,Vijayawada,Paddy,Transplanting,2,Rabi,0.51,7.0,1470,2
+Combine Harvester,40,Tenali,Groundnut,Harvesting,8,Summer,0.57,24.6,15530,4
+Cultivator,30,Narasaraopet,Turmeric,Tilling,8,Kharif,0.59,23.9,2770,10
+Plough,20,Narasaraopet,Paddy,Ploughing,6,Kharif,0.7,3.4,1770,6
+Tractor,40,Ongole,Turmeric,Tilling,2,Kharif,0.65,16.1,930,6
+Thresher,30,Ongole,Wheat,Threshing,8,Kharif,1.0,32.8,6020,9
+Sprayer,30,Guntur,Cotton,Spraying,6,Kharif,1.0,23.0,2760,9
+Tractor,45,Kurnool,Cotton,Transport,16,Rabi,0.62,31.1,5950,1
+Tractor,55,Warangal,Cotton,Transport,8,Kharif,0.78,37.2,3730,6
+Tiller,30,Narasaraopet,Sugarcane,Tilling,10,Kharif,0.81,19.4,3960,7
+Thresher,40,Khammam,Paddy,Threshing,2,Kharif,0.81,40.8,2150,10
+Thresher,40,Warangal,Paddy,Threshing,10,Summer,0.69,21.6,5370,4
+Paddy Transplanter,40,Ongole,Paddy,Transplanting,2,Kharif,0.77,8.5,1750,9
+Tractor,40,Khammam,Sugarcane,Ploughing,16,Kharif,0.72,33.4,6850,6
+Seed Drill,30,Kurnool,Turmeric,Sowing,8,Kharif,0.73,2.8,2920,8
+Harvester,55,Narasaraopet,Groundnut,Harvesting,2,Kharif,0.5,34.9,3600,8
+Cultivator,20,Ongole,Chilli,Tilling,10,Kharif,0.96,28.7,3640,9
+Tractor,75,Eluru,Paddy,Transplanting,2,Rabi,0.35,7.4,930,12
+Sprayer,30,Khammam,Chilli,Spraying,10,Kharif,0.75,15.1,3790,8
+Harvester,45,Nellore,Sugarcane,Harvesting,16,Summer,1.0,22.3,21530,5
+Thresher,40,Tenali,Maize,Threshing,8,Rabi,0.67,38.8,5910,11
+Paddy Transplanter,40,Guntur,Paddy,Transplanting,6,Rabi,0.6,8.9,4970,2
+Thresher,40,Machilipatnam,Paddy,Threshing,8,Rabi,0.54,29.1,5180,3
+Tiller,30,Vijayawada,Paddy,Tilling,2,Summer,0.57,33.0,1220,4
+Cultivator,30,Khammam,Maize,Ploughing,2,Rabi,0.56,36.2,1100,12
+Trailer,40,Vijayawada,Chilli,Transport,16,Kharif,0.96,23.1,5650,8
+Tractor,55,Ongole,Sugarcane,Tilling,6,Rabi,0.45,11.5,2270,3
+Tractor,50,Guntur,Maize,Sowing,2,Summer,0.96,44.5,1450,4
+Tiller,20,Warangal,Turmeric,Tilling,8,Rabi,0.43,40.6,2730,3
+Combine Harvester,40,Guntur,Groundnut,Harvesting,4,Kharif,0.52,39.2,10890,8
+Cultivator,20,Guntur,Chilli,Tilling,6,Kharif,0.82,15.2,2260,10
+Sprayer,30,Tenali,Cotton,Spraying,10,Summer,0.54,16.7,2890,4
+Thresher,20,Warangal,Paddy,Threshing,6,Rabi,0.55,10.8,4190,3
+Cultivator,20,Nellore,Groundnut,Ploughing,10,Kharif,0.66,18.4,2990,9
+Tractor,40,Machilipatnam,Sugarcane,Transport,16,Rabi,0.62,31.1,6150,12
+Harvester,35,Hyderabad,Wheat,Harvesting,8,Rabi,0.86,41.1,14890,12
+Tractor,45,Tenali,Sugarcane,Transport,6,Rabi,0.46,1.5,2140,12
+Tractor,40,Khammam,Cotton,Sowing,16,Kharif,0.39,20.7,5730,8
+Cultivator,40,Vijayawada,Paddy,Ploughing,16,Rabi,0.54,5.3,5350,2
+Harvester,60,Khammam,Groundnut,Harvesting,16,Summer,0.53,20.0,18630,5
+Plough,40,Vijayawada,Sugarcane,Ploughing,6,Summer,0.69,20.8,2150,5
+Sprayer,30,Machilipatnam,Chilli,Spraying,10,Kharif,0.64,39.5,3890,9
+Tractor,60,Vijayawada,Wheat,Sowing,10,Rabi,0.55,4.5,3980,2
+Tractor,40,Ongole,Wheat,Sowing,2,Summer,0.79,10.4,750,4
+Sprayer,20,Tenali,Chilli,Spraying,8,Kharif,0.86,29.8,3010,10
+Tractor,50,Ongole,Chilli,Spraying,16,Kharif,0.83,4.7,6790,6
+Harvester,40,Nellore,Wheat,Harvesting,8,Rabi,0.57,10.5,10640,11
+Tractor,50,Narasaraopet,Paddy,Transplanting,16,Kharif,0.7,41.4,6810,8
+Thresher,20,Ongole,Maize,Threshing,8,Rabi,0.22,4.5,3520,12
+Tiller,30,Vijayawada,Turmeric,Tilling,2,Kharif,0.67,23.3,1130,7
+Cultivator,20,Guntur,Turmeric,Tilling,6,Rabi,0.44,23.4,1860,12
+Tractor,50,Vijayawada,Groundnut,Sowing,2,Summer,0.41,18.6,1030,4
+Tractor,55,Tenali,Chilli,Spraying,2,Summer,0.7,1.5,760,4
+Cultivator,30,Khammam,Paddy,Tilling,8,Rabi,0.55,21.7,2490,3
+Tractor,50,Narasaraopet,Cotton,Spraying,4,Rabi,0.41,15.2,1590,2
+Thresher,30,Guntur,Paddy,Threshing,4,Kharif,0.74,38.3,3490,7
+Paddy Transplanter,30,Guntur,Paddy,Transplanting,6,Kharif,0.75,28.7,5450,9
+Sprayer,40,Hyderabad,Chilli,Spraying,2,Summer,0.39,27.7,1060,5
+Sprayer,40,Ongole,Cotton,Spraying,4,Rabi,0.39,9.6,1330,11
+Tractor,75,Ongole,Chilli,Transport,6,Rabi,0.51,41.2,3010,12
+Tractor,45,Nellore,Sugarcane,Ploughing,10,Kharif,0.33,13.3,3760,6
+Tractor,40,Vijayawada,Paddy,Transplanting,2,Rabi,0.55,29.0,1130,3
+Sprayer,30,Eluru,Cotton,Spraying,8,Kharif,0.82,29.2,3690,6
+Tractor,55,Ongole,Turmeric,Sowing,10,Rabi,0.33,19.6,3420,11
+Harvester,75,Narasaraopet,Maize,Harvesting,16,Kharif,0.97,7.9,29260,9
+Tractor,75,Nellore,Sugarcane,Transport,2,Summer,0.77,31.1,1290,5
+Tractor,60,Warangal,Cotton,Sowing,2,Kharif,0.6,25.5,1390,9
+Paddy Transplanter,30,Machilipatnam,Paddy,Transplanting,10,Rabi,0.61,34.8,7350,12
+Tractor,50,Nellore,Wheat,Sowing,10,Kharif,0.68,33.4,4110,6
+Tractor,60,Warangal,Wheat,Sowing,6,Rabi,0.2,30.3,2620,12
+Harvester,50,Machilipatnam,Sugarcane,Harvesting,8,Rabi,0.5,15.2,11520,1
+Sprayer,30,Kurnool,Cotton,Spraying,2,Rabi,0.62,9.5,740,11
+Rotavator,20,Warangal,Sugarcane,Tilling,6,Summer,0.58,21.8,2550,5
+Combine Harvester,45,Eluru,Sugarcane,Harvesting,4,Rabi,0.3,15.3,9410,12
+Cultivator,30,Tenali,Paddy,Ploughing,4,Kharif,0.88,19.3,1720,9
+Cultivator,30,Machilipatnam,Cotton,Ploughing,2,Rabi,0.45,14.5,810,12
+Paddy Transplanter,40,Guntur,Paddy,Transplanting,4,Kharif,0.62,44.1,4140,8
+Trailer,20,Vijayawada,Turmeric,Transport,2,Rabi,0.28,14.0,690,2
+Tractor,45,Nellore,Paddy,Transplanting,16,Rabi,0.26,13.8,4960,3
+Sprayer,30,Tenali,Chilli,Spraying,10,Kharif,0.79,24.8,3810,9
+Tractor,50,Tenali,Paddy,Transplanting,10,Kharif,0.74,37.5,4220,9
+Paddy Transplanter,20,Hyderabad,Paddy,Transplanting,4,Summer,0.58,11.2,3110,5
+Tractor,60,Nellore,Paddy,Transplanting,4,Rabi,0.58,33.3,2050,2
+Sprayer,20,Narasaraopet,Chilli,Spraying,10,Rabi,0.7,5.2,3150,3
+Plough,20,Hyderabad,Maize,Ploughing,16,Kharif,0.65,11.7,5080,8
+Cultivator,20,Hyderabad,Wheat,Ploughing,2,Kharif,0.52,32.5,1200,8
+Tractor,55,Tenali,Cotton,Transport,8,Rabi,0.4,4.5,3100,3
+Trailer,30,Ongole,Turmeric,Transport,4,Rabi,0.54,26.3,1360,2
+Trailer,20,Vijayawada,Turmeric,Transport,4,Kharif,0.85,17.8,1540,10
+Tractor,60,Machilipatnam,Paddy,Transplanting,6,Kharif,0.67,21.1,2970,7
+Tractor,55,Narasaraopet,Groundnut,Ploughing,6,Summer,0.38,12.9,2180,4
+Rotavator,40,Narasaraopet,Paddy,Tilling,2,Kharif,0.89,1.7,1090,6
+Harvester,60,Vijayawada,Groundnut,Harvesting,8,Summer,0.54,27.4,11540,5
+Sprayer,30,Khammam,Chilli,Spraying,10,Kharif,0.78,29.8,3770,10
+Tiller,20,Guntur,Turmeric,Tilling,4,Rabi,0.75,25.6,1790,11
+Combine Harvester,50,Tenali,Wheat,Harvesting,2,Kharif,0.7,29.0,6430,8
+Tractor,75,Hyderabad,Maize,Sowing,10,Kharif,0.9,30.2,6200,7
+Tractor,50,Khammam,Maize,Sowing,6,Rabi,0.84,38.2,3190,3
+Tractor,40,Tenali,Chilli,Transport,8,Kharif,0.8,29.9,3810,9
+Plough,30,Hyderabad,Wheat,Ploughing,10,Rabi,0.57,17.4,3460,2
+Rotavator,20,Vijayawada,Chilli,Tilling,8,Rabi,0.62,13.7,3900,11
+Rotavator,20,Hyderabad,Turmeric,Tilling,6,Kharif,0.6,10.8,3510,7
+Tractor,50,Machilipatnam,Paddy,Transplanting,10,Kharif,0.85,28.2,4780,6
+Tractor,40,Vijayawada,Turmeric,Tilling,16,Rabi,0.57,2.7,6000,3
+Tractor,40,Tenali,Turmeric,Transport,8,Kharif,0.76,11.6,3280,7
+Cultivator,20,Khammam,Sugarcane,Tilling,10,Rabi,0.59,8.6,2850,2
+Combine Harvester,75,Kurnool,Paddy,Harvesting,10,Rabi,0.83,18.5,26320,1
+Rotavator,20,Nellore,Sugarcane,Tilling,6,Kharif,1.0,15.0,3730,9
+Plough,20,Guntur,Wheat,Ploughing,4,Rabi,0.79,40.3,1870,11
+Thresher,20,Eluru,Wheat,Threshing,4,Kharif,0.36,28.5,2950,10
+Paddy Transplanter,20,Vijayawada,Paddy,Transplanting,10,Kharif,1.0,11.7,8280,8
+Tractor,60,Machilipatnam,Paddy,Transplanting,2,Rabi,0.58,34.7,1210,12
+Seed Drill,30,Guntur,Groundnut,Sowing,4,Summer,0.41,41.8,1880,4
+Seed Drill,30,Guntur,Turmeric,Sowing,16,Kharif,0.62,28.9,6760,7
+Cultivator,20,Tenali,Groundnut,Ploughing,10,Rabi,0.86,28.9,3520,3
+Tractor,50,Nellore,Cotton,Transport,8,Kharif,0.86,21.8,3380,8
+Tractor,45,Narasaraopet,Paddy,Tilling,6,Summer,0.51,16.3,2120,5
+Seed Drill,20,Tenali,Groundnut,Sowing,10,Kharif,0.71,21.9,4120,8
+Thresher,30,Tenali,Maize,Threshing,16,Summer,0.57,6.7,7630,4
+Thresher,40,Tenali,Maize,Threshing,4,Rabi,0.51,18.9,2650,11
+Harvester,55,Vijayawada,Paddy,Harvesting,4,Rabi,0.5,22.5,7150,11
+Thresher,20,Tenali,Paddy,Threshing,10,Summer,0.52,18.4,4750,5
+Tractor,75,Warangal,Turmeric,Sowing,2,Rabi,0.47,23.0,1160,1
+Cultivator,20,Tenali,Groundnut,Ploughing,4,Rabi,0.32,18.4,1420,2
+Combine Harvester,40,Warangal,Wheat,Harvesting,8,Rabi,0.78,21.9,20410,1
+Paddy Transplanter,20,Vijayawada,Paddy,Transplanting,10,Rabi,0.55,40.0,7220,3
+Tractor,40,Kurnool,Paddy,Transplanting,6,Kharif,0.61,35.6,2510,7
+Trailer,30,Machilipatnam,Turmeric,Transport,4,Kharif,0.76,18.6,1410,6
+Tractor,75,Nellore,Paddy,Transplanting,4,Rabi,1.0,8.8,1890,11
+Tractor,45,Nellore,Groundnut,Sowing,4,Summer,0.5,20.5,1460,5
+Sprayer,20,Vijayawada,Chilli,Spraying,8,Kharif,0.55,11.8,3010,9
+Seed Drill,40,Narasaraopet,Cotton,Sowing,2,Summer,0.54,1.2,690,5
+Thresher,40,Khammam,Wheat,Threshing,2,Kharif,0.44,43.9,1750,8
+Seed Drill,40,Kurnool,Turmeric,Sowing,4,Summer,0.27,27.9,1680,5
+Thresher,20,Guntur,Maize,Threshing,4,Rabi,0.53,17.9,2610,1
+Thresher,20,Tenali,Maize,Threshing,4,Kharif,0.71,25.3,2880,10
+Tractor,50,Narasaraopet,Chilli,Spraying,16,Kharif,0.88,1.1,6820,8
+Harvester,55,Guntur,Paddy,Harvesting,2,Rabi,0.61,25.3,4100,3
+Combine Harvester,35,Kurnool,Paddy,Harvesting,6,Rabi,0.51,32.8,14060,11
+Trailer,20,Eluru,Chilli,Transport,10,Rabi,0.67,33.1,3130,12
+Combine Harvester,45,Warangal,Paddy,Harvesting,10,Rabi,0.26,31.4,22250,11
+Tractor,50,Ongole,Groundnut,Sowing,2,Kharif,0.61,35.4,1300,6
+Cultivator,40,Warangal,Paddy,Ploughing,6,Rabi,0.29,17.0,2330,3
+Tractor,45,Eluru,Paddy,Transplanting,10,Summer,0.55,19.3,3220,5
+Trailer,20,Guntur,Turmeric,Transport,6,Kharif,0.69,42.7,2300,7
+Thresher,20,Nellore,Wheat,Threshing,6,Kharif,0.8,42.0,4360,9
+Tractor,75,Khammam,Cotton,Spraying,8,Kharif,0.9,6.5,3850,8
+Tractor,75,Vijayawada,Paddy,Transplanting,8,Summer,0.85,42.0,3620,5
+Paddy Transplanter,30,Vijayawada,Paddy,Transplanting,10,Summer,0.43,1.3,5990,4
+Harvester,35,Ongole,Wheat,Harvesting,6,Kharif,0.84,23.5,9450,8
+Trailer,30,Ongole,Sugarcane,Transport,6,Kharif,0.89,41.0,2560,10
+Paddy Transplanter,30,Eluru,Paddy,Transplanting,16,Kharif,0.84,2.0,13700,6
+Tractor,35,Vijayawada,Paddy,Transplanting,4,Rabi,0.54,9.1,1660,2
+Plough,40,Tenali,Sugarcane,Ploughing,2,Kharif,1.0,21.7,1050,10
+Rotavator,40,Guntur,Paddy,Tilling,6,Kharif,1.0,43.2,4060,7
+Tractor,40,Vijayawada,Paddy,Tilling,2,Kharif,0.79,9.1,1180,9
+Tractor,60,Kurnool,Cotton,Spraying,4,Kharif,0.59,9.1,1690,10
+Combine Harvester,75,Machilipatnam,Wheat,Harvesting,6,Rabi,0.57,19.0,15840,12
+Thresher,30,Guntur,Paddy,Threshing,10,Kharif,0.82,19.5,7060,7
+Tractor,55,Guntur,Turmeric,Sowing,16,Kharif,0.89,16.4,8050,7
+Combine Harvester,40,Warangal,Paddy,Harvesting,16,Rabi,0.39,27.9,33430,3
+Tractor,45,Khammam,Sugarcane,Transport,8,Kharif,0.32,26.6,3240,9
+Tractor,40,Machilipatnam,Turmeric,Transport,2,Rabi,0.37,25.3,1010,1
+Combine Harvester,75,Narasaraopet,Sugarcane,Harvesting,4,Kharif,0.96,30.4,12520,9
+Paddy Transplanter,20,Nellore,Paddy,Transplanting,4,Rabi,0.19,7.9,2430,2
+Harvester,40,Hyderabad,Paddy,Harvesting,8,Rabi,0.5,34.5,13150,1
+Tractor,75,Guntur,Chilli,Transport,10,Rabi,0.61,21.5,4550,3
+Rotavator,30,Khammam,Sugarcane,Tilling,8,Rabi,0.41,15.9,3560,3
+Rotavator,40,Khammam,Sugarcane,Tilling,6,Kharif,0.63,35.4,3650,8
+Tractor,40,Khammam,Chilli,Spraying,4,Kharif,0.85,24.3,1910,9
+Sprayer,20,Ongole,Cotton,Spraying,4,Kharif,0.74,44.9,1850,7
+Tractor,75,Nellore,Wheat,Sowing,4,Rabi,0.35,45.0,2120,3
+Tractor,40,Ongole,Sugarcane,Transport,4,Kharif,0.72,12.3,1670,8
+Seed Drill,30,Machilipatnam,Turmeric,Sowing,10,Kharif,0.81,43.5,4790,6
+Combine Harvester,35,Nellore,Sugarcane,Harvesting,16,Rabi,0.44,7.7,30610,3
+Thresher,30,Eluru,Maize,Threshing,2,Kharif,0.91,8.7,1730,9
+Thresher,30,Hyderabad,Paddy,Threshing,10,Summer,0.68,9.6,6350,4
+Cultivator,30,Hyderabad,Groundnut,Ploughing,2,Rabi,0.47,12.2,850,3
+Tractor,75,Kurnool,Chilli,Spraying,6,Summer,0.65,15.0,2640,4
+Paddy Transplanter,40,Hyderabad,Paddy,Transplanting,16,Rabi,0.34,2.8,12750,2
+Seed Drill,20,Guntur,Cotton,Sowing,10,Rabi,0.67,37.4,4270,11
+Rotavator,20,Hyderabad,Sugarcane,Tilling,10,Kharif,0.7,33.2,6430,9
+Tractor,40,Machilipatnam,Paddy,Tilling,4,Summer,0.41,5.0,1280,5
+Cultivator,30,Guntur,Paddy,Ploughing,16,Summer,0.56,11.6,4200,4
+Seed Drill,30,Kurnool,Cotton,Sowing,8,Kharif,0.71,2.6,2910,7
+Plough,40,Nellore,Wheat,Ploughing,4,Rabi,0.41,35.9,1720,11
+Tiller,20,Eluru,Chilli,Tilling,10,Kharif,0.8,20.0,4110,8
+Cultivator,30,Hyderabad,Wheat,Ploughing,16,Kharif,0.7,39.2,6640,6
+Thresher,30,Vijayawada,Paddy,Threshing,16,Rabi,0.5,18.2,11110,1
+Trailer,30,Tenali,Cotton,Transport,2,Rabi,0.41,4.3,520,3
+Tractor,50,Narasaraopet,Cotton,Sowing,2,Kharif,0.94,36.4,1540,8
+Cultivator,20,Narasaraopet,Turmeric,Tilling,16,Kharif,0.74,18.5,4560,8
+Seed Drill,40,Nellore,Groundnut,Sowing,10,Summer,0.84,24.2,3610,5
+Tiller,30,Hyderabad,Paddy,Tilling,4,Rabi,0.8,43.3,2430,2
+Tractor,55,Machilipatnam,Chilli,Tilling,10,Kharif,0.6,15.6,4250,9
+Seed Drill,40,Vijayawada,Wheat,Sowing,4,Rabi,0.58,37.7,2400,2
+Tractor,75,Guntur,Cotton,Ploughing,2,Rabi,0.56,3.7,970,12
+Tractor,50,Ongole,Cotton,Spraying,4,Summer,0.64,6.9,1480,4
+Tractor,40,Guntur,Sugarcane,Tilling,2,Kharif,0.7,30.8,1370,6
+Thresher,30,Vijayawada,Paddy,Threshing,2,Kharif,1.0,29.6,2290,9
+Combine Harvester,50,Vijayawada,Wheat,Harvesting,4,Summer,0.75,29.5,10710,4
+Sprayer,30,Ongole,Chilli,Spraying,2,Summer,0.51,7.5,650,5
+Tractor,40,Ongole,Cotton,Spraying,2,Rabi,0.83,9.3,940,12
+Tractor,40,Hyderabad,Chilli,Spraying,8,Summer,0.37,12.5,2890,5
+Paddy Transplanter,40,Khammam,Paddy,Transplanting,10,Kharif,0.65,25.9,8340,9
+Tractor,35,Nellore,Cotton,Ploughing,6,Rabi,0.49,37.0,2390,2
+Thresher,40,Ongole,Wheat,Threshing,4,Summer,0.43,38.4,2370,5
+Tractor,75,Guntur,Cotton,Spraying,8,Summer,0.27,37.8,3010,5
+Sprayer,20,Narasaraopet,Chilli,Spraying,8,Rabi,0.91,27.7,2830,11
+Combine Harvester,45,Eluru,Sugarcane,Harvesting,4,Rabi,0.59,26.2,10930,1
+Cultivator,20,Khammam,Paddy,Tilling,16,Rabi,0.28,44.0,4590,3
+Trailer,30,Kurnool,Chilli,Transport,10,Rabi,0.22,14.1,2050,2
+Seed Drill,40,Vijayawada,Turmeric,Sowing,2,Summer,0.65,41.8,1350,4
+Plough,30,Vijayawada,Groundnut,Ploughing,16,Rabi,0.3,2.0,4000,12
+Tractor,55,Ongole,Groundnut,Sowing,16,Summer,0.59,7.3,5050,4
+Harvester,35,Vijayawada,Wheat,Harvesting,2,Summer,0.43,30.9,3220,4
+Thresher,20,Warangal,Wheat,Threshing,16,Summer,0.78,13.3,8210,5
+Seed Drill,30,Nellore,Turmeric,Sowing,10,Rabi,0.34,21.8,3530,3
+Tractor,60,Tenali,Chilli,Spraying,2,Kharif,0.64,29.3,1470,7
+Trailer,30,Warangal,Chilli,Transport,8,Kharif,0.94,3.3,2450,6
+Sprayer,40,Vijayawada,Cotton,Spraying,8,Rabi,0.53,43.6,3410,3
+Sprayer,30,Hyderabad,Chilli,Spraying,4,Rabi,0.33,39.3,1970,3
+Tractor,50,Ongole,Cotton,Spraying,2,Rabi,0.44,27.9,1150,12
+Tractor,35,Hyderabad,Chilli,Transport,4,Rabi,0.68,14.5,2050,12
+Tractor,40,Hyderabad,Cotton,Spraying,16,Rabi,0.7,5.4,6950,2
+Paddy Transplanter,20,Guntur,Paddy,Transplanting,4,Rabi,0.21,7.2,2560,1
+Tractor,40,Ongole,Cotton,Sowing,2,Kharif,0.79,28.4,1220,6
+Tractor,50,Hyderabad,Paddy,Tilling,10,Kharif,0.69,8.4,4900,6
+Thresher,30,Nellore,Maize,Threshing,16,Rabi,0.86,27.8,9370,3
+Tractor,75,Machilipatnam,Cotton,Transport,4,Rabi,0.51,14.4,1730,12
+Tractor,55,Hyderabad,Paddy,Transplanting,2,Summer,0.55,41.7,1260,5
+Combine Harvester,75,Narasaraopet,Paddy,Harvesting,16,Kharif,0.44,15.6,37920,7
+Thresher,20,Vijayawada,Paddy,Threshing,2,Rabi,0.51,32.8,1600,3
+Trailer,20,Machilipatnam,Turmeric,Transport,4,Kharif,0.89,1.2,1320,9
+Paddy Transplanter,20,Vijayawada,Paddy,Transplanting,16,Kharif,0.91,8.0,14600,7
+Cultivator,20,Vijayawada,Paddy,Tilling,16,Rabi,0.43,5.2,4730,1
+Thresher,30,Guntur,Paddy,Threshing,2,Kharif,0.96,42.5,2090,10
+Combine Harvester,75,Nellore,Wheat,Harvesting,8,Summer,0.64,7.7,16820,5
+Tractor,55,Narasaraopet,Paddy,Transplanting,2,Rabi,0.59,11.4,900,3
+Plough,20,Vijayawada,Sugarcane,Ploughing,16,Rabi,0.25,30.5,4380,11
+Cultivator,30,Nellore,Sugarcane,Ploughing,6,Summer,0.54,37.7,2150,4
+Tractor,45,Machilipatnam,Paddy,Transplanting,6,Summer,0.53,24.9,2200,5
+Tractor,60,Khammam,Sugarcane,Transport,8,Kharif,0.75,38.8,4130,9
+Thresher,40,Kurnool,Paddy,Threshing,8,Kharif,0.67,40.2,5910,7
+Sprayer,40,Khammam,Cotton,Spraying,6,Rabi,0.71,19.5,2190,11
+Paddy Transplanter,20,Machilipatnam,Paddy,Transplanting,6,Rabi,0.65,28.4,4730,12
+Seed Drill,40,Khammam,Maize,Sowing,6,Summer,0.71,18.4,2530,5
+Thresher,40,Kurnool,Maize,Threshing,6,Rabi,0.42,38.1,3900,11
+Tractor,75,Ongole,Maize,Sowing,8,Summer,0.57,37.9,3420,4
+Harvester,40,Machilipatnam,Groundnut,Harvesting,2,Rabi,0.54,20.4,3140,3
+Combine Harvester,40,Nellore,Maize,Harvesting,8,Summer,0.47,18.2,14460,4
+Combine Harvester,60,Vijayawada,Sugarcane,Harvesting,10,Summer,0.41,25.5,21340,4
+Paddy Transplanter,30,Tenali,Paddy,Transplanting,4,Rabi,0.36,43.4,3430,1
+Harvester,55,Kurnool,Wheat,Harvesting,10,Summer,0.61,23.1,12820,5
+Tractor,40,Guntur,Cotton,Spraying,16,Kharif,0.84,14.4,7190,10
+Tractor,45,Kurnool,Sugarcane,Ploughing,8,Rabi,0.58,1.4,2880,2
+Harvester,60,Hyderabad,Paddy,Harvesting,16,Kharif,0.88,35.7,33520,6
+Combine Harvester,50,Machilipatnam,Paddy,Harvesting,16,Rabi,0.15,32.7,27460,2
+Plough,30,Ongole,Sugarcane,Ploughing,10,Rabi,0.78,39.6,3570,2
+Thresher,30,Machilipatnam,Maize,Threshing,4,Kharif,1.0,9.2,3080,6
+Tractor,50,Narasaraopet,Turmeric,Tilling,4,Summer,0.46,37.6,1880,4
+Thresher,20,Eluru,Wheat,Threshing,8,Rabi,0.34,37.4,4670,3
+Cultivator,30,Tenali,Wheat,Ploughing,6,Summer,0.6,40.4,2250,5
+Tractor,40,Tenali,Groundnut,Ploughing,2,Rabi,0.94,31.6,1240,12
+Thresher,30,Eluru,Maize,Threshing,8,Kharif,0.91,44.6,6200,9
+Sprayer,30,Khammam,Chilli,Spraying,16,Rabi,0.54,40.0,5540,2
+Rotavator,30,Warangal,Chilli,Tilling,6,Kharif,0.78,25.6,3310,6
+Seed Drill,30,Machilipatnam,Wheat,Sowing,8,Kharif,0.65,42.2,3620,8
+Sprayer,30,Eluru,Chilli,Spraying,6,Kharif,0.79,39.4,2700,10
+Harvester,60,Eluru,Wheat,Harvesting,2,Kharif,0.95,15.6,4140,8
+Tractor,50,Machilipatnam,Cotton,Spraying,10,Kharif,0.7,23.6,4240,6
+Tractor,45,Tenali,Chilli,Transport,8,Kharif,0.61,25.4,3510,9
+Trailer,30,Warangal,Sugarcane,Transport,6,Kharif,0.92,31.5,2470,6
+Thresher,30,Warangal,Wheat,Threshing,8,Kharif,0.68,3.6,5480,6
+Harvester,75,Kurnool,Wheat,Harvesting,16,Rabi,0.77,40.8,26390,1
+Tractor,75,Khammam,Sugarcane,Transport,6,Kharif,0.44,18.1,2820,10
+Harvester,55,Narasaraopet,Paddy,Harvesting,4,Rabi,0.55,22.3,6380,12
+Tractor,55,Eluru,Chilli,Spraying,2,Kharif,0.63,37.1,1430,6
+Tiller,40,Narasaraopet,Paddy,Tilling,4,Kharif,0.61,12.5,1770,6
+Thresher,40,Narasaraopet,Wheat,Threshing,8,Rabi,0.52,36.5,5310,11
+Tractor,35,Ongole,Wheat,Sowing,2,Kharif,0.72,32.9,1260,6
+Trailer,40,Khammam,Sugarcane,Transport,6,Summer,0.73,13.1,1680,5
+Tractor,55,Eluru,Maize,Ploughing,16,Summer,0.65,11.6,5720,4
+Harvester,55,Ongole,Wheat,Harvesting,16,Rabi,0.42,28.9,21550,11
+Seed Drill,40,Warangal,Groundnut,Sowing,10,Kharif,0.72,17.6,4670,9
+Thresher,40,Ongole,Maize,Threshing,10,Summer,0.54,25.5,4850,4
+Combine Harvester,50,Khammam,Groundnut,Harvesting,10,Kharif,0.75,18.2,25840,9
+Rotavator,30,Eluru,Turmeric,Tilling,8,Kharif,0.57,14.4,4380,9
+Combine Harvester,50,Vijayawada,Maize,Harvesting,10,Kharif,0.93,39.0,29980,7
+Seed Drill,40,Hyderabad,Cotton,Sowing,10,Kharif,0.83,14.4,5590,9
+Paddy Transplanter,40,Hyderabad,Paddy,Transplanting,2,Kharif,0.98,23.8,2520,7
+Paddy Transplanter,20,Vijayawada,Paddy,Transplanting,6,Rabi,0.74,34.2,5420,11
+Cultivator,30,Narasaraopet,Chilli,Tilling,16,Kharif,0.76,29.4,5170,8
+Tractor,60,Guntur,Paddy,Transplanting,6,Kharif,0.64,21.3,3080,9
+Trailer,30,Ongole,Sugarcane,Transport,6,Kharif,0.82,17.6,2190,9
+Sprayer,20,Kurnool,Cotton,Spraying,2,Rabi,0.77,9.3,610,1
+Tractor,45,Guntur,Sugarcane,Transport,4,Kharif,0.8,41.7,2380,8
+Thresher,20,Vijayawada,Wheat,Threshing,6,Kharif,0.84,39.0,5460,6
+Trailer,20,Machilipatnam,Turmeric,Transport,6,Rabi,0.9,43.6,2250,3
+Sprayer,30,Tenali,Cotton,Spraying,2,Rabi,0.89,2.0,740,2
+Tractor,35,Khammam,Cotton,Ploughing,4,Kharif,0.69,25.1,1990,6
+Tractor,35,Warangal,Paddy,Transplanting,8,Summer,0.61,13.8,2780,4
+Cultivator,30,Khammam,Cotton,Ploughing,4,Kharif,1.0,27.3,1680,7
+Combine Harvester,45,Khammam,Maize,Harvesting,8,Kharif,0.88,29.3,20360,10
+Tractor,35,Khammam,Paddy,Transplanting,6,Rabi,0.46,29.5,2570,11
+Sprayer,40,Eluru,Cotton,Spraying,16,Summer,0.6,35.3,4910,4
+Cultivator,40,Eluru,Wheat,Ploughing,16,Kharif,1.0,28.5,7130,9
+Tractor,45,Vijayawada,Chilli,Spraying,16,Kharif,0.74,24.9,7400,8
+Sprayer,40,Vijayawada,Chilli,Spraying,8,Summer,0.48,11.0,2340,4
+Thresher,40,Kurnool,Maize,Threshing,6,Kharif,0.78,22.4,4160,10
+Tractor,40,Warangal,Paddy,Transplanting,16,Summer,0.5,15.4,5270,4
+Thresher,20,Hyderabad,Wheat,Threshing,2,Rabi,0.63,32.7,1870,11
+Tractor,40,Warangal,Cotton,Spraying,4,Kharif,0.86,27.3,2250,7
+Tractor,50,Hyderabad,Turmeric,Sowing,10,Rabi,0.53,6.0,4310,11
+Tractor,40,Guntur,Paddy,Tilling,4,Rabi,0.48,4.8,1580,12
+Thresher,20,Narasaraopet,Maize,Threshing,8,Summer,0.44,33.3,4070,4
+Trailer,20,Machilipatnam,Chilli,Transport,16,Summer,0.65,19.6,3400,4
+Thresher,40,Kurnool,Paddy,Threshing,10,Summer,0.05,41.5,4690,4
+Tractor,40,Nellore,Paddy,Transplanting,4,Rabi,0.43,42.6,1830,3
+Tractor,35,Guntur,Turmeric,Sowing,4,Summer,0.79,11.4,1660,5
+Tractor,35,Kurnool,Groundnut,Ploughing,6,Kharif,0.74,20.8,2870,8
+Sprayer,40,Khammam,Cotton,Spraying,10,Kharif,1.0,19.2,3980,10
+Cultivator,30,Narasaraopet,Groundnut,Ploughing,4,Kharif,0.65,31.5,1900,8
+Tractor,55,Khammam,Cotton,Transport,4,Summer,0.6,36.3,1880,5
+Sprayer,40,Tenali,Chilli,Spraying,10,Summer,0.73,8.7,3040,5
+Combine Harvester,40,Eluru,Wheat,Harvesting,10,Rabi,0.53,7.9,23070,3
+Combine Harvester,40,Eluru,Paddy,Harvesting,6,Summer,0.53,19.3,11980,5
+Tractor,75,Eluru,Groundnut,Sowing,6,Rabi,0.76,5.2,2990,1
+Tiller,30,Warangal,Turmeric,Tilling,8,Kharif,0.71,42.0,3400,8
+Thresher,40,Tenali,Paddy,Threshing,6,Rabi,0.88,2.5,4440,12
+Tractor,75,Eluru,Paddy,Tilling,6,Rabi,0.09,32.7,2860,12
+Plough,40,Tenali,Groundnut,Ploughing,10,Kharif,0.4,15.8,3180,7
+Harvester,40,Narasaraopet,Paddy,Harvesting,10,Summer,0.6,11.2,13610,4
+Tractor,60,Nellore,Cotton,Transport,2,Rabi,0.36,19.9,1020,1
+Trailer,30,Eluru,Turmeric,Transport,10,Rabi,0.64,18.0,2900,2
+Tractor,45,Nellore,Maize,Sowing,16,Rabi,0.74,38.9,6310,1
+Cultivator,20,Machilipatnam,Groundnut,Ploughing,2,Rabi,0.63,7.4,740,11
+Trailer,30,Ongole,Cotton,Transport,2,Kharif,0.79,43.6,1250,6
+Paddy Transplanter,20,Machilipatnam,Paddy,Transplanting,16,Kharif,0.82,42.1,12500,10
+Thresher,40,Khammam,Maize,Threshing,16,Summer,1.0,8.4,9020,5
+Thresher,20,Vijayawada,Paddy,Threshing,16,Kharif,0.48,25.4,10660,8
+Thresher,40,Machilipatnam,Wheat,Threshing,2,Rabi,0.51,24.5,1550,2
+Trailer,40,Guntur,Turmeric,Transport,10,Kharif,0.81,40.3,3520,8
+Tractor,55,Tenali,Paddy,Transplanting,10,Kharif,0.66,32.4,4500,8
+Cultivator,30,Warangal,Chilli,Tilling,10,Rabi,0.68,39.8,3740,11
+Thresher,20,Kurnool,Maize,Threshing,10,Summer,0.39,1.1,4400,5
+Tractor,55,Vijayawada,Turmeric,Transport,10,Rabi,0.92,19.2,4760,12
+Thresher,30,Hyderabad,Paddy,Threshing,10,Kharif,0.58,10.5,6600,9
+Tractor,35,Vijayawada,Paddy,Transplanting,10,Kharif,0.93,15.9,4930,6
+Paddy Transplanter,40,Warangal,Paddy,Transplanting,6,Rabi,0.57,7.5,5060,2
+Cultivator,20,Hyderabad,Maize,Ploughing,4,Kharif,0.67,6.5,1690,9
+Cultivator,40,Ongole,Turmeric,Tilling,8,Kharif,0.48,33.1,2870,8
+Combine Harvester,50,Eluru,Wheat,Harvesting,8,Rabi,0.24,10.5,16850,1
+Tractor,45,Machilipatnam,Wheat,Ploughing,16,Summer,0.76,29.9,5680,4
+Combine Harvester,50,Hyderabad,Sugarcane,Harvesting,2,Kharif,0.64,14.2,6170,8
+Tiller,20,Guntur,Turmeric,Tilling,6,Kharif,0.68,36.1,2820,7
+Plough,40,Khammam,Wheat,Ploughing,6,Rabi,0.52,30.7,2330,1
+Combine Harvester,55,Machilipatnam,Maize,Harvesting,6,Summer,0.44,14.7,13130,5
+Tractor,50,Guntur,Turmeric,Tilling,16,Kharif,0.77,13.3,7060,9
+Tractor,50,Tenali,Paddy,Tilling,2,Kharif,0.17,41.8,1170,7
+Tractor,60,Tenali,Turmeric,Transport,10,Kharif,0.73,4.0,4300,8
+Thresher,20,Ongole,Wheat,Threshing,16,Rabi,0.6,28.9,8720,12
+Cultivator,20,Nellore,Chilli,Tilling,8,Summer,0.36,14.8,1920,5
+Plough,20,Machilipatnam,Cotton,Ploughing,16,Kharif,0.76,42.6,5160,10
+Seed Drill,20,Vijayawada,Wheat,Sowing,4,Rabi,0.6,13.4,1810,2
+Tractor,55,Narasaraopet,Groundnut,Ploughing,16,Summer,0.42,35.3,5170,5
+Tractor,75,Nellore,Turmeric,Sowing,2,Kharif,0.9,23.1,1330,9
+Tractor,60,Eluru,Paddy,Ploughing,4,Rabi,0.43,19.6,1800,1
+Tractor,35,Kurnool,Chilli,Spraying,6,Kharif,0.71,14.3,2520,9
+Thresher,40,Hyderabad,Wheat,Threshing,2,Kharif,0.47,24.2,1880,9
+Thresher,20,Vijayawada,Paddy,Threshing,16,Rabi,0.26,15.2,7710,1
+Trailer,20,Vijayawada,Cotton,Transport,4,Kharif,0.68,4.3,1400,6
+Trailer,20,Warangal,Turmeric,Transport,4,Summer,0.47,35.7,1430,4
+Paddy Transplanter,20,Kurnool,Paddy,Transplanting,4,Rabi,0.43,41.8,3260,2
+Harvester,40,Tenali,Sugarcane,Harvesting,2,Rabi,0.63,9.7,3290,11
+Tractor,60,Kurnool,Chilli,Spraying,16,Rabi,0.41,41.8,5880,12
+Thresher,20,Khammam,Wheat,Threshing,4,Kharif,1.0,43.9,3470,10
+Sprayer,40,Nellore,Cotton,Spraying,4,Summer,0.75,3.0,1180,5
+Tractor,40,Ongole,Chilli,Spraying,4,Kharif,0.7,44.2,1970,7
+Tractor,55,Vijayawada,Chilli,Spraying,10,Rabi,0.6,32.4,4410,3
+Combine Harvester,60,Guntur,Wheat,Harvesting,10,Rabi,0.46,29.4,26110,11
+Thresher,20,Machilipatnam,Maize,Threshing,6,Rabi,0.6,32.7,4100,2
+Trailer,20,Tenali,Sugarcane,Transport,16,Rabi,0.45,37.8,4120,2
+Tractor,35,Nellore,Chilli,Transport,10,Kharif,0.43,4.6,3150,9
+Tractor,45,Hyderabad,Paddy,Transplanting,4,Rabi,0.55,29.4,2080,12
+Tractor,40,Tenali,Wheat,Sowing,2,Kharif,1.0,3.4,1040,7
+Trailer,30,Tenali,Cotton,Transport,8,Rabi,0.71,21.3,2470,2
+Tiller,30,Khammam,Paddy,Tilling,10,Kharif,0.76,29.0,4180,7
+Tractor,45,Eluru,Paddy,Transplanting,16,Summer,0.18,26.7,4820,5
+Tractor,35,Khammam,Chilli,Tilling,10,Kharif,0.66,35.3,4250,6
+Combine Harvester,75,Nellore,Paddy,Harvesting,6,Kharif,0.81,43.7,18190,10
+Tractor,40,Guntur,Cotton,Spraying,8,Kharif,0.56,16.2,3330,8
+Plough,40,Hyderabad,Sugarcane,Ploughing,8,Rabi,0.75,9.1,3000,3
+Combine Harvester,60,Machilipatnam,Sugarcane,Harvesting,16,Rabi,0.65,39.6,36800,12
+Tractor,35,Khammam,Sugarcane,Ploughing,2,Kharif,0.6,24.4,1240,8
+Thresher,30,Guntur,Wheat,Threshing,10,Kharif,0.42,7.0,5670,6
+Cultivator,40,Narasaraopet,Chilli,Tilling,10,Rabi,0.76,35.6,3360,2
+Sprayer,20,Khammam,Chilli,Spraying,8,Kharif,0.54,37.0,3010,10
+Paddy Transplanter,40,Eluru,Paddy,Transplanting,16,Rabi,0.38,13.1,11580,12
+Harvester,60,Hyderabad,Maize,Harvesting,2,Kharif,0.72,2.4,4540,7
+Tractor,35,Khammam,Maize,Sowing,8,Kharif,1.0,10.0,3570,7
+Thresher,40,Hyderabad,Paddy,Threshing,4,Kharif,0.95,13.2,3800,6
+Paddy Transplanter,40,Guntur,Paddy,Transplanting,10,Summer,0.67,34.7,6970,4
+Thresher,40,Khammam,Maize,Threshing,8,Kharif,0.62,5.9,5210,8
+Tractor,35,Guntur,Paddy,Transplanting,6,Rabi,0.41,34.6,2620,11
+Tractor,55,Ongole,Chilli,Transport,10,Kharif,0.59,37.2,3860,8
+Paddy Transplanter,40,Guntur,Paddy,Transplanting,8,Rabi,0.4,27.7,6150,1
+Tractor,60,Narasaraopet,Groundnut,Sowing,8,Rabi,0.57,41.8,3510,1
+Tractor,35,Guntur,Chilli,Spraying,6,Rabi,0.57,42.5,2910,3
+Paddy Transplanter,20,Ongole,Paddy,Transplanting,6,Kharif,0.76,41.0,5550,10
+Sprayer,20,Warangal,Chilli,Spraying,2,Rabi,0.81,40.3,1300,11
+Thresher,20,Nellore,Maize,Threshing,4,Rabi,0.49,18.5,2580,11
+Seed Drill,20,Machilipatnam,Turmeric,Sowing,6,Rabi,0.7,15.7,2660,2
+Plough,40,Vijayawada,Paddy,Ploughing,4,Rabi,0.29,11.9,1390,3
+Thresher,40,Guntur,Maize,Threshing,10,Kharif,0.67,38.6,6750,9
+Thresher,40,Vijayawada,Maize,Threshing,4,Rabi,0.6,11.5,2920,3
+Tiller,20,Vijayawada,Turmeric,Tilling,10,Kharif,0.67,1.1,3570,7
+Rotavator,30,Kurnool,Chilli,Tilling,16,Kharif,0.94,26.4,7680,7
+Cultivator,30,Hyderabad,Cotton,Ploughing,4,Kharif,0.72,1.5,1670,8
+Plough,40,Vijayawada,Paddy,Ploughing,10,Rabi,0.7,25.7,3760,2
+Tractor,75,Machilipatnam,Paddy,Transplanting,16,Kharif,0.97,8.5,8130,6
+Trailer,20,Khammam,Chilli,Transport,2,Rabi,0.65,27.5,930,3
+Cultivator,40,Tenali,Maize,Ploughing,6,Rabi,0.69,29.3,2450,2
+Seed Drill,30,Eluru,Cotton,Sowing,10,Rabi,0.59,28.0,4150,11
+Tractor,55,Hyderabad,Cotton,Sowing,10,Rabi,0.26,37.0,4100,3
+Thresher,20,Khammam,Maize,Threshing,6,Kharif,0.96,5.6,4460,10
+Paddy Transplanter,30,Warangal,Paddy,Transplanting,6,Kharif,0.82,14.1,5070,10
+Harvester,75,Vijayawada,Groundnut,Harvesting,8,Kharif,0.72,3.6,15650,8
+Tractor,40,Guntur,Cotton,Ploughing,16,Kharif,0.82,8.8,6610,7
+Plough,30,Guntur,Cotton,Ploughing,6,Kharif,0.9,34.4,2440,6
+Thresher,20,Eluru,Paddy,Threshing,16,Rabi,0.26,8.5,7730,1
+Combine Harvester,35,Kurnool,Wheat,Harvesting,4,Summer,0.54,3.4,7250,4
+Tractor,60,Kurnool,Cotton,Sowing,2,Rabi,0.5,43.3,1270,12
+Seed Drill,40,Nellore,Wheat,Sowing,16,Kharif,0.49,34.0,6040,6
+Harvester,55,Khammam,Maize,Harvesting,4,Kharif,0.59,41.9,7360,6
+Cultivator,40,Kurnool,Wheat,Ploughing,16,Kharif,0.41,21.9,5140,10
+Harvester,40,Vijayawada,Paddy,Harvesting,8,Kharif,0.8,39.5,15310,7
+Tractor,60,Hyderabad,Cotton,Sowing,16,Summer,0.81,5.5,6970,4
+Tractor,40,Eluru,Chilli,Spraying,16,Rabi,0.5,20.0,6080,11
+Tractor,50,Tenali,Cotton,Sowing,10,Summer,0.52,20.2,3350,4
+Thresher,30,Narasaraopet,Maize,Threshing,2,Rabi,0.17,38.6,1610,11
+Tractor,60,Kurnool,Chilli,Transport,6,Rabi,0.56,21.5,2600,11
+Combine Harvester,60,Ongole,Groundnut,Harvesting,6,Rabi,0.37,10.4,14840,11
+Rotavator,20,Khammam,Sugarcane,Tilling,8,Kharif,0.67,18.9,3610,9
+Paddy Transplanter,30,Vijayawada,Paddy,Transplanting,2,Rabi,0.59,5.1,1650,1
+Sprayer,30,Hyderabad,Chilli,Spraying,16,Rabi,0.33,23.8,5820,12
+Cultivator,40,Khammam,Sugarcane,Ploughing,6,Rabi,0.56,6.0,2050,2
+Thresher,30,Hyderabad,Maize,Threshing,10,Kharif,0.75,29.4,7450,9
+Tractor,75,Eluru,Turmeric,Tilling,6,Rabi,0.49,40.1,3060,1
+Thresher,30,Vijayawada,Maize,Threshing,8,Kharif,0.44,32.5,5600,7
+Combine Harvester,50,Ongole,Sugarcane,Harvesting,16,Kharif,0.79,15.0,42030,7
+Tractor,35,Ongole,Cotton,Sowing,4,Kharif,0.83,15.1,1850,10
+Thresher,30,Nellore,Paddy,Threshing,8,Kharif,1.0,32.3,6290,10
+Harvester,55,Tenali,Paddy,Harvesting,4,Rabi,0.16,2.1,5160,3
+Paddy Transplanter,30,Nellore,Paddy,Transplanting,16,Summer,0.65,38.4,9140,4
+Tractor,55,Khammam,Chilli,Tilling,16,Rabi,0.44,24.3,5670,12
+Harvester,45,Eluru,Sugarcane,Harvesting,4,Summer,0.76,7.4,6400,4
+Tractor,50,Nellore,Groundnut,Sowing,16,Kharif,0.81,8.7,6790,7
+Tractor,50,Kurnool,Paddy,Transplanting,10,Rabi,0.55,25.7,3580,1
+Combine Harvester,60,Tenali,Sugarcane,Harvesting,6,Rabi,0.75,42.6,17790,1
+Paddy Transplanter,30,Eluru,Paddy,Transplanting,4,Kharif,0.58,43.3,3660,6
+Plough,20,Machilipatnam,Wheat,Ploughing,16,Rabi,0.41,10.4,4250,1
+Thresher,40,Guntur,Wheat,Threshing,6,Summer,0.54,7.5,3450,4
+Tiller,20,Machilipatnam,Chilli,Tilling,4,Kharif,0.83,5.8,1650,6
+Tiller,40,Kurnool,Chilli,Tilling,6,Kharif,0.54,3.4,2150,9
+Trailer,30,Guntur,Sugarcane,Transport,4,Rabi,0.72,36.3,1630,2
+Tractor,50,Ongole,Sugarcane,Tilling,6,Rabi,0.45,37.1,2500,12
+Trailer,20,Guntur,Cotton,Transport,10,Summer,0.44,27.1,2410,4
+Tractor,50,Vijayawada,Turmeric,Sowing,2,Rabi,1.0,5.3,1170,2
+Thresher,20,Nellore,Maize,Threshing,4,Kharif,0.68,29.4,2770,10
+Sprayer,40,Warangal,Chilli,Spraying,4,Summer,0.96,30.7,1860,5
+Tiller,20,Khammam,Chilli,Tilling,10,Kharif,0.75,23.0,3810,6
+Tractor,75,Kurnool,Paddy,Transplanting,8,Kharif,0.79,14.9,3780,9
+Harvester,60,Vijayawada,Wheat,Harvesting,6,Summer,0.53,12.4,9540,5
+Harvester,55,Tenali,Paddy,Harvesting,10,Rabi,0.87,33.2,17380,11
+Harvester,35,Warangal,Wheat,Harvesting,6,Rabi,0.61,43.4,9500,1
+Tractor,60,Narasaraopet,Chilli,Transport,2,Kharif,0.74,7.8,1060,7
+Rotavator,20,Kurnool,Chilli,Tilling,4,Rabi,0.59,14.5,1900,3
+Rotavator,30,Machilipatnam,Chilli,Tilling,4,Summer,0.51,17.1,1940,4
+Trailer,20,Vijayawada,Cotton,Transport,6,Rabi,0.72,30.9,2370,12
+Thresher,20,Khammam,Wheat,Threshing,2,Summer,0.86,44.0,1680,4
+Thresher,40,Vijayawada,Wheat,Threshing,4,Kharif,0.92,8.3,3640,9
+Thresher,40,Vijayawada,Paddy,Threshing,6,Rabi,0.31,5.0,4310,12
+Paddy Transplanter,40,Machilipatnam,Paddy,Transplanting,10,Rabi,0.9,9.6,7160,1
+Rotavator,40,Ongole,Turmeric,Tilling,4,Rabi,0.46,11.9,2110,2
+Harvester,60,Ongole,Groundnut,Harvesting,8,Rabi,0.51,27.3,11100,1
+Harvester,45,Ongole,Maize,Harvesting,6,Kharif,0.63,33.3,10360,9
+Thresher,40,Narasaraopet,Maize,Threshing,10,Rabi,0.35,15.4,5390,2
+Tractor,40,Narasaraopet,Turmeric,Transport,10,Rabi,0.7,12.7,3930,12
+Plough,20,Eluru,Sugarcane,Ploughing,8,Rabi,0.33,1.7,2100,1
+Sprayer,30,Khammam,Cotton,Spraying,2,Kharif,0.61,25.0,1030,7
+Tractor,35,Machilipatnam,Sugarcane,Tilling,6,Rabi,0.64,21.3,2500,12
+Tractor,75,Machilipatnam,Sugarcane,Ploughing,2,Rabi,0.71,18.6,1160,12
+Harvester,60,Hyderabad,Maize,Harvesting,4,Kharif,1.0,22.0,9510,9
+Cultivator,40,Kurnool,Paddy,Ploughing,10,Rabi,0.69,14.1,3140,3
+Thresher,20,Khammam,Paddy,Threshing,10,Kharif,0.63,33.5,6600,6
+Tractor,40,Kurnool,Turmeric,Transport,6,Rabi,0.88,13.1,2560,1
+Tractor,35,Warangal,Paddy,Tilling,10,Kharif,0.56,10.5,4190,8
+Sprayer,20,Nellore,Cotton,Spraying,4,Kharif,0.93,25.4,1940,6
+Tractor,40,Warangal,Cotton,Sowing,10,Summer,0.51,13.9,3250,4
+Trailer,20,Nellore,Cotton,Transport,8,Kharif,0.79,11.6,2140,9
+Tiller,40,Vijayawada,Chilli,Tilling,10,Rabi,0.68,33.9,4560,1
+Combine Harvester,60,Warangal,Paddy,Harvesting,10,Kharif,0.47,1.4,25430,6
+Paddy Transplanter,20,Nellore,Paddy,Transplanting,2,Kharif,0.78,18.3,1760,7
+Tractor,35,Guntur,Paddy,Transplanting,10,Rabi,0.47,30.2,3990,1
+Harvester,45,Tenali,Sugarcane,Harvesting,6,Rabi,0.57,43.0,10440,2
+Tractor,35,Hyderabad,Maize,Sowing,10,Rabi,0.5,40.9,4890,12
+Tractor,45,Kurnool,Paddy,Transplanting,16,Kharif,0.78,15.7,6320,6
+Tractor,40,Vijayawada,Chilli,Tilling,10,Kharif,0.64,16.2,3970,9
+Tractor,40,Eluru,Chilli,Transport,8,Kharif,0.82,3.4,3300,9
+Seed Drill,20,Khammam,Groundnut,Sowing,2,Rabi,0.42,10.8,860,3
+Cultivator,20,Nellore,Sugarcane,Tilling,8,Rabi,0.47,15.0,2260,11
+Paddy Transplanter,20,Nellore,Paddy,Transplanting,2,Summer,0.4,26.8,1450,4
+Tractor,35,Warangal,Groundnut,Ploughing,2,Summer,0.78,40.4,1180,4
+Tractor,75,Tenali,Cotton,Spraying,6,Rabi,0.73,30.6,2930,11
+Tiller,20,Ongole,Chilli,Tilling,16,Kharif,0.53,19.3,4870,9
+Tractor,45,Hyderabad,Cotton,Spraying,16,Kharif,0.87,5.8,8470,10
+Trailer,40,Nellore,Turmeric,Transport,16,Rabi,0.44,12.8,3750,11
+Seed Drill,30,Ongole,Groundnut,Sowing,10,Rabi,0.7,28.4,3930,3
+Tractor,55,Nellore,Cotton,Ploughing,4,Kharif,0.82,23.4,2130,9
+Paddy Transplanter,40,Hyderabad,Paddy,Transplanting,2,Rabi,0.71,35.1,2320,2
+Plough,20,Kurnool,Groundnut,Ploughing,8,Rabi,0.36,17.2,1990,1
+Sprayer,40,Machilipatnam,Cotton,Spraying,10,Rabi,0.67,16.6,3200,11
+Cultivator,40,Warangal,Sugarcane,Tilling,6,Kharif,0.9,29.6,2720,9
+Tractor,40,Nellore,Paddy,Transplanting,4,Rabi,0.72,43.4,2270,11
+Tractor,75,Nellore,Cotton,Sowing,8,Kharif,1.0,32.7,4120,6
+Tractor,55,Ongole,Cotton,Spraying,4,Rabi,0.83,13.1,1870,1
+Tractor,75,Narasaraopet,Cotton,Spraying,4,Kharif,0.56,21.3,1920,7
+Tractor,40,Eluru,Cotton,Ploughing,2,Kharif,0.92,28.5,1250,9
+Sprayer,40,Vijayawada,Chilli,Spraying,2,Kharif,0.74,24.9,1370,9
+Tractor,60,Warangal,Chilli,Spraying,2,Rabi,0.87,31.3,1400,1
+Paddy Transplanter,40,Nellore,Paddy,Transplanting,10,Rabi,0.61,25.5,7110,3
+Trailer,20,Machilipatnam,Turmeric,Transport,4,Rabi,0.5,18.9,1260,12
+Tractor,40,Hyderabad,Cotton,Spraying,10,Kharif,0.54,9.9,4760,8
+Trailer,30,Khammam,Chilli,Transport,4,Rabi,0.18,2.7,980,3
+Tractor,60,Warangal,Groundnut,Sowing,10,Kharif,0.62,29.0,4660,8
+Seed Drill,40,Khammam,Groundnut,Sowing,10,Kharif,0.88,11.8,4380,9
+Trailer,30,Vijayawada,Chilli,Transport,6,Rabi,0.26,1.2,1640,1
+Rotavator,40,Machilipatnam,Turmeric,Tilling,4,Summer,0.47,28.2,2010,4
+Tractor,75,Warangal,Chilli,Spraying,2,Summer,0.76,10.9,1000,4
+Tractor,75,Warangal,Sugarcane,Transport,2,Rabi,0.49,29.2,1240,3
+Sprayer,30,Narasaraopet,Chilli,Spraying,16,Kharif,0.44,15.7,5000,9
+Thresher,20,Khammam,Paddy,Threshing,8,Kharif,0.66,8.3,4590,8
+Paddy Transplanter,40,Eluru,Paddy,Transplanting,10,Kharif,0.72,19.0,8500,9
+Cultivator,20,Vijayawada,Cotton,Ploughing,16,Kharif,0.54,12.2,5110,8
+Tractor,55,Khammam,Cotton,Transport,6,Rabi,0.5,39.9,2840,2
+Tractor,55,Guntur,Sugarcane,Transport,2,Summer,0.48,42.2,1270,5
+Tractor,75,Warangal,Sugarcane,Ploughing,2,Kharif,0.96,43.9,1600,8
+Rotavator,30,Hyderabad,Sugarcane,Tilling,8,Rabi,0.3,27.6,3870,1
+Paddy Transplanter,40,Vijayawada,Paddy,Transplanting,2,Rabi,0.35,38.9,2050,2
+Paddy Transplanter,40,Khammam,Paddy,Transplanting,6,Rabi,0.71,15.2,4930,12
+Trailer,20,Vijayawada,Turmeric,Transport,6,Rabi,0.52,8.5,1760,12
+Tractor,45,Warangal,Turmeric,Transport,16,Kharif,0.37,22.7,6350,10
+Tractor,75,Nellore,Sugarcane,Transport,8,Kharif,0.61,8.9,3260,10
+Cultivator,30,Machilipatnam,Cotton,Ploughing,6,Summer,0.7,22.9,2020,5
+Plough,30,Warangal,Maize,Ploughing,4,Summer,0.84,32.1,1570,4
+Seed Drill,30,Hyderabad,Maize,Sowing,6,Kharif,0.77,13.8,3380,8
+Sprayer,20,Hyderabad,Chilli,Spraying,10,Kharif,1.0,1.1,4430,6
+Thresher,20,Eluru,Paddy,Threshing,16,Kharif,0.86,44.5,10960,6
+Tiller,30,Guntur,Sugarcane,Tilling,2,Rabi,0.8,22.6,1090,3
+Paddy Transplanter,20,Hyderabad,Paddy,Transplanting,10,Summer,0.41,32.4,6730,5
+Tractor,40,Hyderabad,Paddy,Transplanting,16,Rabi,0.69,3.0,6570,2
+Paddy Transplanter,40,Guntur,Paddy,Transplanting,8,Rabi,0.36,19.9,5870,3
+Harvester,55,Warangal,Sugarcane,Harvesting,10,Kharif,0.82,3.4,17040,10
+Tractor,45,Nellore,Cotton,Transport,16,Kharif,0.65,35.2,6890,9
+Trailer,40,Kurnool,Chilli,Transport,10,Rabi,0.52,15.0,2530,1
+Cultivator,30,Ongole,Sugarcane,Tilling,8,Kharif,0.74,32.6,2830,6
+Tractor,45,Warangal,Paddy,Transplanting,10,Rabi,0.32,2.2,3620,1
+Trailer,40,Vijayawada,Cotton,Transport,16,Rabi,0.71,24.4,5010,11
+Plough,40,Vijayawada,Cotton,Ploughing,2,Kharif,0.98,9.4,860,8
+Seed Drill,40,Kurnool,Turmeric,Sowing,4,Summer,0.32,19.6,1610,5
+Tractor,35,Warangal,Turmeric,Sowing,2,Rabi,0.33,17.4,940,2
+Combine Harvester,75,Khammam,Groundnut,Harvesting,8,Rabi,0.81,22.1,22410,12
+Combine Harvester,40,Khammam,Paddy,Harvesting,6,Summer,0.82,30.3,13360,5
+Tractor,75,Ongole,Sugarcane,Transport,16,Rabi,0.5,35.4,6480,11
+Trailer,40,Narasaraopet,Turmeric,Transport,8,Summer,0.73,42.0,2570,5
+Harvester,75,Khammam,Wheat,Harvesting,6,Rabi,0.53,16.0,10070,2
+Tractor,40,Warangal,Paddy,Tilling,6,Rabi,0.3,22.6,2400,2
+Cultivator,20,Warangal,Chilli,Tilling,16,Rabi,0.41,1.0,4120,11
+Tractor,45,Ongole,Cotton,Ploughing,16,Kharif,0.78,12.8,6350,6
+Trailer,20,Tenali,Turmeric,Transport,10,Rabi,0.21,7.7,2190,1
+Seed Drill,20,Kurnool,Groundnut,Sowing,4,Kharif,0.61,39.0,2140,10
+Tractor,50,Eluru,Chilli,Spraying,2,Summer,0.53,22.9,940,5
+Thresher,30,Tenali,Wheat,Threshing,2,Summer,0.46,26.4,1490,4
+Seed Drill,30,Ongole,Wheat,Sowing,2,Rabi,0.32,11.3,780,12
+Tractor,50,Warangal,Cotton,Sowing,4,Summer,0.56,26.1,1680,4
+Harvester,45,Tenali,Sugarcane,Harvesting,2,Rabi,0.7,29.6,3560,3
+Trailer,30,Vijayawada,Cotton,Transport,8,Kharif,0.46,43.9,3100,10
+Tractor,40,Machilipatnam,Groundnut,Sowing,4,Kharif,0.62,14.1,1770,10
+Tractor,50,Khammam,Sugarcane,Ploughing,8,Kharif,0.74,21.6,3520,6
+Seed Drill,20,Hyderabad,Wheat,Sowing,16,Kharif,0.83,4.7,7680,7
+Tractor,40,Khammam,Paddy,Tilling,8,Kharif,0.9,21.2,3400,9
+Harvester,55,Vijayawada,Maize,Harvesting,8,Summer,0.78,43.1,13860,5
+Paddy Transplanter,30,Kurnool,Paddy,Transplanting,10,Kharif,1.0,11.0,7730,7
+Harvester,50,Warangal,Wheat,Harvesting,4,Kharif,0.84,32.4,7500,10
+Paddy Transplanter,20,Nellore,Paddy,Transplanting,4,Kharif,0.79,10.2,3180,9
+Thresher,30,Kurnool,Wheat,Threshing,16,Kharif,0.54,33.5,10260,9
+Cultivator,40,Hyderabad,Sugarcane,Tilling,4,Kharif,1.0,28.5,2220,7
+Thresher,20,Warangal,Maize,Threshing,10,Rabi,0.53,38.6,6280,11
+Seed Drill,20,Kurnool,Maize,Sowing,2,Kharif,0.59,22.6,1110,7
+Tractor,55,Warangal,Cotton,Ploughing,16,Kharif,0.54,40.6,6890,10
+Paddy Transplanter,30,Kurnool,Paddy,Transplanting,8,Summer,0.85,19.6,5240,4
+Trailer,30,Eluru,Turmeric,Transport,10,Kharif,0.88,23.3,3220,9
+Harvester,45,Ongole,Groundnut,Harvesting,2,Kharif,0.82,37.5,3860,9
+Trailer,40,Machilipatnam,Cotton,Transport,6,Rabi,0.33,15.1,1660,1
+Trailer,30,Guntur,Cotton,Transport,4,Kharif,0.96,10.2,1510,10
+Plough,20,Guntur,Sugarcane,Ploughing,10,Rabi,0.42,14.8,2700,11
+Cultivator,20,Narasaraopet,Paddy,Tilling,16,Kharif,0.69,2.4,4630,8
+Tractor,50,Guntur,Chilli,Transport,2,Summer,0.51,43.8,1190,5
+Sprayer,30,Narasaraopet,Cotton,Spraying,6,Rabi,0.56,7.7,2120,1
+Tractor,55,Kurnool,Chilli,Spraying,16,Rabi,0.63,35.7,5810,11
+Seed Drill,20,Ongole,Wheat,Sowing,2,Rabi,0.47,36.3,1210,1
+Tractor,60,Eluru,Turmeric,Transport,4,Rabi,0.39,35.9,2060,1
+Tiller,30,Ongole,Sugarcane,Tilling,6,Kharif,0.65,15.9,2450,9
+Plough,20,Hyderabad,Maize,Ploughing,16,Kharif,1.0,8.6,6260,9
+Tractor,40,Ongole,Chilli,Transport,10,Rabi,0.82,10.6,3870,12
+Trailer,30,Nellore,Cotton,Transport,2,Rabi,0.65,6.1,610,3
+Sprayer,40,Eluru,Chilli,Spraying,8,Rabi,0.52,41.0,2880,1
+Tractor,50,Guntur,Cotton,Sowing,8,Rabi,0.49,4.8,2820,3
+Tractor,40,Warangal,Wheat,Sowing,16,Kharif,0.82,4.4,6900,7
+Trailer,40,Tenali,Cotton,Transport,10,Rabi,0.63,31.0,3000,11
+Cultivator,40,Hyderabad,Groundnut,Ploughing,6,Rabi,0.43,2.2,2230,1
+Tractor,60,Nellore,Paddy,Transplanting,10,Kharif,0.84,13.1,4230,8
+Tractor,55,Vijayawada,Turmeric,Transport,6,Kharif,0.56,25.7,3190,10
+Trailer,20,Narasaraopet,Sugarcane,Transport,8,Kharif,0.83,33.1,2440,6
+Sprayer,30,Machilipatnam,Chilli,Spraying,4,Rabi,0.57,1.0,1200,12
+Tractor,35,Tenali,Sugarcane,Transport,8,Kharif,0.83,30.3,3510,6
+Harvester,60,Machilipatnam,Sugarcane,Harvesting,4,Kharif,0.73,23.6,7120,7
+Sprayer,40,Eluru,Chilli,Spraying,6,Rabi,0.82,41.1,2870,2
+Tractor,55,Nellore,Turmeric,Transport,6,Rabi,0.87,5.3,2440,3
+Paddy Transplanter,40,Vijayawada,Paddy,Transplanting,16,Rabi,0.67,39.7,12530,2
+Tractor,45,Narasaraopet,Maize,Ploughing,6,Kharif,0.87,18.1,3100,10
+Tractor,55,Warangal,Cotton,Spraying,6,Kharif,0.97,8.8,3200,9
+Harvester,60,Vijayawada,Maize,Harvesting,6,Kharif,0.95,40.1,12940,7
+Thresher,40,Guntur,Paddy,Threshing,16,Kharif,0.64,8.7,11180,7
+Seed Drill,20,Nellore,Turmeric,Sowing,16,Rabi,0.59,30.0,5570,12
+Paddy Transplanter,40,Tenali,Paddy,Transplanting,16,Rabi,0.4,3.2,9640,2
+Tractor,60,Ongole,Paddy,Transplanting,6,Summer,0.9,30.7,2580,4
+Tractor,50,Guntur,Maize,Sowing,8,Summer,0.65,12.9,2850,5
+Tractor,60,Warangal,Groundnut,Sowing,2,Kharif,0.66,10.9,1070,6
+Combine Harvester,50,Kurnool,Groundnut,Harvesting,2,Rabi,0.55,34.4,4960,11
+Tractor,75,Eluru,Paddy,Transplanting,4,Rabi,0.7,34.4,2420,12
+Tractor,50,Eluru,Turmeric,Transport,16,Rabi,0.53,19.2,5840,1
+Harvester,40,Nellore,Maize,Harvesting,16,Rabi,0.54,22.9,20440,3
+Sprayer,20,Tenali,Chilli,Spraying,2,Rabi,0.54,27.7,990,2
+Thresher,40,Khammam,Wheat,Threshing,4,Kharif,0.99,40.2,3680,9
+Seed Drill,40,Machilipatnam,Maize,Sowing,2,Kharif,0.73,28.4,1290,8
+Seed Drill,30,Ongole,Groundnut,Sowing,16,Kharif,0.86,1.9,6770,10
+Combine Harvester,55,Khammam,Paddy,Harvesting,8,Kharif,0.77,16.0,20850,8
+Tractor,40,Hyderabad,Paddy,Transplanting,16,Kharif,0.81,21.3,7710,7
+Tractor,55,Hyderabad,Cotton,Sowing,8,Kharif,0.81,13.2,4420,6
+Tractor,55,Khammam,Turmeric,Sowing,6,Rabi,0.67,8.3,2610,12
+Combine Harvester,45,Guntur,Paddy,Harvesting,16,Summer,0.25,38.8,25650,5
+Plough,20,Ongole,Groundnut,Ploughing,8,Rabi,0.51,22.6,2300,1
+Seed Drill,40,Guntur,Turmeric,Sowing,16,Kharif,1.0,13.2,7830,6
+Thresher,30,Narasaraopet,Maize,Threshing,16,Kharif,0.67,36.9,10110,7
+Tiller,20,Narasaraopet,Paddy,Tilling,2,Kharif,0.76,22.0,1030,8
+Paddy Transplanter,30,Warangal,Paddy,Transplanting,6,Rabi,0.6,29.8,4570,12
+Trailer,40,Kurnool,Sugarcane,Transport,2,Kharif,1.0,32.7,1190,6
+Combine Harvester,35,Kurnool,Wheat,Harvesting,10,Kharif,1.0,1.9,24530,7
+Tractor,55,Eluru,Maize,Sowing,16,Kharif,0.93,32.2,8010,10
+Tractor,45,Eluru,Turmeric,Sowing,10,Kharif,0.68,11.0,4380,7
+Tractor,75,Ongole,Cotton,Sowing,6,Kharif,1.0,6.5,3120,8
+Tractor,40,Kurnool,Groundnut,Sowing,16,Kharif,0.62,32.5,6310,7
+Tractor,75,Khammam,Paddy,Transplanting,10,Rabi,0.56,40.4,4380,3
+Seed Drill,40,Nellore,Cotton,Sowing,10,Summer,0.76,44.4,4230,4
+Trailer,40,Ongole,Turmeric,Transport,8,Rabi,0.31,23.6,2100,12
+Tiller,20,Warangal,Turmeric,Tilling,10,Kharif,0.9,36.7,4360,6
+Tractor,75,Tenali,Turmeric,Sowing,6,Rabi,0.21,44.3,2860,3
+Trailer,40,Eluru,Chilli,Transport,2,Kharif,0.99,30.3,1180,6
+Seed Drill,40,Kurnool,Maize,Sowing,2,Kharif,0.76,38.0,1430,6
+Tractor,50,Narasaraopet,Cotton,Transport,6,Kharif,0.9,13.4,3050,9
+Thresher,40,Nellore,Maize,Threshing,4,Rabi,0.52,15.1,2590,2
+Sprayer,30,Nellore,Cotton,Spraying,4,Kharif,0.32,30.2,1710,7
+Sprayer,40,Tenali,Cotton,Spraying,2,Kharif,0.51,23.5,1020,10
+Thresher,20,Kurnool,Paddy,Threshing,2,Rabi,0.43,7.8,1210,1
+Tractor,35,Vijayawada,Paddy,Transplanting,2,Summer,0.66,39.8,1270,4
+Seed Drill,30,Hyderabad,Turmeric,Sowing,16,Kharif,0.82,41.8,7940,7
+Seed Drill,40,Hyderabad,Maize,Sowing,4,Kharif,0.97,11.1,2330,6
+Tractor,40,Vijayawada,Chilli,Tilling,2,Kharif,0.76,1.6,980,9
+Sprayer,40,Machilipatnam,Cotton,Spraying,8,Rabi,0.33,30.9,2660,1
+Plough,20,Khammam,Wheat,Ploughing,8,Kharif,0.59,32.0,2640,7
+Combine Harvester,45,Eluru,Wheat,Harvesting,2,Summer,0.67,21.1,4790,4
+Tractor,35,Khammam,Maize,Sowing,2,Summer,0.23,2.3,560,5
+Thresher,40,Hyderabad,Paddy,Threshing,16,Rabi,0.57,32.1,11420,2
+Tractor,45,Ongole,Cotton,Spraying,6,Kharif,0.65,8.8,2620,7
+Tractor,60,Nellore,Paddy,Transplanting,4,Summer,0.54,6.0,1420,4
+Tractor,40,Hyderabad,Cotton,Ploughing,4,Kharif,0.49,17.2,2030,8
+Plough,40,Nellore,Paddy,Ploughing,6,Kharif,0.99,28.7,2510,8
+Tractor,55,Warangal,Cotton,Sowing,4,Rabi,0.45,30.2,2010,1
+Tractor,40,Kurnool,Paddy,Transplanting,10,Kharif,1.0,2.0,3970,8
+Sprayer,30,Narasaraopet,Cotton,Spraying,2,Rabi,0.72,18.6,990,1
+Tractor,45,Vijayawada,Cotton,Spraying,10,Rabi,0.35,22.8,3830,3
+Paddy Transplanter,30,Nellore,Paddy,Transplanting,8,Summer,0.73,37.8,5060,5
+Harvester,45,Kurnool,Maize,Harvesting,10,Kharif,1.0,4.9,16100,10
+Plough,30,Tenali,Groundnut,Ploughing,4,Rabi,0.41,44.3,1810,11
+Tractor,55,Machilipatnam,Paddy,Transplanting,4,Rabi,0.24,29.5,1990,2
+Cultivator,20,Tenali,Groundnut,Ploughing,16,Rabi,0.73,17.2,4910,12
+Tractor,45,Warangal,Cotton,Sowing,2,Kharif,0.75,12.9,1030,10
+Tractor,35,Nellore,Chilli,Transport,6,Kharif,0.63,43.0,2920,8
+Tractor,55,Warangal,Paddy,Transplanting,2,Kharif,0.88,26.7,1320,9
+Harvester,40,Eluru,Wheat,Harvesting,8,Kharif,0.68,42.2,13240,8
+Tiller,40,Hyderabad,Paddy,Tilling,8,Rabi,0.2,19.7,2800,2
+Trailer,30,Nellore,Chilli,Transport,6,Kharif,0.57,21.3,1950,7
+Tractor,75,Machilipatnam,Paddy,Tilling,8,Rabi,0.52,28.7,3830,2
+Seed Drill,30,Nellore,Cotton,Sowing,4,Kharif,0.84,20.0,1940,10
+Tractor,55,Eluru,Paddy,Tilling,10,Rabi,0.85,24.4,4600,11
+Plough,40,Ongole,Maize,Ploughing,16,Kharif,1.0,38.2,5580,8
+Harvester,45,Nellore,Sugarcane,Harvesting,16,Kharif,0.94,4.3,24200,8
+Trailer,30,Hyderabad,Cotton,Transport,6,Kharif,0.54,23.7,2480,9
+Tractor,40,Eluru,Chilli,Spraying,6,Kharif,0.76,24.1,3050,8
+Tractor,60,Khammam,Sugarcane,Transport,2,Summer,0.68,41.7,1460,5
+Seed Drill,40,Warangal,Cotton,Sowing,6,Kharif,0.81,44.9,3460,9
+Tractor,45,Machilipatnam,Paddy,Transplanting,6,Rabi,0.51,30.7,2760,2
+Tractor,55,Guntur,Chilli,Spraying,2,Summer,0.54,8.0,840,5
+Thresher,30,Machilipatnam,Maize,Threshing,2,Kharif,0.87,11.7,1630,6
+Plough,40,Guntur,Groundnut,Ploughing,8,Kharif,0.69,26.2,2650,6
+Seed Drill,30,Eluru,Cotton,Sowing,16,Rabi,0.69,10.3,6090,2
+Tractor,75,Vijayawada,Paddy,Transplanting,4,Rabi,0.66,30.0,2300,11
+Tractor,60,Guntur,Chilli,Spraying,16,Rabi,0.69,41.4,6940,12
+Cultivator,40,Vijayawada,Maize,Ploughing,6,Rabi,0.43,44.9,2560,11
+Combine Harvester,45,Hyderabad,Wheat,Harvesting,8,Rabi,0.6,1.6,21150,1
+Harvester,55,Narasaraopet,Groundnut,Harvesting,8,Summer,0.75,39.1,12540,4
+Tractor,55,Vijayawada,Sugarcane,Tilling,6,Summer,0.76,14.4,2650,5
+Thresher,40,Eluru,Paddy,Threshing,10,Kharif,0.78,12.2,6960,8
+Thresher,20,Ongole,Paddy,Threshing,10,Summer,0.67,3.3,4800,5
+Harvester,40,Ongole,Wheat,Harvesting,10,Rabi,0.48,36.9,12990,1
+Thresher,20,Khammam,Maize,Threshing,8,Kharif,1.0,21.9,5540,8
+Tractor,55,Eluru,Groundnut,Ploughing,8,Rabi,0.37,30.7,3460,1
+Tractor,50,Eluru,Paddy,Transplanting,2,Kharif,0.71,3.6,1000,9
+Plough,20,Tenali,Paddy,Ploughing,10,Rabi,0.57,24.5,2910,11
+Tractor,75,Guntur,Chilli,Spraying,2,Rabi,0.45,7.9,1010,11
+Seed Drill,20,Tenali,Wheat,Sowing,2,Kharif,0.79,44.9,1450,7
+Thresher,20,Eluru,Wheat,Threshing,8,Rabi,0.59,38.9,5050,2
+Tractor,75,Tenali,Cotton,Ploughing,16,Kharif,1.0,32.8,7890,6
+Sprayer,40,Eluru,Cotton,Spraying,16,Rabi,0.4,12.8,5130,1
+Thresher,20,Guntur,Maize,Threshing,2,Summer,0.45,37.0,1640,4
+Cultivator,30,Hyderabad,Sugarcane,Tilling,16,Rabi,0.5,7.4,5480,12
+Thresher,20,Warangal,Wheat,Threshing,6,Rabi,0.5,28.0,3790,2
+Tractor,60,Machilipatnam,Chilli,Transport,8,Kharif,0.5,27.0,3200,10
+Plough,30,Nellore,Wheat,Ploughing,16,Rabi,0.49,17.8,3970,12
+Rotavator,40,Khammam,Chilli,Tilling,10,Summer,0.62,28.8,4380,5
+Trailer,20,Kurnool,Cotton,Transport,10,Kharif,0.85,41.3,3290,6
+Combine Harvester,55,Khammam,Groundnut,Harvesting,2,Kharif,0.79,18.3,5870,9
+Combine Harvester,45,Hyderabad,Groundnut,Harvesting,16,Kharif,0.79,4.8,53630,10
+Combine Harvester,60,Guntur,Wheat,Harvesting,2,Summer,0.43,37.3,5090,5
+Trailer,30,Nellore,Cotton,Transport,8,Rabi,0.85,5.8,2220,1
+Tractor,45,Kurnool,Cotton,Spraying,10,Summer,0.42,31.1,3220,5
+Tractor,60,Tenali,Cotton,Sowing,10,Rabi,0.34,25.9,3950,12
+Tractor,75,Tenali,Cotton,Ploughing,10,Rabi,0.38,36.1,3950,1
+Sprayer,20,Eluru,Chilli,Spraying,2,Summer,0.5,43.8,1240,4
+Cultivator,40,Guntur,Groundnut,Ploughing,16,Kharif,0.82,16.8,5370,10
+Tractor,35,Guntur,Paddy,Transplanting,6,Summer,0.83,41.1,2730,5
+Thresher,40,Machilipatnam,Paddy,Threshing,16,Kharif,0.92,25.7,11360,7
+Combine Harvester,40,Eluru,Maize,Harvesting,16,Kharif,0.69,7.4,36160,10
+Paddy Transplanter,30,Hyderabad,Paddy,Transplanting,2,Kharif,0.66,31.7,2250,10
+Trailer,30,Khammam,Turmeric,Transport,16,Rabi,0.57,13.3,4190,2
+Tractor,40,Nellore,Cotton,Ploughing,4,Kharif,0.82,41.7,2280,6
+Combine Harvester,35,Hyderabad,Sugarcane,Harvesting,2,Kharif,0.53,39.8,6230,10
+Thresher,20,Narasaraopet,Maize,Threshing,10,Summer,0.38,44.8,5390,4
+Plough,30,Ongole,Paddy,Ploughing,6,Summer,0.6,4.0,1560,4
+Harvester,60,Tenali,Paddy,Harvesting,6,Rabi,0.49,42.2,9960,1
+Tractor,35,Hyderabad,Maize,Sowing,4,Kharif,0.81,31.0,2570,6
+Tractor,75,Vijayawada,Paddy,Transplanting,2,Kharif,0.31,33.7,1510,9
+Tractor,75,Khammam,Groundnut,Sowing,4,Kharif,0.85,38.9,2810,8
+Tractor,60,Kurnool,Cotton,Sowing,16,Kharif,0.74,20.2,6970,7
+Tractor,35,Kurnool,Cotton,Transport,8,Kharif,0.7,37.3,3400,8
+Thresher,40,Guntur,Paddy,Threshing,8,Kharif,0.59,12.9,5880,9
+Thresher,20,Hyderabad,Maize,Threshing,2,Rabi,0.81,32.0,1990,3
+Tractor,40,Tenali,Cotton,Transport,2,Rabi,0.31,5.5,770,12
+Cultivator,20,Nellore,Cotton,Ploughing,16,Rabi,0.38,39.5,4630,1
+Sprayer,40,Vijayawada,Chilli,Spraying,10,Rabi,0.72,37.6,4620,1
+Seed Drill,40,Vijayawada,Wheat,Sowing,8,Kharif,0.74,17.2,4550,10
+Tractor,35,Narasaraopet,Groundnut,Ploughing,16,Kharif,0.92,26.7,6650,7
+Plough,20,Eluru,Paddy,Ploughing,10,Rabi,0.67,6.1,3130,1
+Combine Harvester,50,Nellore,Sugarcane,Harvesting,10,Rabi,0.88,16.5,24170,2
+Thresher,30,Kurnool,Maize,Threshing,8,Summer,0.61,33.0,4360,5
+Cultivator,30,Guntur,Wheat,Ploughing,4,Kharif,0.93,43.7,2300,7
+Sprayer,20,Ongole,Cotton,Spraying,8,Kharif,0.8,14.4,2710,8
+Tractor,40,Machilipatnam,Groundnut,Sowing,16,Kharif,0.82,40.0,6430,7
+Paddy Transplanter,20,Nellore,Paddy,Transplanting,4,Kharif,0.51,40.4,3410,7
+Tiller,30,Warangal,Turmeric,Tilling,10,Kharif,0.59,23.3,3970,9
+Sprayer,20,Machilipatnam,Cotton,Spraying,2,Kharif,0.96,20.1,1030,9
+Thresher,20,Narasaraopet,Maize,Threshing,6,Summer,0.13,13.6,2810,5
+Seed Drill,30,Eluru,Groundnut,Sowing,10,Rabi,0.73,39.9,4150,12
+Harvester,35,Machilipatnam,Sugarcane,Harvesting,10,Kharif,0.73,14.6,15310,8
+Combine Harvester,45,Tenali,Maize,Harvesting,2,Kharif,0.79,37.1,6390,8
+Combine Harvester,45,Vijayawada,Paddy,Harvesting,2,Rabi,0.56,39.2,5470,3
+Thresher,40,Tenali,Wheat,Threshing,10,Rabi,0.92,15.3,7470,3
+Paddy Transplanter,30,Kurnool,Paddy,Transplanting,8,Kharif,1.0,26.4,6980,8
+Tractor,40,Vijayawada,Groundnut,Sowing,4,Rabi,0.63,33.7,2170,1
+Tiller,30,Eluru,Chilli,Tilling,10,Rabi,0.42,42.7,3880,12
+Cultivator,20,Machilipatnam,Maize,Ploughing,2,Rabi,0.4,43.9,1160,1
+Cultivator,30,Tenali,Groundnut,Ploughing,8,Rabi,0.19,24.3,2310,12
+Harvester,35,Machilipatnam,Paddy,Harvesting,4,Rabi,0.54,42.5,6540,12
+Seed Drill,20,Narasaraopet,Maize,Sowing,2,Kharif,0.79,23.9,1250,10
+Seed Drill,40,Khammam,Turmeric,Sowing,4,Rabi,0.72,39.1,2120,11
+Cultivator,20,Tenali,Sugarcane,Ploughing,16,Kharif,0.73,40.2,5710,9
+Trailer,40,Hyderabad,Cotton,Transport,16,Summer,0.51,32.4,4240,5
+Combine Harvester,50,Narasaraopet,Sugarcane,Harvesting,4,Kharif,0.74,3.6,11040,10
+Thresher,20,Ongole,Paddy,Threshing,8,Kharif,0.47,2.2,4300,6
+Rotavator,30,Narasaraopet,Turmeric,Tilling,8,Kharif,0.7,26.0,4110,8
+Trailer,20,Machilipatnam,Cotton,Transport,16,Rabi,0.65,21.0,4180,2
+Tractor,55,Eluru,Cotton,Sowing,8,Summer,0.62,6.8,3020,4
+Thresher,40,Tenali,Maize,Threshing,16,Kharif,0.92,2.8,12310,8
+Trailer,20,Warangal,Sugarcane,Transport,8,Rabi,0.51,27.5,2260,2
+Trailer,40,Tenali,Chilli,Transport,10,Kharif,0.95,19.5,3530,6
+Thresher,40,Vijayawada,Wheat,Threshing,10,Kharif,0.6,40.6,8190,10
+Thresher,40,Narasaraopet,Wheat,Threshing,2,Kharif,0.81,33.6,1990,10
+Plough,30,Hyderabad,Sugarcane,Ploughing,6,Summer,0.67,2.3,1820,4
+Tractor,50,Kurnool,Turmeric,Sowing,16,Rabi,0.38,5.7,5380,1
+Tractor,40,Eluru,Cotton,Sowing,2,Rabi,0.32,11.8,800,12
+Tractor,75,Hyderabad,Turmeric,Sowing,10,Kharif,0.92,1.3,5970,9
+Tractor,35,Eluru,Cotton,Spraying,4,Rabi,0.41,24.9,1850,1
+Thresher,20,Nellore,Paddy,Threshing,10,Rabi,0.57,41.9,5850,12
+Plough,30,Kurnool,Groundnut,Ploughing,4,Summer,0.65,8.9,1130,4
+Trailer,30,Khammam,Turmeric,Transport,6,Kharif,0.83,39.5,2480,6
+Tractor,55,Tenali,Paddy,Transplanting,16,Kharif,0.59,19.1,5800,8
+Combine Harvester,40,Narasaraopet,Maize,Harvesting,6,Kharif,0.87,1.7,16060,7
+Combine Harvester,75,Narasaraopet,Groundnut,Harvesting,10,Summer,0.32,30.1,17850,4
+Harvester,75,Ongole,Wheat,Harvesting,16,Summer,0.38,28.5,19650,4
+Sprayer,40,Ongole,Chilli,Spraying,6,Rabi,0.47,14.0,2100,3
+Cultivator,40,Warangal,Sugarcane,Tilling,8,Kharif,0.6,28.2,2920,6
+Tractor,35,Ongole,Chilli,Spraying,10,Rabi,0.13,41.8,3370,12
+Tiller,40,Ongole,Sugarcane,Tilling,8,Summer,0.72,35.3,2850,4
+Tractor,40,Eluru,Paddy,Transplanting,16,Summer,0.47,5.7,5180,4
+Thresher,20,Kurnool,Maize,Threshing,2,Rabi,0.75,16.0,1410,12
+Tractor,60,Tenali,Cotton,Sowing,10,Rabi,0.43,10.3,3920,3
+Plough,40,Vijayawada,Maize,Ploughing,4,Kharif,0.68,1.4,1480,8
+Seed Drill,30,Nellore,Wheat,Sowing,10,Kharif,0.78,42.5,4530,8
+Thresher,30,Eluru,Paddy,Threshing,10,Rabi,0.53,9.2,6380,3
+Harvester,45,Vijayawada,Paddy,Harvesting,10,Kharif,0.66,24.6,17480,10
+Thresher,40,Vijayawada,Wheat,Threshing,4,Rabi,0.45,28.5,3120,3
+Sprayer,30,Warangal,Cotton,Spraying,2,Kharif,0.72,6.9,970,7
+Tractor,55,Eluru,Chilli,Tilling,2,Rabi,0.54,40.1,1380,2
+Cultivator,40,Vijayawada,Sugarcane,Tilling,2,Kharif,0.4,28.0,1230,9
+Tractor,60,Guntur,Cotton,Transport,2,Kharif,0.87,21.7,1210,6
+Tractor,55,Warangal,Chilli,Spraying,2,Kharif,0.91,1.5,1120,10
+Sprayer,20,Vijayawada,Cotton,Spraying,16,Rabi,0.62,15.8,5320,3
+Harvester,35,Khammam,Wheat,Harvesting,8,Kharif,0.81,32.5,13340,10
+Sprayer,40,Machilipatnam,Cotton,Spraying,16,Kharif,0.96,3.2,6350,7
+Tractor,50,Eluru,Sugarcane,Ploughing,8,Rabi,0.44,6.0,2710,12
+Cultivator,30,Guntur,Sugarcane,Tilling,2,Rabi,0.46,19.2,870,11
+Plough,30,Narasaraopet,Maize,Ploughing,4,Summer,0.45,41.4,1590,5
+Tractor,40,Guntur,Turmeric,Sowing,2,Rabi,0.46,36.9,1290,3
+Cultivator,30,Kurnool,Paddy,Ploughing,16,Kharif,0.58,35.8,4920,8
+Tractor,50,Machilipatnam,Turmeric,Transport,16,Rabi,0.86,9.6,6350,3
+Tractor,60,Khammam,Cotton,Sowing,4,Kharif,0.74,40.1,2350,9
+Tractor,75,Eluru,Cotton,Transport,4,Kharif,0.61,36.1,2480,7
+Thresher,20,Machilipatnam,Wheat,Threshing,16,Rabi,0.74,33.3,10280,2
+Paddy Transplanter,20,Guntur,Paddy,Transplanting,2,Summer,0.85,9.8,1530,4
+Harvester,40,Tenali,Maize,Harvesting,4,Kharif,0.6,23.6,6650,10
+Seed Drill,30,Eluru,Groundnut,Sowing,6,Kharif,0.71,32.2,2940,6
+Tractor,60,Tenali,Paddy,Transplanting,8,Kharif,0.78,41.9,3980,8
+Thresher,30,Tenali,Maize,Threshing,8,Rabi,0.66,12.5,5000,11
+Rotavator,40,Guntur,Chilli,Tilling,16,Rabi,0.8,36.0,9070,2
+Tractor,75,Guntur,Cotton,Spraying,16,Kharif,0.9,1.8,7440,10
+Trailer,20,Machilipatnam,Sugarcane,Transport,4,Rabi,0.41,42.9,1500,2
+Thresher,30,Hyderabad,Paddy,Threshing,4,Kharif,0.58,22.5,3290,10
+Tractor,55,Hyderabad,Cotton,Spraying,10,Summer,0.52,31.8,4270,5
+Tractor,40,Kurnool,Groundnut,Ploughing,4,Summer,0.88,21.2,1640,4
+Trailer,30,Guntur,Cotton,Transport,2,Kharif,0.86,44.6,1480,10
+Trailer,20,Machilipatnam,Cotton,Transport,2,Summer,0.64,40.0,1040,4
+Combine Harvester,50,Machilipatnam,Sugarcane,Harvesting,10,Rabi,0.61,18.7,24650,12
+Trailer,20,Hyderabad,Chilli,Transport,6,Rabi,0.48,17.0,1990,2
+Tractor,35,Tenali,Paddy,Transplanting,6,Rabi,0.56,42.1,2860,1
+Harvester,40,Eluru,Paddy,Harvesting,6,Summer,0.44,13.1,8220,4
+Thresher,30,Kurnool,Wheat,Threshing,8,Kharif,1.0,36.3,5770,6
+Cultivator,20,Narasaraopet,Paddy,Tilling,6,Rabi,0.68,40.3,2360,3
+Seed Drill,40,Kurnool,Turmeric,Sowing,4,Kharif,0.71,9.1,1770,6
+Rotavator,20,Khammam,Turmeric,Tilling,8,Kharif,0.72,31.2,3990,6
+Seed Drill,40,Narasaraopet,Turmeric,Sowing,2,Summer,0.51,26.5,1070,5
+Sprayer,20,Kurnool,Chilli,Spraying,6,Summer,0.46,37.5,1880,5
+Tractor,50,Kurnool,Turmeric,Transport,16,Rabi,0.84,19.9,5600,11
+Tractor,40,Nellore,Cotton,Transport,16,Summer,0.3,30.3,4940,4
+Tractor,60,Ongole,Paddy,Transplanting,2,Kharif,0.82,11.2,1020,6
+Sprayer,30,Tenali,Chilli,Spraying,10,Summer,0.46,23.9,2880,5
+Plough,20,Warangal,Wheat,Ploughing,8,Kharif,0.57,32.7,2850,7
+Paddy Transplanter,40,Ongole,Paddy,Transplanting,6,Kharif,0.86,4.4,4830,7
+Tractor,35,Warangal,Chilli,Spraying,8,Kharif,1.0,10.9,3330,6
+Tiller,30,Kurnool,Paddy,Tilling,6,Rabi,0.25,39.7,2090,3
+Tractor,60,Guntur,Paddy,Ploughing,16,Kharif,1.0,13.8,8310,7
+Cultivator,40,Warangal,Groundnut,Ploughing,10,Rabi,0.67,27.6,3870,2
+Tractor,55,Vijayawada,Cotton,Transport,16,Rabi,0.47,22.2,6470,1
+Sprayer,20,Machilipatnam,Chilli,Spraying,10,Summer,0.35,36.3,2910,4
+Tractor,45,Khammam,Paddy,Transplanting,10,Rabi,0.49,43.4,3780,1
+Tractor,75,Eluru,Paddy,Tilling,16,Rabi,0.47,34.9,6660,12
+Thresher,30,Hyderabad,Maize,Threshing,16,Kharif,0.58,35.0,12030,6
+Plough,40,Nellore,Sugarcane,Ploughing,8,Summer,0.54,33.2,2300,5
+Trailer,20,Guntur,Turmeric,Transport,6,Kharif,0.76,18.3,1850,6
+Plough,40,Tenali,Paddy,Ploughing,10,Rabi,0.26,43.3,3160,1
+Trailer,20,Ongole,Chilli,Transport,8,Rabi,0.58,19.2,2020,12
+Tractor,40,Hyderabad,Paddy,Ploughing,10,Kharif,0.55,29.5,4850,6
+Tractor,50,Warangal,Paddy,Transplanting,4,Rabi,0.53,10.3,1690,12
+Tiller,20,Vijayawada,Turmeric,Tilling,8,Summer,0.2,39.7,2510,5
+Thresher,20,Hyderabad,Wheat,Threshing,6,Rabi,0.73,11.1,4530,2
+Tractor,55,Warangal,Sugarcane,Transport,4,Summer,0.63,18.4,1690,5
+Tractor,60,Hyderabad,Cotton,Spraying,16,Kharif,0.84,14.6,8790,10
+Tractor,40,Nellore,Paddy,Tilling,6,Kharif,0.66,40.0,3050,10
+Tractor,50,Ongole,Turmeric,Transport,2,Rabi,0.31,25.1,1020,11
+Tractor,60,Nellore,Paddy,Transplanting,4,Kharif,0.7,13.2,1780,8
+Harvester,40,Guntur,Wheat,Harvesting,8,Rabi,0.65,7.2,12390,11
+Combine Harvester,40,Khammam,Sugarcane,Harvesting,16,Kharif,0.92,7.0,39140,8
+Tractor,75,Ongole,Chilli,Spraying,8,Kharif,0.88,19.7,4180,10
+Thresher,40,Vijayawada,Maize,Threshing,4,Rabi,0.72,3.6,3000,3
+Thresher,40,Nellore,Wheat,Threshing,6,Kharif,0.71,24.8,4420,6
+Tractor,40,Warangal,Paddy,Transplanting,16,Kharif,1.0,41.9,8140,6
+Combine Harvester,35,Kurnool,Paddy,Harvesting,8,Kharif,0.79,43.8,21250,7
+Tractor,35,Eluru,Chilli,Transport,4,Rabi,0.56,39.3,2040,11
+Tractor,55,Kurnool,Cotton,Spraying,8,Rabi,0.58,40.5,3460,12
+Paddy Transplanter,20,Hyderabad,Paddy,Transplanting,8,Kharif,0.69,41.9,7390,7
+Tractor,35,Guntur,Sugarcane,Tilling,2,Kharif,0.91,20.3,1230,7
+Tractor,75,Tenali,Turmeric,Tilling,2,Kharif,0.5,18.4,1240,9
+Tractor,50,Tenali,Cotton,Spraying,16,Rabi,0.58,32.5,6380,11
+Trailer,30,Guntur,Chilli,Transport,6,Summer,0.69,20.3,1700,5
+Trailer,40,Hyderabad,Turmeric,Transport,10,Kharif,0.86,31.2,4150,10
+Tractor,45,Narasaraopet,Cotton,Spraying,16,Rabi,0.62,17.3,5900,3
+Tractor,45,Ongole,Groundnut,Sowing,2,Rabi,0.55,11.1,870,11
+Paddy Transplanter,30,Warangal,Paddy,Transplanting,2,Rabi,0.48,7.9,1550,1
+Tractor,55,Tenali,Paddy,Transplanting,4,Rabi,0.75,27.2,2230,12
+Plough,30,Ongole,Sugarcane,Ploughing,10,Rabi,0.77,11.2,2780,12
+Sprayer,30,Vijayawada,Cotton,Spraying,16,Summer,0.41,15.0,4710,4
+Combine Harvester,55,Warangal,Maize,Harvesting,8,Kharif,0.85,12.4,23020,7
+Plough,20,Machilipatnam,Maize,Ploughing,4,Rabi,0.72,43.5,1790,3
+Tiller,30,Tenali,Chilli,Tilling,6,Rabi,0.44,28.9,2200,12
+Tractor,60,Guntur,Chilli,Tilling,4,Kharif,0.64,38.3,2620,7
+Seed Drill,40,Hyderabad,Turmeric,Sowing,2,Kharif,0.8,16.0,1480,9
+Thresher,20,Guntur,Paddy,Threshing,10,Kharif,0.92,18.6,6830,9
+Cultivator,40,Hyderabad,Chilli,Tilling,6,Kharif,0.77,43.6,3060,8
+Seed Drill,20,Guntur,Turmeric,Sowing,10,Kharif,0.75,41.9,4740,10
+Tiller,20,Guntur,Chilli,Tilling,10,Rabi,0.74,38.3,3740,1
+Tractor,50,Narasaraopet,Paddy,Transplanting,2,Rabi,0.58,7.2,940,12
+Thresher,30,Machilipatnam,Paddy,Threshing,4,Rabi,0.42,5.4,2260,1
+Thresher,20,Ongole,Paddy,Threshing,2,Kharif,0.67,3.9,1390,6
+Tractor,60,Vijayawada,Paddy,Transplanting,8,Kharif,0.68,5.4,3750,6
+Tractor,75,Guntur,Maize,Sowing,16,Rabi,0.66,2.4,6650,11
+Tractor,40,Tenali,Chilli,Spraying,6,Kharif,0.84,17.8,3160,8
+Tractor,60,Khammam,Sugarcane,Transport,2,Kharif,0.79,21.4,1260,10
+Trailer,20,Ongole,Turmeric,Transport,4,Rabi,0.47,15.9,1200,12
+Harvester,55,Eluru,Sugarcane,Harvesting,10,Kharif,0.8,29.2,16980,8
+Trailer,20,Eluru,Chilli,Transport,4,Rabi,0.19,8.9,1030,11
+Paddy Transplanter,30,Kurnool,Paddy,Transplanting,10,Rabi,0.63,12.5,6750,2
+Trailer,40,Kurnool,Sugarcane,Transport,16,Rabi,0.44,22.6,3850,3
+Trailer,40,Kurnool,Cotton,Transport,8,Kharif,1.0,21.2,2530,7
+Thresher,30,Kurnool,Maize,Threshing,10,Kharif,0.85,30.9,6380,10
+Paddy Transplanter,20,Hyderabad,Paddy,Transplanting,6,Rabi,0.82,13.8,5490,2
+Paddy Transplanter,20,Kurnool,Paddy,Transplanting,6,Kharif,0.47,15.6,3950,10
+Tractor,40,Warangal,Maize,Sowing,6,Kharif,0.47,37.3,2950,10
+Thresher,20,Ongole,Wheat,Threshing,6,Kharif,0.7,16.0,4420,6
+Thresher,30,Narasaraopet,Wheat,Threshing,6,Summer,0.66,9.6,3650,4
+Combine Harvester,50,Tenali,Maize,Harvesting,6,Kharif,0.68,27.8,16490,8
+Harvester,75,Warangal,Groundnut,Harvesting,4,Rabi,0.64,27.3,7160,3
+Combine Harvester,35,Kurnool,Groundnut,Harvesting,2,Kharif,0.56,1.3,4610,6
+Tractor,55,Ongole,Sugarcane,Transport,6,Kharif,0.41,29.8,2790,10
+Tractor,45,Narasaraopet,Groundnut,Sowing,2,Rabi,0.47,16.3,860,1
+Plough,20,Nellore,Cotton,Ploughing,4,Kharif,0.87,36.6,1660,6
+Plough,20,Kurnool,Paddy,Ploughing,10,Rabi,0.46,12.8,2500,11
+Sprayer,20,Nellore,Chilli,Spraying,4,Rabi,0.63,35.1,1770,2
+Combine Harvester,35,Narasaraopet,Wheat,Harvesting,6,Summer,0.23,6.1,9730,5
+Plough,40,Eluru,Groundnut,Ploughing,2,Kharif,0.63,7.4,780,8
+Harvester,35,Machilipatnam,Maize,Harvesting,6,Summer,0.44,10.9,7780,4
+Tractor,45,Warangal,Groundnut,Sowing,8,Rabi,0.39,21.1,2880,1
+Tractor,35,Nellore,Paddy,Transplanting,2,Rabi,0.64,27.8,1050,2
+Sprayer,20,Hyderabad,Chilli,Spraying,8,Summer,0.27,5.3,2260,4
+Thresher,30,Hyderabad,Paddy,Threshing,16,Kharif,1.0,21.1,13550,10
+Thresher,40,Eluru,Maize,Threshing,6,Rabi,0.89,3.3,4960,11
+Tractor,45,Kurnool,Paddy,Transplanting,16,Rabi,0.89,28.4,6380,12
+Paddy Transplanter,40,Nellore,Paddy,Transplanting,2,Kharif,0.8,23.0,1990,8
+Plough,20,Ongole,Sugarcane,Ploughing,2,Kharif,0.82,2.3,630,10
+Seed Drill,20,Kurnool,Cotton,Sowing,10,Rabi,0.76,23.9,3750,3
+Tractor,45,Guntur,Sugarcane,Transport,8,Kharif,0.9,38.8,3760,7
+Seed Drill,20,Khammam,Turmeric,Sowing,10,Rabi,0.41,10.4,3210,1
+Tractor,35,Machilipatnam,Sugarcane,Tilling,2,Kharif,0.56,4.0,860,10
+Tiller,40,Vijayawada,Paddy,Tilling,6,Kharif,0.44,40.9,3080,7
+Harvester,50,Eluru,Sugarcane,Harvesting,10,Summer,0.51,13.0,13000,4
+Paddy Transplanter,30,Guntur,Paddy,Transplanting,10,Kharif,0.62,12.8,8260,6
+Tractor,50,Eluru,Cotton,Spraying,6,Kharif,0.94,23.5,3250,9
+Thresher,40,Tenali,Maize,Threshing,2,Kharif,0.88,6.0,1610,9
+Sprayer,30,Machilipatnam,Cotton,Spraying,10,Kharif,0.68,16.4,3320,6
+Combine Harvester,40,Machilipatnam,Wheat,Harvesting,10,Rabi,0.53,1.5,20930,1
+Tractor,35,Guntur,Maize,Sowing,2,Kharif,0.71,41.0,1390,9
+Seed Drill,40,Warangal,Cotton,Sowing,2,Kharif,0.6,30.2,1330,9
+Tractor,60,Warangal,Cotton,Ploughing,16,Summer,0.69,23.4,6330,5
+Sprayer,40,Ongole,Chilli,Spraying,6,Kharif,0.44,29.8,2480,10
+Harvester,40,Kurnool,Maize,Harvesting,16,Rabi,0.54,25.0,20480,2
+Seed Drill,30,Narasaraopet,Maize,Sowing,4,Rabi,0.72,41.0,2330,1
+Plough,40,Guntur,Wheat,Ploughing,2,Summer,0.64,36.6,1100,4
+Tractor,55,Kurnool,Wheat,Ploughing,10,Rabi,0.65,37.0,3980,3
+Harvester,55,Warangal,Paddy,Harvesting,4,Kharif,0.88,30.7,8640,10
+Sprayer,40,Kurnool,Chilli,Spraying,10,Rabi,0.55,11.0,2930,1
+Thresher,30,Warangal,Paddy,Threshing,10,Kharif,1.0,1.3,7710,7
+Harvester,75,Hyderabad,Sugarcane,Harvesting,4,Kharif,0.88,22.4,10090,8
+Tractor,55,Ongole,Maize,Sowing,2,Kharif,0.72,29.5,1390,10
+Tractor,40,Ongole,Chilli,Spraying,4,Summer,0.5,11.2,1510,5
+Tiller,20,Narasaraopet,Chilli,Tilling,8,Rabi,0.35,1.2,2110,2
+Tractor,60,Hyderabad,Cotton,Ploughing,4,Kharif,0.54,4.1,2130,6
+Tiller,30,Vijayawada,Sugarcane,Tilling,6,Kharif,0.73,8.4,2680,8
+Trailer,40,Machilipatnam,Chilli,Transport,10,Rabi,0.69,44.0,3020,1
+Thresher,30,Narasaraopet,Maize,Threshing,6,Kharif,0.71,25.3,4260,9
+Seed Drill,30,Nellore,Maize,Sowing,4,Rabi,0.69,36.9,2050,12
+Thresher,30,Nellore,Wheat,Threshing,2,Kharif,0.69,10.8,1410,9
+Tractor,50,Khammam,Turmeric,Sowing,10,Rabi,0.29,2.5,3200,3
+Harvester,60,Warangal,Sugarcane,Harvesting,2,Kharif,0.62,8.9,3680,6
+Tractor,35,Kurnool,Chilli,Spraying,8,Summer,0.6,15.7,2410,4
+Seed Drill,40,Tenali,Cotton,Sowing,8,Rabi,0.41,11.2,2980,1
+Thresher,40,Nellore,Maize,Threshing,4,Kharif,0.48,24.1,2780,9
+Cultivator,20,Narasaraopet,Paddy,Ploughing,8,Kharif,0.56,23.0,2630,7
+Thresher,20,Narasaraopet,Wheat,Threshing,8,Kharif,0.9,30.3,5610,8
+Thresher,40,Ongole,Maize,Threshing,2,Rabi,0.55,7.9,1310,12
+Thresher,40,Hyderabad,Maize,Threshing,10,Rabi,0.57,23.5,7510,12
+Combine Harvester,60,Guntur,Wheat,Harvesting,16,Rabi,0.39,13.3,34240,2
+Sprayer,30,Kurnool,Chilli,Spraying,6,Kharif,0.84,13.3,2310,6
+Combine Harvester,50,Eluru,Wheat,Harvesting,4,Summer,0.66,12.8,9980,5
+Harvester,60,Vijayawada,Groundnut,Harvesting,4,Kharif,0.78,36.1,9670,7
+Paddy Transplanter,40,Vijayawada,Paddy,Transplanting,8,Rabi,0.79,40.2,7240,1
+Sprayer,20,Tenali,Cotton,Spraying,4,Summer,0.63,37.3,1600,4
+Trailer,30,Narasaraopet,Cotton,Transport,10,Kharif,0.51,22.6,2770,9
+Cultivator,40,Vijayawada,Paddy,Ploughing,16,Rabi,0.38,1.2,5270,3
+Trailer,30,Tenali,Sugarcane,Transport,2,Summer,0.56,2.3,530,4
+Tractor,75,Eluru,Turmeric,Sowing,4,Kharif,0.99,5.7,2130,6
+Tractor,60,Ongole,Paddy,Transplanting,6,Rabi,0.49,5.3,2320,2
+Trailer,30,Ongole,Chilli,Transport,4,Summer,0.27,24.1,1150,4
+Tractor,75,Guntur,Paddy,Transplanting,6,Summer,0.45,10.3,2360,4
+Thresher,30,Guntur,Wheat,Threshing,6,Rabi,0.69,11.4,3960,11
+Tractor,40,Eluru,Cotton,Spraying,16,Rabi,0.51,15.0,5260,12
+Tractor,55,Machilipatnam,Turmeric,Sowing,2,Rabi,0.36,7.9,900,3
+Sprayer,40,Hyderabad,Cotton,Spraying,2,Kharif,0.59,28.6,1350,7
+Paddy Transplanter,40,Narasaraopet,Paddy,Transplanting,16,Kharif,0.57,42.2,11140,9
+Rotavator,20,Machilipatnam,Paddy,Tilling,2,Rabi,0.65,19.5,1200,1
+Tractor,60,Guntur,Chilli,Transport,16,Kharif,0.73,34.3,7630,10
+Sprayer,30,Nellore,Cotton,Spraying,16,Kharif,0.36,5.2,4290,7
+Harvester,55,Narasaraopet,Paddy,Harvesting,2,Summer,0.64,9.5,3050,5
+Thresher,30,Nellore,Wheat,Threshing,2,Rabi,0.47,39.6,1630,11
+Harvester,35,Ongole,Wheat,Harvesting,4,Kharif,0.47,4.0,5810,7
+Seed Drill,40,Machilipatnam,Wheat,Sowing,16,Rabi,0.43,6.4,5570,1
+Paddy Transplanter,40,Eluru,Paddy,Transplanting,2,Kharif,0.97,5.4,1930,6
+Tractor,50,Vijayawada,Chilli,Transport,10,Kharif,0.88,22.8,4840,8
+Tractor,60,Tenali,Turmeric,Transport,4,Kharif,0.7,41.8,2590,7
+Combine Harvester,40,Tenali,Sugarcane,Harvesting,2,Rabi,0.65,5.7,5060,2
+Thresher,40,Ongole,Maize,Threshing,10,Rabi,0.71,4.4,6240,1
+Tractor,50,Guntur,Cotton,Ploughing,10,Rabi,0.72,28.4,4310,1
+Tractor,45,Nellore,Paddy,Transplanting,16,Kharif,0.4,8.0,5230,10
+Combine Harvester,55,Machilipatnam,Sugarcane,Harvesting,8,Rabi,0.58,6.0,18820,1
+Paddy Transplanter,30,Narasaraopet,Paddy,Transplanting,16,Kharif,0.89,26.7,12280,9
+Combine Harvester,60,Narasaraopet,Wheat,Harvesting,2,Rabi,0.33,3.2,4840,12
+Paddy Transplanter,30,Tenali,Paddy,Transplanting,2,Rabi,0.39,44.4,1880,2
+Tractor,40,Narasaraopet,Sugarcane,Ploughing,6,Rabi,0.73,2.0,2420,2
+Cultivator,40,Guntur,Sugarcane,Ploughing,10,Kharif,0.96,9.6,3970,6
+Rotavator,20,Tenali,Sugarcane,Tilling,6,Kharif,0.98,26.6,3480,10
+Thresher,20,Guntur,Wheat,Threshing,10,Kharif,0.45,39.1,6290,10
+Tractor,35,Ongole,Cotton,Spraying,4,Kharif,0.64,18.2,1860,10
+Tractor,40,Machilipatnam,Wheat,Sowing,8,Rabi,0.44,40.2,3150,3
+Tractor,55,Guntur,Wheat,Sowing,2,Rabi,0.38,1.5,750,11
+Thresher,20,Ongole,Maize,Threshing,2,Kharif,0.79,9.2,1320,7
+Rotavator,40,Hyderabad,Turmeric,Tilling,8,Kharif,0.78,8.4,4730,10
+Combine Harvester,35,Vijayawada,Groundnut,Harvesting,4,Rabi,0.36,7.6,9410,3
+Tractor,45,Vijayawada,Cotton,Spraying,6,Kharif,0.51,2.0,2710,9
+Tractor,35,Eluru,Turmeric,Sowing,10,Rabi,0.53,7.0,3460,1
+Seed Drill,40,Narasaraopet,Groundnut,Sowing,10,Kharif,0.66,40.1,4970,8
+Combine Harvester,55,Nellore,Paddy,Harvesting,2,Summer,0.26,42.5,4240,5
+Tractor,50,Nellore,Groundnut,Ploughing,16,Kharif,0.54,1.8,5620,10
+Trailer,30,Kurnool,Cotton,Transport,6,Kharif,0.61,22.7,2140,6
+Harvester,75,Guntur,Maize,Harvesting,4,Rabi,0.79,21.4,7690,3
+Tractor,50,Khammam,Chilli,Spraying,16,Kharif,0.5,1.6,6240,7
+Plough,40,Ongole,Groundnut,Ploughing,10,Kharif,0.9,44.4,3850,10
+Sprayer,30,Vijayawada,Cotton,Spraying,6,Summer,0.45,14.4,1920,5
+Thresher,20,Eluru,Paddy,Threshing,4,Kharif,0.61,13.5,2680,6
+Thresher,30,Machilipatnam,Wheat,Threshing,10,Rabi,0.72,31.3,6390,11
+Tractor,35,Nellore,Sugarcane,Tilling,4,Kharif,0.96,15.0,1820,7
+Cultivator,40,Eluru,Paddy,Ploughing,4,Rabi,0.68,25.2,1750,11
+Tractor,50,Khammam,Paddy,Transplanting,16,Rabi,0.43,42.1,5460,11
+Tractor,35,Vijayawada,Paddy,Transplanting,8,Summer,0.78,4.2,3120,4
+Tractor,40,Machilipatnam,Paddy,Transplanting,4,Kharif,1.0,38.0,2430,6
+Combine Harvester,40,Eluru,Groundnut,Harvesting,4,Kharif,0.98,38.2,13080,7
+Thresher,20,Eluru,Paddy,Threshing,4,Kharif,0.61,21.6,2700,9
+Trailer,20,Narasaraopet,Turmeric,Transport,2,Rabi,0.18,29.8,830,1
+Tractor,55,Vijayawada,Paddy,Transplanting,16,Kharif,0.52,10.0,6210,6
+Sprayer,30,Vijayawada,Cotton,Spraying,6,Kharif,0.62,4.1,2370,8
+Trailer,20,Kurnool,Chilli,Transport,16,Rabi,0.7,44.3,4240,12
+Tractor,45,Vijayawada,Cotton,Sowing,2,Rabi,0.59,12.6,1060,11
+Thresher,40,Nellore,Maize,Threshing,10,Rabi,0.51,12.0,5800,11
+Tractor,55,Eluru,Paddy,Transplanting,2,Rabi,0.42,32.0,1260,11
+Seed Drill,40,Warangal,Cotton,Sowing,6,Rabi,0.7,38.5,3350,12
+Trailer,20,Kurnool,Cotton,Transport,10,Summer,0.53,29.1,2510,5
+Tractor,60,Kurnool,Turmeric,Transport,16,Kharif,0.53,24.4,6400,7
+Cultivator,40,Warangal,Cotton,Ploughing,10,Rabi,0.76,38.1,3660,2
+Tractor,60,Machilipatnam,Sugarcane,Tilling,4,Summer,0.56,14.6,1600,4
+Combine Harvester,75,Guntur,Maize,Harvesting,2,Kharif,0.76,10.8,7080,9
+Thresher,30,Guntur,Maize,Threshing,6,Rabi,0.56,30.9,4390,3
+Tractor,50,Nellore,Turmeric,Transport,2,Kharif,0.65,18.7,1150,8
+Tractor,55,Tenali,Turmeric,Transport,2,Kharif,1.0,33.6,1610,6
+Tractor,45,Machilipatnam,Cotton,Spraying,4,Kharif,0.71,35.6,2200,7
+Combine Harvester,50,Warangal,Wheat,Harvesting,16,Summer,0.57,11.6,35600,4
+Seed Drill,40,Machilipatnam,Groundnut,Sowing,6,Rabi,0.63,44.1,2980,1
+Tractor,75,Warangal,Cotton,Transport,6,Rabi,0.33,14.4,2750,1
+Rotavator,40,Ongole,Chilli,Tilling,8,Kharif,1.0,34.6,4470,7
+Cultivator,20,Hyderabad,Wheat,Ploughing,2,Rabi,0.37,11.4,830,12
+Harvester,60,Kurnool,Wheat,Harvesting,2,Kharif,0.84,27.4,3510,8
+Harvester,75,Vijayawada,Paddy,Harvesting,10,Kharif,0.51,19.9,18720,7
+Cultivator,20,Ongole,Sugarcane,Tilling,16,Kharif,0.62,23.7,5050,7
+Plough,40,Machilipatnam,Cotton,Ploughing,8,Kharif,0.81,15.5,2940,7
+Tractor,50,Hyderabad,Cotton,Spraying,4,Rabi,0.47,3.1,1710,11
+Sprayer,30,Warangal,Chilli,Spraying,4,Rabi,0.53,2.0,1350,3
+Cultivator,30,Machilipatnam,Paddy,Tilling,6,Kharif,0.76,13.7,2120,8

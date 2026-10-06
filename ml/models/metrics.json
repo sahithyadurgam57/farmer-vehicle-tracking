@@ -1,0 +1,34 @@
+{
+  "best_model": "Gradient Boosting",
+  "results": {
+    "Linear Regression": {
+      "MAE": 1289.1,
+      "RMSE": 2244.8,
+      "R2": 0.8152
+    },
+    "Random Forest": {
+      "MAE": 358.3,
+      "RMSE": 625.0,
+      "R2": 0.9857
+    },
+    "Gradient Boosting": {
+      "MAE": 372.4,
+      "RMSE": 622.5,
+      "R2": 0.9858
+    }
+  },
+  "importance": {
+    "vehicle_type": 0.12366971719383982,
+    "location": 0.004726504876181642,
+    "crop": 0.00047204076605302745,
+    "activity": 0.4563329027272907,
+    "season": 0.009160103926064402,
+    "horsepower": 0.001832406572674105,
+    "duration_hours": 0.3919950576584193,
+    "demand": 0.01061513074574427,
+    "distance_km": 0.0011961355337329227
+  },
+  "n_train": 2400,
+  "n_test": 600,
+  "note": "Trained on simulated/historical-style rental data; retrain with real bookings later."
+}
